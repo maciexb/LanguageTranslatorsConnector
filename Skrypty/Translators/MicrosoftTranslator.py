@@ -1,8 +1,8 @@
 import requests, uuid
 
 class MicrosoftTranslator:
-    subscription_key = "c62bff9c4fb24c93a5bd8bdd121074fa"
-    endpoint = "https://api.cognitive.microsofttranslator.com/"
+    subscription_key = "xxx"
+    endpoint = "xxx"
     
     # Add your subscription key and endpoint
         
