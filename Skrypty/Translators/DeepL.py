@@ -2,7 +2,7 @@ import requests
 
 class DeepL:
 
-    auth_key = 'b6d509df-301f-1b2c-8e7c-ec5e82ec108c'
+    auth_key = 'xxx'
 
     def translate_text(self, target, text):
         self.r =  requests.post(url='https://api.deepl.com/v2/translate',
