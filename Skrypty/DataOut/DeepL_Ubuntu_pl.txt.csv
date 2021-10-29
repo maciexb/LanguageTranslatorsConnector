@@ -1,0 +1,1001 @@
+,Sentences_from,Sentences_to,Translated_sentences,BLEU
+0,Edytor i wprowadzanie danych eksploracji jaskiń dla programu Survex,Enter cave survey data for Survex,Cave exploration editor and data entry for Survex,0.0
+1,Znajdź i połącz z serwerami gry,Locate and connect to game servers,Find and connect to game servers,0.76
+2,"Program dla graczy, umożliwiający szybką i wysokiej jakości komunikację","A low-latency, high quality voice chat program for gaming","Software for gamers, enabling fast and high quality communication",0.0
+3,"Powszechnie używane programy z ograniczonymi dla Kubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash)","Commonly used applications with restricted copyright for kubuntu (mp3, avi, mpeg, TrueType, Java, Flash)","Commonly used programs with proprietary rights restricted for Kubuntu (mp3, avi, mpeg, TrueType, Java, Flash)",0.548
+4,"Graficzna administracja kluczami cyfrowymi, używanymi przez APT",Graphical administration tool for digital keys used with APT,Graphical administration of digital keys used by APT,0.0
+5,%s: Napotkano błędy podczas przetwarzania. Proces przerwano.,%s: Errors found during postprocessing. Aborting.,%s: Processing errors were encountered. The process was aborted.,0.0
+6,Zebrane informacje są wysyłane do systemu śledzenia błędów. To może potrwać kilka minut.,The collected information is being sent to the bug tracking system. This might take a few minutes.,The collected information is sent to the bug tracking system. This may take a few minutes.,0.642
+7,Wysyła pliki RAW do zewnętrznego edytora za pomocą linii poleceń,Send RAW files to external editor on command line,Sends RAW files to an external editor using the command line,0.0
+8,"Parametry strumienia to %iHz, %s, %i kanał/ów","Stream parameters are %iHz, %s, %i channels","Flux parameters are %iHz, %s, %i channel(s)",0.809
+9,Interfejs graficzny do oszukiwania w grze Scanmen,A game hacking tool. A GUI front-end for scanmem.,The graphical interface for cheating in Scanmen,0.0
+10,Aplet panelu do odnawiania list autoryzacji,Panel Applet to renew authentication credentials,Panel applet for renewing authorization lists,0.0
+11,Narzędzie do eksploracji sieci i skanowania portów,Explore the network and scan ports,Network exploration and port scanning tool,0.0
+12,"Podrzucaj klaunów i rozbijaj nimi balony tak, aby nie spadli na ziemię",Throw the clowns before they fall and hit the balloons with them,Toss the clowns and burst the balloons with them so they don't fall to the ground,0.2
+13,Symulator podniebnych walk za sterami wojskowego myśliwca,Fly military aircraft in a combat situation,Simulator of sky battles at the helm of a military fighter,0.0
+14,Twoja misja: wygrać z obcymi. Trójwymiarowa gra wojenna,Mission and Objective based 3D Action Game,Your mission: to win against the aliens. Three-dimensional war game,0.0
+15,Pozwól komputerowi przeczytać dla Ciebie tekst,Let the computer read out text for you,Let the computer read the text for you,0.5
+16,"Program do edycji obrazów, oparty o VIPS",Image manipulation program based on VIPS,"Image editing software, based on VIPS",0.0
+17,Trójwymiarowa gra artyleryjska w stylu Scorched Earth,3D artillery game similar to Scorched Earth,A 3D artillery game in the style of Scorched Earth,0.0
+18,"-r,--real # konwertuje rzeczywisty znacznik czasowy na kolejkę","-r,--real # convert real-time-stamp on queue","-r,--real # convert real timestamp to queue",0.0
+19,Umożliwia swobodną organizację fotografii w urządzeniach iPod,"Organize photos on your iPod, freely!",Lets you organize your photos on your iPod with ease,0.276
+20,Rozpocznij poszukiwanie porwanej księżniczki i odkryj zbrodnicze intencje firmy Lederhosen,"Embark on a quest to rescue a kidnapped princess and in the process, discover the true sinister intentions of a suspiciously located Lederhosen company",Begin the search for the kidnapped princess and discover the criminal intentions of the Lederhosen,0.0
+21,"-s,--source addr : odczyt z danego adresu (klient:port)","-s,--source addr : read from given addr (client:port)","-s,--source addr : read from the given address (client:port)",0.394
+22,Pozwala na przeglądanie i instalację każdego spośród tysięcy programów dla Ubuntu,Lets you choose from thousands of applications available for Ubuntu,Allows you to browse and install any of the thousands of programs for Ubuntu,0.0
+23,Żyłka wędkarska nie nadaje się do czyszczenia zębów,Fishing wire makes bad dental floss,Fishing line is not suitable for cleaning teeth,0.0
+24,To działanie nie może zostać cofnięte. Usunąć tę aktywność?,"This operation cannot be undone, are you sure you want to delete this activity?",This activity cannot be undone. Remove this activity?,0.0
+25,"Prosty w użyciu, ładny, funkcjonalny klient gry w szachy dla GNOME","PyChess is a fully featured, nice looking, easy to use chess client for the Gnome desktop","Easy to use, pretty, functional chess client for GNOME",0.0
+26,Synchronizacja plików między komputerami oraz w internecie,Sync your files across computers and to the web,Synchronize files between computers and on the Internet,0.0
+27,%s: %s w linii %d standardowego wejścia,%s: %s in line %d of standard input,%s: %s on line %d of the standard input,0.0
+28,"Słownik, analizator użycia dysku twardego, przeglądarka plików raportów, narzędzie wyszukujące","Dictionary, Disk Usage Analyzer, Log File Viewer, Search Tool","Dictionary, hard disk usage analyzer, report file viewer, search tool",0.399
+29,"Umożliwia proste zarządzanie certyfikatami CA X.509, CSR, CRL w trybie graficznym","Manage X.509 certificates and CAs, easily and graphically","Enables simple management of CA X.509, CSR, CRL certificates in graphical mode",0.0
+30,Ustawiaj namioty na specjalnych polach według ustalonych zasad,"Place tents in some of the remaining squares, under some conditions",Place tents on special fields according to the rules,0.0
+31,Należy umieścić czwórkę kier obok trójki kier.,Place the four of hearts next to the three of hearts.,Place the four of hearts next to the three of hearts.,1.0
+32,%s: zapisanie całego profilu nie powiodło się,%s: Unable to write entire profile entry,%s: saving the entire profile failed,0.0
+33,Zgłasza błąd programu wskazanego kliknięciem w okno docelowe,Click a window as a target for filing a problem report.,Reports an error in the program indicated by clicking on the target window,0.0
+34,Wyświetla ponownie wyśledzone ślady stosu i pyta o potwierdzenie przez wysłaniem ich do bazy błędów.,Display retraced stack traces and ask for confirmation before sending them to the crash database.,Redisplays the traced stack traces and asks for confirmation before sending them to the error database.,0.471
+35,Aplet powiadomień poczty Gmail dla KDE,A Gmail notifier applet for KDE,Gmail notification applet for KDE,0.0
+36,"%s: analiza wiersza ""%s"" nie powiodła się",%s: Unable to parse input line '%s',%s: failed to parse line '%s',0.0
+37,Aplikacja do wyświetlania informacji o oknach i środowisku graficznym,A window information utility for X,Application for displaying information about windows and the graphical environment,0.0
+38,Należy umieścić damę kier obok waleta kier.,Place the queen of hearts next to the jack of hearts.,Place the Queen of hearts next to the Jack of hearts.,1.0
+39,"Przykładowe zgłoszenie zawiera informacje o pojemności dysku komputera, podłączonych urządzeniach czy ilości aktualnie uruchomionych programów.","This includes things like how many programs are running, how much disk space the computer has, and what devices are connected.","An example notification contains information about the capacity of the computer's disk, connected devices or the number of currently running programs.",0.0
+40,Łączy aplikacje audio i MIDI w jedną sesję dźwiękową,Connect audio and MIDI applications together and manage audio sessions,Combines audio and MIDI applications into one audio session,0.278
+41,Uniwersalny odtwarzacz filmów i piosenek karaoke,Universal karaoke songs and movies player,Universal karaoke video and song player,0.0
+42,"Roztop górę lodową na małe kawałki, aby uwięzić pingwiny!","Melt an iceberg into small pieces, in order to trap the penguins",Melt the iceberg into small pieces to trap the penguins!,0.437
+43,Przeglądaj system plików z menedżerem plików,Browse the filesystem with the file manager,Browse the file system with the file manager,0.424
+44,Program do tworzenia diagramów TikZ (z pakietu LaTeX pgf),Program for creating TikZ (from the LaTeX pgf package) diagrams,Program to create TikZ diagrams (from LaTeX pgf package),0.0
+45,Wieloplatformowy interfejs dla skanera bezpieczeństwa Nmap,A cross-platform GUI for the Nmap Security Scanner.,Multi-platform interface for Nmap security scanner,0.0
+46,"Analiza filogenezy oraz dopasowań sekwencji DNA, RNA, białek, peptydów i nukleotydów",Global multiple nucleotide or peptide sequence alignment and phylogenetic analysis,"Analysis of phylogeny and sequence matches of DNA, RNA, proteins, peptides and nucleotides",0.0
+47,"Rozwijany emulator terminala, bazujący na technologii konsoli KDE",A drop-down terminal emulator based on KDE Konsole technology.,"Developed terminal emulator, based on KDE console technology",0.467
+48,Interfejs graficzny do zarządzania aplikacjami Screenlets,A graphical tool to manage your Screenlets.,Graphical interface for managing Screenlets applications,0.0
+49,Zostań dowódcą łodzi podwodnej w środowisku głębokiego oceanu,Command a submarine in a deep ocean environment,Become a submarine commander in a deep ocean environment,0.525
+50,"Trzymaj w ryzach zadania, zasoby i koszty swoich projektów","Handle the tasks, resources, and cost of your projects","Keep tasks, resources and costs of your projects in check",0.0
+51,Aplikacja do testowania wszystkich funkcji guiqwt.,you can use this applications to test all guiqwt features.,Application to test all guiqwt functions.,0.263
+52,"Przeglądarka biosygnałów EEG, EMG i ECG. http://sigviewer.sf.net","Viewer for biosignals such as EEG, EMG, and ECG. http://sigviewer.sf.net","Viewer of EEG, EMG and ECG biosignals. http://sigviewer.sf.net",0.302
+53,Mission Pack 2 dla klasycznej strzelanki FPS,Mission Pack 2 for the classic first person shooter,Mission Pack 2 for the classic FPS shooter,0.61
+54,Podłączenie do maszyn zdalnych z użyciem Secure Shell,Connect to a remote computer using Secure Shell,Connecting to remote machines using Secure Shell,0.0
+55,"Ścieżka do pliku z danymi uwierzytelnienia bazy danych problemów. Opcja używana podczas podawania identyfikatora problemu w celu przesłania ponownie prześledzonego śladu stosu (tylko jeśli nie użyto -g, -o, oraz -s)","Path to a file with the crash database authentication information. This is used when specifying a crash ID to upload the retraced stack traces (only if neither -g, -o, nor -s are specified)","Path to the problem database authentication file. Option used when specifying the problem ID to resubmit the traced stack trace (only if -g, -o, and -s are not used)",0.0
+56,Menedżer LAN z powłoką do zdalnego wykonywania poleceń,Remote shell command executor and LAN manager,LAN manager with shell for remote command execution,0.0
+57,Synchronizacja plików pomiędzy wieloma komputerami z systemem kontroli wersji (domyślnie z Git),Synchronize and version your files across multiple computers with distributed version control (by default with Git),Synchronize files between multiple computers with version control system (with Git by default),0.0
+58,"-d, --default wyświetlenie domyślnej listy kontroli dostępu","-d, --default display the default access control list","-d, --default to display the default access control list",0.675
+59,"-m, --modify=acl zmiana aktualnego(ych) ACL(-i) pliku(ów) -M, --modify-file=plik odczyt z pliku pozycji ACL do zmodyfikowania -x, --remove=acl usunięcie wpisów z ACL(-i) pliku(ów) -X, --remove-file=plik odczyt z pliku pozycji ACL do usunięcia -b, --remove-all usunięcie wszystkich rozszerzonych pozycji ACL -k, --remove-default usunięcie domyślnego ACL","-m, --modify=acl modify the current ACL(s) of file(s) -M, --modify-file=file read ACL entries to modify from file -x, --remove=acl remove entries from the ACL(s) of file(s) -X, --remove-file=file read ACL entries to remove from file -b, --remove-all remove all extended ACL entries -k, --remove-default remove the default ACL","-m, --modify=acl changing the current ACL(s) of the file(s) -M, --modify-file=file reading from the file the ACL entries to modify -x, --remove=acl removing entries from the ACL(s) of the file(s) -X, --remove-file=file reading from the file the ACL entries to remove -b, --remove-all removing all extended ACL entries -k, --remove-default removing the default ACL",0.371
+60,Dodaje dodatkową etykietę do zgłoszenia. Można użyć kilkukrotnie.,Add an extra tag to the report. Can be specified multiple times.,Adds an additional label to the submission. Can be used multiple times.,0.0
+61,%s: nie można odczytać domyślnego ACL dla '%s': %s,%s: cannot get default ACL on '%s': %s,%s: unable to read default ACL for '%s': %s,0.0
+62,Interfejs graficzny Qt dla GNU Octave,Graphical Qt frontend for GNU Octave,Qt GUI for GNU Octave,0.0
+63,Wersja profilu nie jest obsługiwana przez moduł Apparmor,Profile version not supported by Apparmor module,Profile version is not supported by the Apparmor module,0.0
+64,Demontaż stosu kafli poprzez usuwanie pasujących par,Disassemble a pile of tiles by removing matching pairs,Dismantling a tile stack by removing matching pairs,0.316
+65,Procesor czasu rzeczywistego audio bazujący na manipulacji spektrum częstotliwości,Realtime audio processor based on frequency spectral manipulation,Real-time audio processor based on frequency spectrum manipulation,0.707
+66,%s: przydzielenie pamięci dla punktu montowania bazy poddomeny nie powiodło się,%s: Could not allocate memory for subdomainbase mount point,%s: memory allocation for subdomain base mount point failed,0.0
+67,"Administracja serwerem plików, drukowania oraz domen SAMBA","SAMBA file, print and domain server administration","Administration of SAMBA file, print and domain servers",0.558
+68,Niewielki menedżer plików dla X Window,A lightweight file manager for X Window,A small file manager for X Window,0.643
+69,Należy przenieść ~a na siódemkę trefl.,Move ~a onto the seven of clubs.,You should move ~a to the seven of clubs.,0.367
+70,Błąd w profilu %s. Wczytanie nie powiodło się.,"ERROR in profile %s, failed to load",Error in profile %s. Load failed.,0.455
+71,Program transferu danych dla Sony HiMD Walkman,Transfer software for Sony HiMD Walkman,Data transfer program for Sony HiMD Walkman,0.455
+72,Odtwórz i sprawdź ślady generowane przez apitrace,Play back and inspect traces generated by apitrace,Play and check the tracks generated by apitrace,0.0
+73,Analizator danych statystycznych - darmowa alternatywa dla SPSS,Analyze statistical data with a free alternative to SPSS,Statistical Data Analyzer - the free alternative to SPSS,0.355
+74,Zagraj w oryginalną gre Quake III Arena,Play the original Quake III Arena,Play the original Quake III Arena,1.0
+75,Należy przenieść ~a na puste dolne miejsce.,Move ~a onto an empty bottom slot.,Move ~a to the empty bottom space.,0.0
+76,Edytor tagów MP3 i Ogg Vorbis,MP3 and Ogg Vorbis tag editor,MP3 and Ogg Vorbis tag editor,1.0
+77,Należy przenieść ~a na ósemkę trefl.,Move ~a onto the eight of clubs.,You should move ~a to the eight of clubs.,0.367
+78,Dwuwymiarowa gra w stylu kultowych platformówek,A 2D platform game with style similar to classic sidescroller games,Two-dimensional game in the style of cult platformers,0.0
+79,Profesjonalne zarządzanie fotografiami dzięki potędze otwartego oprogramowania,Manage your photographs like a professional with the power of open source,Professional photo management through the power of open source software,0.332
+80,Należy przenieść ~a na siódemkę karo.,Move ~a onto the seven of diamonds.,Move ~a to the seven of diamonds.,0.489
+81,Konfiguracja obsługi wielu języków w systemie,Configure multiple and native language support on your system,Configuring multiple languages in the system,0.0
+82,Interfejs graficzny dla narzędzi do zarządzania dyskami,Configure LVM in a graphical setting,Graphical interface for disk management tools,0.0
+83,Zobacz wszystkie znaki czcionek we wszystkich rozmiarach.,View all characters of font in all sizes.,See all font characters in all sizes.,0.0
+84,Graj w gry z Sega Master System i Game Gear,Play Sega Master System and Game Gear games,Play games from the Sega Master System and Game Gear,0.569
+85,Chińska gra GO. Graj z drugim graczem lub komputerem,Play Go against human or computer opponents,Chinese GO Game. Play with another player or computer,0.0
+86,Wyświetla i modyfikuje atrybuty ACL oraz użytkownika plików lub folderów,View or change ACL and User Extended Attributes on files and directories,Displays and modifies ACL and user attributes of files or folders,0.0
+87,"Pozwala na tworzenie płyt video CD i DVD, które można później odtwarzać w domowych odtwarzaczach DVD","Allows to create video CDs and DVDs, suitable to be reproduced in home DVD players",Allows you to create video CDs and DVDs that can later be played on home DVD players,0.379
+88,"Gra typu puzzle, oparta na sześciokątnych elementach",Puzzle game based on hexagonal tiles,A puzzle game based on hexagonal pieces,0.643
+89,Interfejs graficzny umożliwiający bezproblemowe zapisywanie obrazów skanowanych obiektów w formacie PDF,A GUI to aid the scan-to-PDF process,Graphical interface for effortless saving of scanned object images in PDF format,0.0
+90,Program do powolnej obsługi alfabetu Morse'a (CW QRSS) na dwóch częstotliwościach (DFCW),slow CW (QRSS) / dual-frequency CW (DFCW),Program for slow Morse code (CW QRSS) on two frequencies (DFCW),0.0
+91,Chinese Input Method (Use Light weight UI),Chinese Input Method (Use Light weight UI),Chinese Input Method (Use Light weight UI),1.0
+92,Dwuwymiarowa wojna czołgów dla kilku graczy z dzielonym ekranem,fast 2D tank arcade game with multiplayer and split-screen modes,Two-dimensional multiplayer tank war with split screen,0.0
+93,Powiadamianie o nowych wiadomościach poczty e-mail,Gnubiff is a mail notification program.,Notification of new e-mails,0.0
+94,Zarządzanie harmonogramem nagrań oraz przegląd EPG stacji telewizyjnych,Schedule recordings and browse program guide,Schedule management and TV station EPG overview,0.0
+95,Pokazuje status instancji EC2 uruchomionych na określonym koncie.,Shows Status of EC2 instances running on given account.,Shows the status of EC2 instances running on the specified account.,0.505
+96,%s: wewnętrzne przepełnienie bufora; przekroczono %d znaków,"%s: Internal buffer overflow detected, %d characters exceeded",%s: internal buffer overflow; %d characters exceeded,0.5
+97,Optymalizacja prawdopodobieństwa znalezienia sex partnera na stronach randkowych,Optimize your probabilities to have sex on dating websites,Optimizing the probability of finding a sex partner on dating sites,0.0
+98,Dodanie informacji o czasie do logów dla operacji trybu wsadowego (batch operation),"Prepend timestamps to log messages, for batch operation",Add time information to logs for batch operation,0.0
+99,Błąd alokacji pamięci: Nie można usunąć ^%s,Memory Allocation Error: Unable to remove ^%s,Memory allocation error: Unable to delete ^%s,0.643
+100,Należy przenieść ~a na puste miejsce rezerwy.,Move ~a onto an empty reserve slot.,Move ~a to the empty reserve space.,0.0
+101,Konfiguracja i zarządzenie kontem Ubuntu One,Configure and manage your Ubuntu One account,Configuring and managing your Ubuntu One account,0.435
+102,Tworzy kopie zapasowe oraz synchronizuje dane,Backup & sync your data with the power of rsync,Backs up and synchronizes data,0.0
+103,"Klon gry ""Nebulus"", znanej ze starych 8 i 16 bitowych komputerów",A clone of the 'Nebulus' game on old 8 and 16 bit machines.,"Clone of the game ""Nebulus"", known from old 8 and 16 bit computers",0.409
+104,Należy przenieść ~a na damę pik.,Move ~a onto the queen of spades.,You should move ~a to the queen of spades.,0.367
+105,"Ten błąd został już zgłoszony w raporcie wyświetlonym w przeglądarce internetowej. Proszę sprawdzić, czy można dodać jakiekolwiek dalsze informacje, które mogą być pomocne twórcom programu.",This problem was already reported in the bug report displayed in the web browser. Please check if you can add any further information that might be helpful for the developers.,This error has already been reported in the report displayed in your web browser. Please see if you can add any further information that may be helpful to the developers.,0.392
+106,Prosta aplikacja do komunikacji przez podczerwień (port IrDA),A simple OBEX file transfer applet,Simple application for communication via infrared (IrDA port),0.0
+107,Odtwarzacz wideo z funkcją synchronizacji gniazda Jack oraz MIDI,A simple video player that gets sync from jack transport.,Video player with synchronization function of jack and MIDI sockets,0.0
+108,Łap złych przeciwników w bańki i eliminuj ich. Opcja gry dla wielu zawodników z obsługą sieci.,Kill evil enemies by catching them into bubbles and smashing those,Catch bad opponents in bubbles and eliminate them. Multi-player option with network support.,0.0
+109,Należy przenieść ~a na piątkę trefl.,Move ~a onto the five of clubs.,You should move ~a to the five of clubs.,0.367
+110,Zarządzanie i konfiguracja JACK i ladish,Manage and configure JACK and ladish,Management and configuration of JACK and Ladish,0.0
+111,"Aplikacja dla radioamatorów, zapisująca dane QSO dla LoTW",Sign QSO data for upload to LoTW,"Application for radio amateurs, recording QSO data for LoTW",0.0
+112,Błąd: katalog bazowy %s nie jest katalogiem. Pominięto.,"Error: basedir %s is not a directory, skipping.",Error: base directory %s is not a directory. Omitted.,0.478
+113,Wyświetla analogowe dane wyjścia układów elektronicznych np. programu Spice,A waveform viewer eg for spice simulators,Displays analog output data of electronic circuits e.g. Spice program,0.0
+114,Zestaw narzędzi graficznych do tworzenia i zarządzania bazami danych,A graphical toolkit for database administration and development,A set of graphical tools for creating and managing databases,0.0
+115,Symulator różnych typów liczydeł (wersja Motif),simulation of the ancient calculator (Motif version),Simulator of different types of abacus (Motif version),0.0
+116,Narzędzie do teorii grafów dla profesorów i studentów,Graph Theory Tool for Professors and Students.,A graph theory tool for professors and students,0.867
+117,Należy przenieść ~a na siódemkę kier.,Move ~a onto the seven of hearts.,Move ~a to direction seven.,0.0
+118,Narzędzie do śledzenia cykli menstruacyjnych i przewidywania okresów płodności,Utility for tracking menstrual cycles and predicting fertility periods,A tool to track menstrual cycles and predict fertile periods,0.0
+119,Zanim przejdziesz przez ulicę rozejrzyj się na obie strony,Look both ways before you cross the street,Look both ways before you cross the street,1.0
+120,Interfejs graficzny dla serwera muzyki Ampache,Stand alone front end for Ampache.,Graphical interface for Ampache music server,0.0
+121,Twórz interaktywne aplety i konstrukcje matematyczne,Create interactive mathematical constructions and applets.,Create interactive applets and mathematical constructions,0.0
+122,%s: nie można odczytać domyślnego tekstu ACL dla '%s': %s,%s: cannot get default ACL text on '%s': %s,%s: unable to read default ACL text for '%s': %s,0.0
+123,Konfiguracja IcedTea Web (javaws orz plugin),Configure IcedTea Web (javaws and plugin),IcedTea Web Configuration (javaws and plugin),0.0
+124,Należy przenieść ~a na czwórkę trefl.,Move ~a onto the four of clubs.,Move ~a to the four of clubs.,0.489
+125,Symuluje proces prześwietlania promieniami rentgenowskimi za pomocą tomografu komputerowego,Simulate the process of X-ray Computed Tomography,Simulates the X-ray process using a CT scanner,0.0
+126,Pięknie i profesjonalnie łączy zdjęcia z Twojej kolekcji,Create beautiful and professional photo layouts from your photos,Beautifully and professionally blends the photos in your collection,0.0
+127,Należy umieścić damę karo obok waleta karo.,Place the queen of diamonds next to the jack of diamonds.,Place the Queen of diamonds next to the Jack of diamonds.,1.0
+128,%s: %s w linii %d pliku %s,%s: %s in line %d of file %s,%s: %s on line %d of file %s,0.595
+129,Dodaje tekst i komentarze do dokumentów PDF oraz PostScript,Add text and annotations to PDF and PostScript documents,Adds text and comments to PDF and PostScript documents,0.513
+130,"Dwuwymiarowa, strategiczna symulacja czasu rzeczywistego, skupiająca się na ekonomii i budowie budynków",A 2D real time strategy simulation with an emphasis on economy and city building,"Two-dimensional, real-time strategy simulation with a focus on economics and building construction",0.0
+131,Sprawdź i porównaj zainstalowane profile kolorów,Inspect and compare installed color profiles,Check and compare installed color profiles,0.76
+132,Odnajdywanie energii linii spektralnych promieniowania X,Find the energy of X-ray spectral lines,Finding the energy of X-ray spectral lines,0.809
+133,Pobiera i uruchamia obraz ISO Ubuntu w maszynie wirtualnej,Download and run an Ubuntu ISO in a Virtual Machine,Downloads and runs the Ubuntu ISO image in a virtual machine,0.294
+134,"Twórz notatki, łącz pomysły, zorganizuj swoje życie!","Take notes, link ideas, and stay organized","Create notes, combine ideas, organize your life!",0.0
+135,"Bazująca na libavg multidotykowa adaptacja popularnej gry Planarity, aka Untangle","A libavg based multitouch adaption of the popular game Planarity, aka Untangle","A libavg-based multi-touch adaptation of the popular game Planarity, aka Untangle",0.549
+136,Nie można ustawić n-cykli %u do odtwarzania: %s,Unable to set nperiods %u for playback: %s,Cannot set n-cycles %u to play: %s,0.0
+137,Uruchamia klienta Wicd bez ikony w obszarze powiadamiania,Start the Wicd client without system tray icon,Starts the Wicd client without an icon in the notification area,0.251
+138,Uruchomienie serwera LTSP z Live CD,Starts an LTSP server from the live CD,Running the LTSP server from the Live CD,0.68
+139,Program wizualizacji kryształów i struktur molekularnych,Crystalline and Molecular Structure Visualisation Program,Visualization program for crystals and molecular structures,0.0
+140,Odtwarzanie pliku Creative Labs Channel '%s'...,Playing Creative Labs Channel file '%s'...,Playing Creative Labs Channel '%s' file...,0.562
+141,Należy umieścić damę pik obok waleta pik.,Place the queen of spades next to the jack of spades.,Place the queen of spades next to the jack of spades.,1.0
+142,"Konwersja plików audio, ripowanie CD, narzędzie ReplayGain","Audio file converter, CD ripper and Replay Gain tool","Audio file conversion, CD ripping, ReplayGain utility",0.0
+143,Usuwa zrzut pamięci ze zgłoszenia po regeneracji śladu stosu.,Remove the core dump from the report after stack trace regeneration,Removes the memory dump from the request after regenerating the stack trace.,0.0
+144,Program do tworzenia i edycji projektów układów elektronicznych za pomocą xgsch2pcb,Create and edit electronics projects with xgsch2pcb,Program to create and edit electronic circuit designs with xgsch2pcb,0.0
+145,Zagraj w Go w trybie online i z komputerem. Przeglądaj i edytuj pliki SGF,"Play Go online and against computer, view and edit SGF files",Play Go online and with your computer. View and edit SGF files,0.641
+146,Zapis zrzutów ekranu w postaci pojedyńczych zdjęć lub filmu,Record a video or take a screenshot of your screen,Save screenshots as single images or video,0.0
+147,Notatnik z segregowaniem hierarchicznym do zapisywania notatek i pomysłów,hierarchical notebook to enter and manage notes and ideas,Notebook with hierarchical filing for jotting down notes and ideas,0.0
+148,"Tryb nieprawidłowy, w regułach zabraniających znacznik ""x"" nie może być poprzedzony znacznikiem wykonania ""i"", ""p"" lub ""u""","Invalid mode, in deny rules 'x' must not be preceded by exec qualifier 'i', 'p', or 'u'","Invalid mode, in forbidden rules, the ""x"" tag must not be preceded by the execution tag ""i"", ""p"" or ""u""",0.374
+149,Graficzny interfejs użytkownika dla zestawu mCRL2,Graphical front end for mCRL2 toolset,Graphical user interface for the mCRL2 kit,0.0
+150,"Pokaż wskaźnik Gnome - menu główne, klasyczne",Indicator applet to show the Gnome Classic main menu,"Show Gnome indicator - Main menu, classic",0.0
+151,"Brak wystarczającej ilości wolnego miejsca na dysku, aby przetworzyć to zgłoszenie.",There is not enough disk space available to process this report.,Not enough free disk space to process this request.,0.0
+152,"Przepraszamy, wystąpił błąd podczas instalowania oprogramowania.","Sorry, a problem occurred while installing software.","Sorry, an error occurred while installing your software.",0.0
+153,"Narzędzie dla nauczycieli pozwalające między innymi, na kontrolę komputerów uczniów",Teacher tool to control classroom computers,"A tool for teachers to, among other things, control their students' computers",0.0
+154,Proste lecz solidne narzędzie do nagrywania dźwięku,Simple but solid audio recording tool,A simple but robust audio recording tool,0.0
+155,Pełne wsparcie dla Funcube Dongle API firmware 18f lub późniejszych,full support for the Funcube Dongle API available with firmware 18f or later,Full support for Funcube Dongle API firmware 18f or later,0.357
+156,Określa program w trybie zgłaszania błędu. Dodaje do zgłoszenia większą ilość informacji (pid jest podany jako jedyny parametr).,"Specify a running program in --file-bug mode. If this is specified, the bug report will contain more information. (Implied if pid is given as only argument.)",Specifies the program in error reporting mode. Adds more information to the report (pid is given as the only parameter).,0.135
+157,Wznawianie zawiesiło się bardzo blisko końca tego procesu i wygląda na ukończony poprawnie.,The resume processing hung very near the end and will have appeared to have completed normally.,The resume hung very close to the end of this process and looks to have completed correctly.,0.0
+158,Na sześciokątnej sieci dopasuj do siebie spadające bloki,Fit falling blocks together on a hexagonal grid,Match the falling blocks on the hexagonal grid,0.0
+159,Pobieranie z sieci Usenet z pomocą plików NZB,Download from the Usenet with the help of NZB files,Downloading from Usenet with the help of NZB files,0.661
+160,Odeprzyj przeciwników wypełnieniając ich sieci odpadkami.,Defeat your opponent by filling up their grid up with garbage.,Fend off enemies by filling their nets with waste.,0.0
+161,Graficzny kreator Unixa dla elementów pośredniczących (wrapper) z GNUstep,Graphically create Unix application wrappers for GNUstep,Unix Graphical Designer for wrappers from GNUstep,0.0
+162,Zapis C# w interaktywnym shellu oraz wstrzykiwanie Twojego kodu do działających procesów,"Write C# in an interactive shell, and inject your code into running Mono processes",Writing C# in an interactive shell and injecting your code into running processes,0.545
+163,Opaski uciskowej należy używać wyłącznie w ostateczności,Tourniquets are not recommended unless in the direst emergency,A tourniquet should only be used as a last resort,0.0
+164,Tworzenie i edycja napisów do filmów i nagrań wideo.,Create and edit subtitles for film and videos.,Create and edit subtitles for movies and videos.,0.595
+165,Odbiornik audio sygnału IQ częstotliwości pośredniej,Audio IQ signal intermediate frequency receiver,Audio receiver for intermediate frequency IQ signal,0.0
+166,"Pozwala na błyskawiczne uruchamianie programów, odnajdywanie muzyki, kontaktów i wielu innych zawartości komputera","Do things as quickly as possible (but no quicker) with your files, bookmarks, applications, music, contacts, and more!","Allows you to instantly launch programs, find music, contacts and much more on your computer",0.0
+167,"Zegary dla różnych stref czasowych oraz alarmy, stoper i czasomierz","Clocks for world times, plus alarms, stopwatch and a timer","Timers for different time zones plus alarms, stopwatch and timer",0.291
+168,Dostęp do historii połączeń i książki telefonicznej Fritz!Box. Aplikacja powiadamia o połączeniach przychodzących i wychodzących,Access call history and phone book of your Fritz!Box and get notifications on incoming and outgoing calls.,Access to the call history and phone book of the Fritz!Box. The application notifies you of incoming and outgoing calls,0.376
+169,DXX-Rebirth port źródłowy gry Descent 2: Counterstrike z 1996...,DXX-Rebirth source port of Descent 2: Counterstrike from 1996...,DXX-Rebirth source port of the 1996 game Descent 2: Counterstrike...,0.399
+170,Należy umieścić karty w porządku najbardziej pasującym do obecnego układu.,Aim to place the suits in the order which fits the current layout most naturally.,Place the cards in the order that best fits the current layout.,0.265
+171,Należy umieścić trójkę pik obok dwójki pik.,Place the three of spades next to the two of spades.,The three of spades should be placed next to the two of spades.,0.585
+172,Interfejs graficzny dla CVS oraz Subversion,A graphical frontend to CVS and Subversion.,Graphical interface for CVS and Subversion,0.0
+173,"Nieograniczony znacznik wykonania (%c%c) zezwala na przekazywanie niebezpiecznych zmiennych środowiska do procesu. Więcej informacji można znaleźć w podręczniku systemowym ""man 5 apparmor.d"".",Unconfined exec qualifier (%c%c) allows some dangerous environment variables to be passed to the unconfined process; 'man 5 apparmor.d' for details.,"The unrestricted execution flag (%c%c) allows dangerous environment variables to be passed to the process. See the ""man 5 apparmor.d"" system manual for more information.",0.361
+174,Dzieli obraz na wiele stron gotowych do montażu w jeden duży plakat,Splits an image across multiple pages for assembly into a poster,Divides the image into multiple pages ready to be assembled into one large poster,0.0
+175,"Gra - układanka z rybą w roli głównej, mającej za zadanie uratowanie świata",Puzzle game about witty fish saving the world sokoban-style,"Game - a puzzle with a fish in the lead role, whose task is to save the world",0.0
+176,Odtwarzaj i zarządzaj swoją kolekcją multimediów,Play and organize your media collection,Play and manage your media collection,0.0
+177,"Wymagane jest uwierzytelnienie, aby zmienić dane użytkownika",Authentication is required to change user data,Authentication required to change user data,0.643
+178,"nieznana długość wycinka 'fmt ' (odczyt %u, powinien być przynajmniej %u)","unknown length of 'fmt ' chunk (read %u, should be %u at least)","unknown length of 'fmt ' slice (read %u, should be at least %u)",0.477
+179,Menedżer zadań i ustawień dla drukarek atramentowych Epson,Status monitor for Epson inkjet printers,Job and Settings Manager for Epson inkjet printers,0.364
+180,SSVNC - dostęp do pulpitów zdalnych VNC,SSVNC - access remote VNC desktops,SSVNC - access to remote VNC desktops,0.0
+181,Należy przenieść ~a na siódemkę pik.,Move ~a onto the seven of spades.,You should move ~a to the seven of spades.,0.367
+182,Aplikacja do zarządzania telefonymi komórkowymi z S60,Application to manage your S60 mobile phone,Application to manage mobile phones with S60,0.0
+183,Gra Sudoku i inne dla KDE,"KSudoku, Sudoku game & more for KDE",Sudoku and other games for KDE,0.0
+184,Aplikacja do testowania wszystkich funkcji guidata.,you can use this applications to test all guidata features.,Application to test all guidata features.,0.393
+185,"karta %i: %s [%s], urządzenie %i: %s [%s]","card %i: %s [%s], device %i: %s [%s]","card %i: %s [%s], device %i: %s [%s]",1.0
+186,Zagraj w trówymiarowe szachy i pokaż co potrafisz!,Play 3d chess with reflection of the chessmen,Play three-dimensional chess and show what you can do!,0.0
+187,Należy umieścić waleta kier obok dziesiątki kier.,Place the jack of hearts next to the ten of hearts.,Place the jack of hearts next to the ten of hearts.,1.0
+188,Konwersja obrazów 3D NIfTI na DICOM 2D series,Convert 3D NIfTI images to DICOM 2D series,Conversion of NIfTI 3D images to DICOM 2D series,0.496
+189,Narzędzie do rozdzielania i łączenia dokumentów PDF,A tool to split and merge pdf documents,Separation and merging tool for PDF documents,0.0
+190,"%s: %s: Nie znaleziono nazwy pliku w linii %d, przerwanie pracy","%s: %s: No filename found in line %d, aborting","%s: %s: Filename not found on line %d, abort",0.0
+191,"Zbieraj drogocenne minerały, uważając na spadające odłamki bomb","Collect valuable minerals, while avoiding being hit by a falling boulder or a bomb",Collect precious minerals as you watch out for falling bombs,0.0
+192,Interfejs graficzny monitora maszyn wirtualnych QEMU,Frontend to QEMU virtual machine monitor,QEMU virtual machine monitor GUI,0.508
+193,Należy przenieść ~a na króla pik.,Move ~a onto the king of spades.,You should move ~a to the king of spades.,0.367
+194,"-n, --no-mask nie przeliczanie maski efektywnych uprawnień -d, --default wykonywanie operacji na domyślnym ACL","-n, --no-mask don't recalculate the effective rights mask -d, --default operations apply to the default ACL","-n, --no-mask not recalculating the effective privilege mask -d, --default performing operations on the default ACL",0.0
+195,Należy umieścić króla kier obok damy kier.,Place the king of hearts next to the queen of hearts.,Place the King of hearts next to the Queen of hearts.,1.0
+196,Prosty pakiet do szkicowania i edycji grafiki dla GNOME (odpowiednik MS Paint),"A small-scale painting program for GNOME, the GNU Desktop",A simple sketching and graphics editing package for GNOME (equivalent to MS Paint),0.0
+197,Dodaje dwójkę w pierwszym od lewej miejscu wiersza ~a.,Place a two in the leftmost slot of row ~a.,Adds a binary in the first from the left position of the ~a row.,0.0
+198,Należy przenieść ~a na trójkę pik.,Move ~a onto the three of spades.,You should move ~a to the three of spades.,0.367
+199,Blob Wars : Metal Blob Solid,Blob Wars : Metal Blob Solid,Blob Wars : Metal Blob Solid,1.0
+200,Program do nauki alfabetu dla KDE,a KDE program to learn the alphabet,Alphabet Editor for KDE,0.0
+201,"Instaluje, usuwa i aktualizuje pakiety aplikacji","Install, remove and upgrade software packages","Installs, removes and updates application packages",0.0
+202,"Rozpoczyna w trybie zgłaszania błędu. Wymaga opcji --package oraz opcjonalnie --pid, lub tylko opcji --pid. Jeśli żadna opcja nie zostanie użyta, wyświetlona zostanie lista symptomów.","Start in bug filing mode. Requires --package and an optional --pid, or just a --pid. If neither is given, display a list of known symptoms. (Implied if a single argument is given.)","Starts in error reporting mode. Requires the --package and optional --pid options, or the --pid option only. If neither option is used, the symptom list is displayed.",0.0
+203,Front end GUI dla programu efax,GUI front end for the efax fax program,Front end GUI for efax,0.0
+204,"Wtyczki GStreamer dla plików aac, xvid, mpeg2, faad","GStreamer plugins for aac, xvid, mpeg2, faad","GStreamer plugins for aac, xvid, mpeg2, faad files",0.867
+205,"Pokoloruj każde pole jednym z czterech kolorów tak, aby każdy sąsiadujący obszar miał inną barwę",Colour each region with one of four colours so that no two regions sharing a boundary have the same colour,Color each box with one of the four colors so that each adjacent area has a different color,0.0
+206,Łatwe przetwarzanie wsadowe plików graficznych oraz edycja metadanych,Easily batch process images and edit metadata,Easy batch processing of image files and editing of metadata,0.0
+207,%s: nie można odczytać dostępowego tekstu ACL dla '%s': %s,%s: cannot get access ACL text on '%s': %s,%s: could not read the access ACL text for '%s': %s,0.0
+208,"Wyszukuje, przegląda i edytuje dokumentację Monodoc","View, search and edit documentation related to Mono","Searches, reviews and edits Monodoc documentation",0.0
+209,Lubisz anagramy? Ta gra jest stworzona dla Ciebie!,fast paced anagram puzzle game using SDL,Do you like anagrams? This game is made for you!,0.0
+210,%s: nie można odczytać dostępowego ACL dla '%s': %s,%s: cannot get access ACL on '%s': %s,%s: unable to read access ACL for '%s': %s,0.0
+211,%s: %s: %s w linii %d,%s: %s: %s in line %d,%s: %s on line %d,0.0
+212,Należy przenieść ~a na ósemkę pik.,Move ~a onto the eight of spades.,You should move ~a to the eight of spades.,0.367
+213,Należy umieścić piątkę kier obok czwórki kier.,Place the five of hearts next to the four of hearts.,Place the five of hearts next to the four of hearts.,1.0
+214,Uniwersalny panel sterowania urządzeiami V4L2 (video for Linux),A universal control panel for V4L2 devices,Universal Device Control Panel V4L2 (video for Linux),0.0
+215,Pozyskuje dane ze zeskanowanych obrazów wykresów,Retrieve data from scanned images of graphs,Extracts data from scanned images of graphs,0.809
+216,"Tworzenie i edycja prezentacji pokazów slajdów na potrzeby konferencji, wykładów czy stron internetowych","Create and edit presentations for slideshows, meeting and Web pages by using Impress.","Creating and editing slide show presentations for conferences, lectures or websites",0.0
+217,Narzędzie do odczytywania zawartości kart smart,Tool to read the contents of smart cards,Smart card reading tool,0.0
+218,Zaawansowane narzędzie pozwalające zaplanować zamknięcie lub restart systemu.,An advanced shutdown utility which allows you to schedule the shutdown or the restart of your computer,Advanced tool to schedule system shutdown or reboot.,0.0
+219,Utworzenie aliasu %s nie powiodło się -> %s,Failed to create alias %s -> %s,Create alias %s failed -> %s,0.0
+220,Gra do nauki programowania w języku Java,Java programming game based on battle tanks,Game to learn programming in Java,0.0
+221,nie można odtworzyć plików WAVE z %d ścieżkami,can't play WAVE-files with %d tracks,WAVE files with %d tracks cannot be played,0.0
+222,Prosty program do obsługi urządzeń używających sterownika Linux UVC (np. kamer internetowych),A video viewer and capturer for the linux uvc driver,Simple program for operating devices that use the Linux UVC driver (e.g. webcams),0.206
+223,Należy przenieść ~a na króla kier.,Move ~a onto the king of hearts.,You should move ~a to the king of hearts.,0.367
+224,Analiza awarii w terminalu za pomocą apport-retrace,This will launch apport-retrace in a terminal window to examine the crash.,Failure analysis in terminal using apport-retrace,0.0
+225,"Zmiażdż robale, zanim wyssą Twoją krew!",Squash the bugs before they suck up your blood,Crush the bugs before they suck your blood!,0.513
+226,Należy rozmieścić karty na tableau układając je jak do pokera,Place cards on to the Tableau to form poker hands,Arrange the cards on the tableau as if they were for poker,0.0
+227,Block Attack - Rise of the Blocks,Block Attack - Rise of the Blocks,Block Attack - Rise of the Blocks,1.0
+228,%s: napotkano błędy w łączonym przetwarzaniu reguł. Proces przerwano.,%s: Errors found in combining rules postprocessing. Aborting.,%s: errors were encountered in combined rule processing. The process was aborted.,0.0
+229,Daje możliwość zakrycia części pulpitu za pomocą wirtualnej zasłony,Show and move a curtain on the desktop,Gives you the ability to cover part of your desktop with a virtual curtain,0.0
+230,Prosty w użyciu program do studiowania Biblii,An easy to use bible study tool,An easy-to-use Bible study program,0.0
+231,Zjeżdżaj pingwinem po śniegu w dół góry,Race a penguin down a mountain,Slide the penguin down the mountain in the snow,0.0
+232,"Błędny znacznik wykonania ""%c"". Wcześniej użyto sprzecznego znacznika.","Exec qualifier '%c' invalid, conflicting qualifier already specified",Incorrect execute tag '%c'. A conflicting tag was previously used.,0.0
+233,Prosty terminarz i kalendarz dla GNUstepa,Simple agenda and calendar application for GNUstep,A simple schedule and calendar for GNUstep,0.0
+234,"Klient Crossfire, wieloosobowej gry typu RPG","Client for Crossfire, a multiplayer graphical RPG and adventure game","Crossfire client, a multiplayer RPG",0.0
+235,Narzędzie do zarządzania dyskiem i archiwami danych,Disk and data archive management tool,Disk and data archive management tool,1.0
+236,Wyszukuje pakiety i wyświetla informacje o nich,Search for packages and view package information,Searches for packages and displays information about them,0.0
+237,Należy umieścić ósemkę kier obok siódemki kier.,Place the eight of hearts next to the seven of hearts.,Place the eight of hearts next to the seven of hearts.,1.0
+238,"Wizualizacja, edycja, konwersja i zabawa danymi z urządzeń GPS","Visualize, edit and prune GPS tracks","Visualize, edit, convert and play with data from GPS devices",0.0
+239,"Monitor obciążenia systemu wyświetlający wykresy dla procesora, pamięci RAM, przestrzeni wymiany oraz ruchu sieciowego","A system load monitor capable of displaying graphs for CPU, ram, and swap space use, plus network traffic.","System load monitor displaying graphs for CPU, RAM, swap space and network traffic",0.326
+240,Gra edukacyjna typu puzzle w stylu Hi-Q,Play an educational puzzle game similar to Hi-Q,Hi-Q educational puzzle game,0.0
+241,Framework do analizy kodu źródłowego oprogramowania napisanego w języku C,Framework for source code analysis of software written in C,Framework for source code analysis of software written in C,1.0
+242,Emulator komputera ZX Spectrum z lat 80 i jego klonów,Emulator of the 1980s ZX Spectrum home computer and its various clones,Emulator of ZX Spectrum computer from 80s and its clones,0.0
+243,Brak dostępu do zgłoszenia o błędzie.,You are not allowed to access this problem report.,No access to the error report.,0.0
+244,Generator kombinacji gry Su Doku z opcją rozwiązania zadania oraz wykonywaniem zrzutów do PDF,"GNUDoQ, Su Doku generator and solver.",Su Doku game combination generator with an option to solve the task and take snapshots to PDF,0.0
+245,Należy przenieść ~a na dwójkę pik.,Move ~a onto the two of spades.,You should move ~a to the two of spades.,0.367
+246,Powiadamia o nadejściu nowej poczty Gmail,Notify the arrival of new mail on Gmail,Notifies you when new Gmail arrives,0.0
+247,Narzędzie graficzne do projektowania i symulacji cyfrowych układów logicznych,Graphical tool for designing and simulating logic circuits,Graphics tool for design and simulation of digital logic circuits,0.0
+248,Tworzy i edytuje schematy i symbole elektryczne za pomocą gschem,Create and edit electrical schematics and symbols with gschem,Creates and edits electrical schematics and symbols using gschem,0.33
+249,"Odczyt, konwersja i manipulacja zdjęciami z aparatów cyfrowych","Read, manipulate and convert digital camera raw-images","Reading, conversion and manipulation of photos from digital cameras",0.0
+250,"Odczyt, przechwytywanie oraz nadawanie strumieni multimedialnych","Read, capture, broadcast your multimedia streams","Reading, capturing and broadcasting multimedia streams",0.0
+251,Edytor tekstu presage z funkcją przewidywania wyrazów,Predictive text editor powered by presage,Presage text editor with word prediction feature,0.0
+252,Narzędzie do łączenia obrazów w panoramę,A tool to assemble images as a panorama,Tool for merging images into a panorama,0.0
+253,Oblicza temperaturę topnienia dupleksów kwasów nukleinowych,"""Computes the melting temperature for a nucleic acid duplex.""",Calculates the melting point of nucleic acid duplexes,0.0
+254,"Fantazyjny, animowany program do robienia zdjęć kamerką internetową",Fancy-looking animated application for taking photos from webcam,"A fancy, animated program for taking pictures with a webcam",0.0
+255,"%s jest wolnym oprogramowaniem; można go rozprowadzać dalej i/lub modyfikować na warunkach Powszechnej Licencji Publicznej GNU, wydanej przez Fundację Wolnego Oprogramowania - według wersji %d tej Licencji lub którejś z późniejszych wersji.","%s is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version %d of the License, or (at your option) any later version.","%s is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version %d of the License, or any later version.",0.882
+256,Kanał %2d: Niezapisane zdarzenie : %5d,Channel %2d: Note Off event: %5d,Channel %2d: Unsaved event : %5d,0.0
+257,Framework do kontroli silników przeglądarek internetowych,"Fast, small, webkit based micro-browser extensible by Lua",Framework for controlling web browser engines,0.0
+258,Należy przenieść ~a na dziesiątkę pik.,Move ~a onto the ten of spades.,You should move ~a to the ten of spades.,0.367
+259,Dziel się danymi za pomocą protokołu HTTP,Shares files using the HTTP protocol,Share data over HTTP,0.0
+260,"-i, --info : wypisuj pewne otrzymane zdarzenia","-i, --info : print certain received events","-i, --info : write out some received events",0.0
+261,Wirtualna Maszyna z kompilatorem JIT CPU. Maksymalna prędkość!,Virtual Machine with JIT CPU compiler for max speed,Virtual Machine with JIT CPU compiler. Maximum speed!,0.61
+262,Należy przenieść ~a na szóstkę pik.,Move ~a onto the six of spades.,You should move ~a to the six of spades.,0.367
+263,Graficzny interfejs do budowy UIMA CPE,Graphical interface to build UIMA CPE,Graphical interface for building UIMA CPE,0.0
+264,Integrated Development Environment (Pick Session to start with),Integrated Development Environment (Pick Session to start with),Integrated Development Environment (Pick Session to start with),1.0
+265,Program dla dzieci do nauki obsługi myszy,Teach kids to move the mouse,A program for children to learn how to use a mouse,0.0
+266,Edytor biblioteki mebli w 3D programu Sweet Home,Sweet Home 3D Furniture Library Editor,Sweet Home 3D furniture library editor,1.0
+267,Aktualizacja %s z pomocą fully symbolic stack trace,Update %s with fully symbolic stack trace,Update %s with full symbolic stack trace,0.0
+268,%s: błąd grupowania wyrażeń regularnych: nieprawidłowa ilość elementów pomiędzy {},%s: Regex grouping error: Invalid number of items between {},%s: regular expression grouping error: invalid number of elements between {},0.434
+269,"Kontroler wyjścia Video, kart graficznych NVidia",Control the TV output of NVidia video cards,"Video output controller, NVidia graphics cards",0.0
+270,"Pozwala na organizację i zarządzanie kolekcjami filmów, gier, książek, muzyki itp.","Manage your collections of movies, games, books, music and more","It allows you to organize and manage your collections of movies, games, books, music, etc.",0.475
+271,Przypisy i katalogowanie w sieci cyfrowych plików wideo,"Annotate Digital Video, Exchange on the NEt",Assignment and cataloguing of digital video files on the web,0.0
+272,Czas na świecie oraz CW ID dla operatorów Ham Radio,World Clock and CW ID for Ham Radio Operators,World Time and CW ID for Ham Radio operators,0.751
+273,Terminal sieciowy z funkcją zapisu danych,A serial terminal optimized for logging and file capture,Network terminal with data storage function,0.0
+274,"Bogaty, legalny, darmowy zestaw funkcji matematyczych do analizy, modelowania i przetwarzania danych",Scientific software package for numerical computations,"A rich, legal, free set of mathematical functions for data analysis, modelling and processing",0.0
+275,Program wydaje polecenia dla systemu operacyjnego przy pomocy ruchów kursora myszy,Control your desktop using mouse gestures,The program issues commands to the operating system using mouse cursor movements,0.0
+276,polecenie powinno mieć nazwę arecord albo aplay,command should be named either arecord or aplay,the command should be named arecord or aplay,0.5
+277,"Tworzy i edytuje prezentacje slajdów na potrzeby szkoleń i stron internetowych, za pomocą serwisu internetowego Zoho","Create and edit presentations for slideshows, meeting and Web pages using Zoho web services.","Creates and edits slide presentations for training and websites, using the Zoho web service",0.0
+278,Łatwy w użyciu system kontroli wersji oprogramowania,Easy to use distributed version control system,Easy-to-use software version control system,0.0
+279,Skaluj i obracaj zdjęcia kilkoma kliknięciami,Reduce and rotate images in three-four clicks.,Scale and rotate photos with a few clicks,0.0
+280,Interfejs GNOME do zarządzania Twoją kolekcją komiksów,A GNOME interface for managing your comic book collection,GNOME Interface to manage your comic book collection,0.355
+281,"Pobiera wiadomości RSS, podcasty i blogi wideo","Aggregates rss feeds, podcasts, and video blogs","Downloads RSS news, podcasts and video blogs",0.435
+282,Narzędzie do łączenia się z sieciami bezprzewodowymi,Tool for connecting to wireless networks,Tool for connecting to wireless networks,1.0
+283,Nie można ustawić parametrów hw dla odtwarzania: %s,Unable to set hw params for playback: %s,Unable to set hw parameters for playback: %s,0.5
+284,"Gdy brakuje zszywacza, można użyć zszywki i linijki","When without a stapler, a staple and a ruler will work","When a stapler is missing, a staple and ruler can be used",0.0
+285,Bezpłatna i łatwa księgowość osobista dla każdego.,"Free, easy, personal accounting for everyone.",Free and easy personal accounting for everyone.,0.673
+286,Pozostawienie pliku zgłoszenia w celu późniejszego wysłania lub skopiowania,&Keep report file for sending later or copying to somewhere else,Leaving the submission file for later sending or copying,0.0
+287,"nie można odtworzyć formatu pliku WAVE 0x%04x, który nie jest zakodowany jako PCM lub FLOAT",can't play WAVE-file format 0x%04x which is not PCM or FLOAT encoded,Cannot play WAVE file format 0x%04x that is not encoded as PCM or FLOAT,0.0
+288,Wysyła zdjęcia i pliki wideo do galerii,Upload pictures and videos to Gallery,Sends photos and videos to the gallery,0.0
+289,"Pozwala zarządzać obrazami dysków w formatach ISO, IMG, BIN, MDF oraz NRG","Manage ISO, IMG, BIN, MDF and NRG images","Manage ISO, IMG, BIN, MDF and NRG formatted disk images",0.677
+290,"Wizualizuje dane naukowe, inżynierskie i analizy","Visualize scientific, engineering and analytical data","Visualizes scientific, engineering and analytical data",0.76
+291,Narzędzie graficzne do analizy danych elektrofizjologicznych,Graphical utility for analyzing electrophysiological data,Graphical tool for electrophysiological data analysis,0.0
+292,"Sugeruje nowe pakiety, kiedy urządzenia są podłączane",Suggest new packages when hardware devices are plugged in,Suggests new packages when devices are connected,0.0
+293,Przeglądanie usług Zeroconf dostępnych w sieci,Browse for Zeroconf services available on your network,Viewing Zeroconf services available on the network,0.366
+294,Administracja i tworzenie baz danych Sqlite3,Administer and develop your Sqlite3 databases,Administration and development of Sqlite3 databases,0.0
+295,Nie można ustawić parametrów sw dla odtwarzania: %s,Unable to set sw params for playback: %s,Unable to set sw parameters for playback: %s,0.5
+296,Interaktywne narzędzie do nauki i symulacji zjawisk optycznych,Interactive tool to study and simulate optic assemblies,An interactive tool for learning and simulating optical phenomena,0.0
+297,Graj na 39 tangramach ponad 18 000 figur,"Play with 39 tangram and more 18,000 figures","Play with 39 tangrams over 18,000 figures",0.0
+298,"Ubuntu może zbierać anonimowe informacje, które pomagają programistom w jego ulepszaniu. Wszystkie zbierane informacje podlegają naszej polityce prywatności.",Ubuntu can collect anonymous information that helps developers improve it. All information collected is covered by our privacy policy.,Ubuntu may collect anonymous information to help developers improve it. All information collected is subject to our privacy policy.,0.453
+299,Narzędzie KDE do masowej zmiany nazw plików i katalogów,A batch renaming tool for KDE,KDE tool for mass renaming files and directories,0.0
+300,Nazwa pliku zawierającego grafikę dla kart.,The name of the file with the graphics for the cards.,The name of the file containing the graphics for the cards.,0.702
+301,Wyświetla i modyfikuje konfigurację lokalnego serwera dźwięku,View and modify the configuration of the local sound server,Displays and modifies the configuration of the local sound server,0.661
+302,"nieznana długość rozszerzenia fragmentu 'fmt ' (przeczytano %u, powinno być co najmniej %u)","unknown length of extensible 'fmt ' chunk (read %u, should be %u at least)","unknown extension length of fragment 'fmt ' (read %u, should be at least %u)",0.283
+303,Zapisywanie obrazów wektorowych z okna aplikacji,Save vector images of application windows,Saving vector images from the application window,0.0
+304,Należy umieścić coś w pustym miejscu tableau.,Move something onto an empty tableau slot.,Put something in the empty space of the tableau.,0.0
+305,Monitory nie dadzą ci witaminy D - w przeciwieństwie do słońca...,Monitors won't give you Vitamin D -- but sunlight will...,Monitors won't give you vitamin D - unlike the sun....,0.587
+306,Narzędzie do ekstremalnego przeciągania dźwięku (np. 50x),suitable for extreme sound stretching of audio (like 50x),Extreme drag tool (e.g. 50x),0.0
+307,"Pozwala na wykonywanie obliczeń arytmetycznych, naukowych czy finansowych","Perform arithmetic, scientific or financial calculations","Allows you to perform arithmetic, scientific or financial calculations",0.607
+308,Należy umieścić dziesiątkę pik obok dziewiątki pik.,Place the ten of spades next to the nine of spades.,Place the ten of spades next to the nine of spades.,1.0
+309,"Konflikt - ""a"" i ""w"" wykluczają się wzajemnie.",Conflict 'a' and 'w' perms are mutually exclusive.,"Conflict - ""a"" and ""w"" are mutually exclusive.",0.5
+310,Telefon (Softphone) obsługujący protokoły SIP oraz IAX 2,Call and receive calls with SIP or IAX protocols,Softphone supporting SIP and IAX 2 protocols,0.0
+311,"Planszowa, sieciowa gra strategiczna, obsługująca nawet do czterech graczy",Up to four player network capable turn based strategy board game,Network strategy board game for up to four players,0.0
+312,Graj w gry z Nintendo Game Boy Advance,Play Nintendo Game Boy Advance games,Play games from the Nintendo Game Boy Advance,0.403
+313,Rozproszony klient IRC z centralnym rdzeniem,Distributed IRC client with central core component,Distributed IRC client with central core,0.809
+314,Binarny sterownik nVidia X.Org (wersja 96),NVidia binary X.Org driver ('version 96' driver),Binary nVidia X.Org driver (version 96),0.455
+315,Sensor barw do pobierania próbek koloru,Use the color sensor to sample spot colors,Colour sensor for colour sampling,0.0
+316,"Spraw by twoje zdjęcia lśniły - automatyczne poziomy gamma, kontrastu, nasycenia","Make your photos shine - auto gamma levels, contrast, saturation","Make your photos shine - automatic gamma, contrast, saturation levels",0.381
+317,Należy przenieść ~a na asa karo.,Move ~a onto the ace of diamonds.,Move ~a to the ace of diamonds.,0.489
+318,"Zestaw gier, będących wyzwaniem dla Twoich zdolności werbalnych, logicznego myślenia, liczenia czy zapamiętywania","Play games that challenge your logic, verbal, calculation and memory abilities","A set of games that challenge your verbal, logical thinking, counting and memory skills",0.221
+319,Bardziej zaawansowany edytor tekstu z setkami funkcji,Text editor with hundreds of functions,A more advanced text editor with hundreds of features,0.461
+320,Filtr spamu oparty o analizę tekstową (działa z programem Evolution Mail),Spam filter using text analysis (works with Evolution Mail),Spam filter based on text analysis (works with Evolution Mail),0.591
+321,Nie dodaje nowych śladów do zgłoszenia tylko wypisuje je na standardowe wyjście.,"Do not put the new traces into the report, but write them to stdout.",It doesn't add new traces to the request just writes them to standard output.,0.0
+322,"Narzędzie do przeglądania i obróbki ""surowych"" zdjęć z aparatów cyfrowych",A utility to read and manipulate raw images from digital cameras,"A tool for viewing and editing ""raw"" photos from digital cameras",0.0
+323,"W pełni funkcjonalny odtwarzacz muzyki, wideo, klient podcast i bittorrent","Fully featured video and music player, podcast client, and bittorrent client","Full-featured music, video, podcast and bittorrent player",0.0
+324,"Gra typu puzzle, zawierająca zawikłane grafy planarne",Puzzle game involving untangling planar graphs,A puzzle-type game involving intricate planar graphs,0.0
+325,Należy umieścić coś w pustym miejscu po prawej stronie tableau,Move something onto an empty right-hand tableau slot,Put something in the empty space to the right of the tableau,0.0
+326,"Oprogramowanie do trójwymiarowej topologii, rozmaitości i teorii powierzchni normalnej",Software for 3-manifold topology and normal surface theory,"Software for three-dimensional topology, manifolds and normal surface theory",0.377
+327,Niewielka gra zręcznościowa typu shoot-'em-up dla jednego lub dwóch graczy,Little shoot-'em-up arcade game for one or two player,A small shoot-'em-up arcade game for one or two players,0.65
+328,"Formuj linie, usuwając kolorowe piłeczki z tablicy",Remove colored balls from the board by forming lines,Form lines by removing colored balls from the board,0.485
+329,Tworzy i kopiuje płyty CD i DVD,Create and copy CDs and DVDs,Creates and copies CDs and DVDs,0.0
+330,Prosty w obsłudze interfejs do tworzenia kopii zapasowych,Backup your data with an easy to use user interface,Easy-to-use backup interface,0.0
+331,Należy umieścić czwórkę pik obok trójki pik.,Place the four of spades next to the three of spades.,Place the four of spades next to the three of spades.,1.0
+332,Wyświetla informacje i powiadomienia o nowo wykrytych urządzeniach Bluetooth,Information and notification of new discovered bluetooth devices,Displays information and notifications about newly detected Bluetooth devices,0.0
+333,Programiści zostali już poinformowani o tym problemie. Dziękujemy!,This problem was already reported to developers. Thank you!,The developers have already been informed about this problem. Thank you!,0.0
+334,"Nie ma oczekujących zgłoszeń awarii. Proszę użyć opcji --help, aby uzyskać więcej informacji.",No pending crash reports. Try --help for more information.,There are no pending crash reports. Please use the --help option for more information.,0.256
+335,Przeszukuje bazy danych i pobiera z nich dokumenty,Query NCBI databases and retrieve documents,Searches databases and extracts documents from them,0.0
+336,Klient wymiany plików sieci Direct Connect,A file-sharing client for the Direct Connect network,Direct Connect network file sharing client,0.0
+337,"Użytkownik nie jest autorem tego zgłoszenia o błędzie. O wiele łatwiej oznaczyć błąd jako duplikat innego, niż przenieść swoje komentarze i załączniki do nowego błędu. Z tego powodu zaleca się wysłanie nowego zgłoszenia błędu używając narzędzia ""apport-bug"" i dodanie komentarza do tego zgłoszenia na temat błędu już zgłoszonego. Kontynuować?","You are not the reporter of this problem report. It is much easier to mark a bug as a duplicate of another than to move your comments and attachments to a new bug. Subsequently, we recommend that you file a new bug report using ""apport-bug"" and make a comment in this bug about the one you file. Do you really want to proceed?","You are not the author of this bug report. It is much easier to mark a bug as a duplicate of another, than to move your comments and attachments to a new bug. For this reason, it is recommended that you submit a new bug report using the ""apport-bug"" tool and add a comment to that report about the bug already reported. To continue?",0.528
+338,Należy umieścić dziesiątkę trefl obok dziewiątki trefl.,Place the ten of clubs next to the nine of clubs.,Place the ten of clubs next to the nine of clubs.,1.0
+339,Instalacja nowych motywów kart z pakietów w repozytoriach dystrybucji,Install new card themes from the distribution packages repositories,Installing new card themes from packages in the distribution repositories,0.341
+340,"Gra o manii, melancholii i procesach twórczych","game about mania, melancholia, and the creative process","A game about mania, melancholy and the creative process",0.441
+341,Tworzy pakiety serwisowe do współdzielenia z innymi komputerami,Create service packs for sharing with other computers,Creates service packs to share with other computers,0.0
+342,Określony proces nie jest własnością bieżącego użytkownika. Proszę uruchomić ten program jako właściciel procesu lub jako administrator.,The specified process does not belong to you. Please run this program as the process owner or as root.,The specified process is not owned by the current user. Please run this program as the process owner or as an administrator.,0.485
+343,Blob Wars : Blob And Conquer,Blob Wars : Blob And Conquer,Blob Wars : Blob And Conquer,1.0
+344,Niesamowity pogłos przez kokkinizita - więcej huku na bajt,amazing reverb by kokkinizita - more bang per byte,Amazing reverberation by kokkinizit - more bang per byte,0.383
+345,Należy umieścić waleta pik obok dziesiątki pik.,Place the jack of spades next to the ten of spades.,The jack of spades should be placed next to the ten of spades.,0.585
+346,Należy umieścić siódemkę kier obok szóstki kier.,Place the seven of hearts next to the six of hearts.,Place the seven of hearts next to the six of hearts.,1.0
+347,"Wykonuj obliczenia, analizuj informacje lub zarządzaj listami danych w arkuszach kalkulacyjnych za pomocą Calc.","Perform calculations, analyze information and manage lists in spreadsheets by using Calc.","Perform calculations, analyze information, or manage lists of data in spreadsheets with Calc.",0.271
+348,Nie można ustalić bieżących parametrów swparams dla odtwarzania: %s,Unable to determine current swparams for playback: %s,Cannot determine current swparams parameters for playback: %s,0.0
+349,"Użytkownik nie jest autorem lub subskrybentem tego zgłoszenia o błędzie lub zgłoszenie jest duplikatem albo zostało już zamknięte. Proszę zgłosić błąd używając narzędzia ""apport-bug"".","You are not the reporter or subscriber of this problem report, or the report is a duplicate or already closed. Please create a new report using ""apport-bug"".","You are not the author or subscriber of this bug report, or the report is a duplicate or has already been closed. Please report a bug using the ""apport-bug"" tool.",0.43
+350,Sprawdza tłumaczenia słów w angielskim słowniku catalan,Search words in an catalan - english dictionary,Checks word translations in the English Catalan dictionary,0.0
+351,Nie można ustawić trybu progowego dla odtwarzania: %s,Unable to set start threshold mode for playback: %s,Cannot set threshold mode for playback: %s,0.467
+352,Zmiana głośności dźwięku i zdarzeń dźwiękowych,Change sound volume and sound events,Changing the volume of sound and sound events,0.0
+353,Archiwizacja danych na płytach DVD z weryfikacją poprawności,Full and incremental backup to DVD with verify,Data archiving on DVD with verification of correctness,0.0
+354,Serwer plików audio dla sieci lokalnych. Dziel się muzyką z bliskimi przyjaciółmi,Share your music with close friends,Audio file server for local networks. Share music with close friends,0.234
+355,Prosty frontend do łączenia się ze zdalnymi systemami plików,A simple frontend to easily connect to remote filesystems,A simple frontend for connecting to remote file systems,0.0
+356,"Błąd: profil %s zawiera elementy zasad, które nie są używane w bieżącym \t jądrze systemu: zakresy znaków ""*"", ""?"" oraz zmiany nie są dozwolone. \t znak ""**"" może być użyty tylko na końcu reguły.","ERROR profile %s contains policy elements not usable with this kernel: \t'*', '?', character ranges, and alternations are not allowed. \t'**' may only be used at the end of a rule.","Error: profile %s contains rule elements that are not used in the current system kernel: character ranges ""*"", ""?"" and changes are not allowed. \The ""**"" character can only be used at the end of a rule.",0.388
+357,Tłumaczy oraz lokalizuje aplikacje i biblioteki,Translate and localize applications and libraries,Translates and localizes applications and libraries,0.0
+358,Należy umieścić siódemkę karo obok szóstki karo.,Place the seven of diamonds next to the six of diamonds.,Place the seven of diamonds next to the six of diamonds.,1.0
+359,Aplikacja do pobierania i wysyłania napisów do filmów,Application to download/upload subtitles of your movies.,Application to download and send subtitles to movies,0.0
+360,"Wskocz na swoich przeciwników, aby eksplodowali!",Jump on your opponents to make them explode,Jump on your opponents to make them explode!,1.0
+361,Edytor napisów do filmów dla GNOME,Video subtitling for the GNOME desktop,Video Subtitle Editor for GNOME,0.0
+362,Nie można ustawić dostępnego minimum odtwarzania: %s,Unable to set avail min for playback: %s,Unable to set available play minimum: %s,0.0
+363,Zmiana ustawień aktualizacji oprogramowania oraz aktywacja i wyłączanie jego źródeł,Change software update preferences and enable or disable software sources,Changing software update settings and activating or deactivating its sources,0.0
+364,Multimedialny program wspomagający rozwój intelektualny dzieci,"A media-rich model, simulation construction kit and authoring tool",Multimedia programme supporting children's intellectual development,0.0
+365,Binarny sterownik nVidia X.Org (wersja 173),NVidia binary X.Org driver ('version 173' driver),Binary nVidia X.Org driver (version 173),0.455
+366,"Kolorowa, oryginalna gra logiczna, wciągająca na długie godziny",Colorful Logic game with arcade and tactics modes,"Colourful, original puzzle game, addictive for hours",0.0
+367,Wykres spektralny i demodulator danych radia IQ,Spectrum display and demodulator of IQ radio data,Spectral plot and demodulator of IQ radio data,0.68
+368,Błąd: nie można wykonać %s. Zatrzymywanie.,Error: %s is not an executable. Stopping.,Error: unable to execute %s. Stopping.,0.0
+369,Należy przenieść ~a na dziesiątkę trefl.,Move ~a onto the ten of clubs.,You should move ~a to the ten of clubs.,0.367
+370,"Tworzenie, modyfikacja i kasowanie udziałów serwerowych Samby","Create, modify, and delete samba shares","Create, modify and delete Samba server shares",0.673
+371,Zestaw programów do identyfikacji różnic w API i pracy z bibliotekami Mono,Identify differences in the API exposed by mono library assemblies.,Set of programs to identify API differences and work with Mono libraries,0.0
+372,"Najlepszy program do szybkiego uruchamiania aplikacji, jakiego nie kupisz za żadne pieniądze.",The finest dock no money can buy.,The best fast application launcher that no money can buy.,0.283
+373,"Zgłoszenie błędu dotyczy programu, który nie jest już zainstalowany.",This problem report applies to a program which is not installed any more.,The error report is for a program that is no longer installed.,0.0
+374,Proszę wprowadzić dane swojego konta w systemie śledzenia błędów %s,Please enter your account information for the %s bug tracking system,Please enter your account information in the bug tracking system %s,0.496
+375,"Pozwala zapobiegać urazom na skutek chronicznego przeciążenia organizmu ( RSI ), u osób pracujących przy komputerze",Assists in the prevention and recovery of Repetitive Strain Injury (RSI),Helps prevent injuries due to chronic body overloading (RSI) in people who work at a computer,0.0
+376,X Terminal z obsługą Thai (TIS-620 encoding),X Terminal that supports Thai (TIS-620 encoding),X Terminal with Thai support (TIS-620 encoding),0.0
+377,Należy przenieść ~a na puste narożne miejsce.,Move ~a onto an empty corner slot.,Move ~a to the empty corner space.,0.0
+378,zmiana formatu przechwytywania strumienia? próba naprawy...,capture stream format change? attempting recover...,changing the format of the stream capture? trying to fix...,0.0
+379,Należy umieścić piątkę trefl obok czwórki trefl.,Place the five of clubs next to the four of clubs.,Place the five of clubs next to the four of clubs.,1.0
+380,"Przeglądarka archiwów komiksów (cbz, cbr, cbt), wyposażona w wiele specyficznych funkcji","QComicBook is a viewer for comic book archives (cbz, cbr, cbt). QComicBook has specific features like page preview, thumbnails view, bookmarks, manga mode for easing comicbook reading.","Comics archive browser (cbz, cbr, cbt), equipped with many specific features",0.0
+381,Interfejs użytkownika multimedialnego centrum Plasma framework,A mediacenter user interface written with the Plasma framework,User interface of multimedia center Plasma framework,0.0
+382,"Komputer nie posiada wystarczającej ilości wolnej pamięci, aby automatycznie przeanalizować problem i zgłosić błąd do twórców programu.",Your computer does not have enough free memory to automatically analyze the problem and send a report to the developers.,The computer does not have enough free memory to automatically analyze the problem and report the error to the program developers.,0.643
+383,"Aby uzyskać dostęp do raportów o błędach systemowych, należy wprowadzić hasło",Please enter your password to access problem reports of system programs,"To access the system error reports, enter the password",0.0
+384,Program do ćwiczenia pamięci i pomocy z zapamiętywaniu (nauce),An intelligent spaced-repetition memory training program,A program to train your memory and help with memorizing (learning),0.0
+385,"%s: Nie znaleziono nazwy pliku w linii %d standardowego wejścia, przerwanie pracy","%s: No filename found in line %d of standard input, aborting","%s: File name not found on line %d of standard input, abort",0.348
+386,Otwarcie %s nie powiodło się - %s,Unable to open %s - %s,Open %s failed - %s,0.0
+387,Gra Puzzle w stylu solomon's key,Puzzle game in the spirit of solomon's key,Solomon's Key Puzzle Game,0.0
+388,SDL-Port of Wolfenstein 3-D and Spear of Destiny,SDL-Port of Wolfenstein 3-D and Spear of Destiny,SDL-Port of Wolfenstein 3-D and Spear of Destiny,1.0
+389,Należy przenieść ~a na króla karo.,Move ~a onto the king of diamonds.,You should move ~a to the king of diamonds.,0.367
+390,"Można teraz uruchomić przeglądarkę internetową, albo wkleić ten adres URL do przeglądarki na innym komputerze.","You can launch a browser now, or copy this URL into a browser on another computer.","You can now launch a web browser, or paste this URL into a browser on another computer.",0.518
+391,Nauka programowania w języku BASIC w środowisku zaprojektowanym dla małych dzieci,Learn BASIC in an environment designed for young children,Learning to program in BASIC in an environment designed for young children,0.619
+392,Open Cubic Player 0.1.20 dla systemu UNIX,Open Cubic Player 0.1.20 for UNIX,Open Cubic Player 0.1.20 dla systemu UNIX,0.455
+393,Animator sieci oparty na Qt4 z ns-3,Network animator based on Qt4 working with ns-3,Qt4 based web animator with ns-3,0.0
+394,Trójwymiarowy FPS (strzelanka) z wysokiej jakości efektami graficznymi,A networked 3D first person shooter game with high-quality graphic effects,Three-dimensional FPS (shooter) with high quality graphic effects,0.0
+395,Gra w Puzzle inspirowana puzzlami Einsteina,"""Puzzle game inspired on Einstein's puzzle""",A Puzzle Game Inspired by Einstein's Puzzles,0.0
+396,36 rodzajów puzzli dla całej rodziny,36 puzzle games for all the family,36 types of puzzles for the whole family,0.0
+397,Zarządzanie uruchomionymi procesami i zasobami systemu oraz sieci,View current processes and monitor system state,Managing running processes and system and network resources,0.0
+398,Tworzenie dysków startowych za pomocą obrazu płyty CD,Create a startup disk using a CD or disc image,Creating bootable disks using a CD image,0.0
+399,Nagrywa dźwięk z wejścia audio i zapisuje go w postaci nut,Create scores on-the-fly by recording from mic,Records sound from audio input and saves it as notes,0.0
+400,Należy przenieść ~a na damę kier.,Move ~a onto the queen of hearts.,Move ~a to the lady of hearts.,0.0
+401,Nieobsługiwany format WAV %d dla %s,Unsupported WAV format %d for %s,WAV format not supported %d for %s,0.0
+402,Edytor napisów do filmów oparty o GStreamera i GTK+,A subtitle editor based on GStreamer and Gtk+,Video subtitle editor based on GStreamer and GTK+,0.841
+403,Ignorowanie przyszłych błędów tej wersji programu,Ignore future problems of this program version,Ignoring future bugs of this program version,0.435
+404,"Gra w stylu Yahtzee z otwartym kodem źródłowym, napisana w C#",An open source Yahtzee like game written in C#,Open source Yahtzee style game written in C#,0.432
+405,Szybkie i lekkie zintegrowane środowisko programistyczne GTK2,A fast and lightweight IDE using GTK2,GTK2 fast and lightweight integrated development environment,0.0
+406,Słownik StarDict oparty o bibliotekę Qt,QStarDict is Qt version of StarDict,StarDict dictionary based on Qt library,0.0
+407,Zarządzanie bazą danych nośników wymiennych bez potrzeby łączenia ich z komputerem.,"GWhere allows one to manage a database of your CDs and other removable media (hard disks, floppy drive, Zip drive, CD-ROM, etc...). With GWhere it's easy to browse yours CDs or to make quick search without need to insert yours CDs in the drive repeatedly.",Manage a database of removable media without connecting it to a computer.,0.065
+408,"%s: błąd przy usuwaniu dostępowego acl dla ""%s"": %s","%s: error removing access acl on ""%s"": %s",%s: error deleting access acl for '%s': %s,0.0
+409,"Zarządzaj muzyką, filmami i obrazami na iPodzie","Manage music, video and photos on an Apple iPod","Manage music, videos and images on your iPod",0.0
+410,Tworzy proste wykresy danych w dwuwymiarowym układzie współrzędnych,Produce simple xy-plots of scientific data,Creates simple graphs of data in a two-dimensional coordinate system,0.0
+411,"Pomoc w debugowaniu, modyfikacji i tworzeniu kodów, dzięki możliwości jego podświetlania","Develop, modify or debug a source-highlight definition file","Help in debugging, modifying and creating code, thanks to the possibility of its highlighting",0.0
+412,"Nagrywaj, miksuj i obrabiaj wielościeżkowe pliki dźwiękowe","Record, mix and master multi-track audio","Record, mix and process multi-track audio files",0.0
+413,Trójwymiarowy interfejs graficzny do analizy danych naukowych,Valued point cloud visualisation and analysis,Three-dimensional graphical interface for scientific data analysis,0.0
+414,Gra Drill do nauki japońskich znaków Kana,Drill game to learn Japanese kana characters,Drill game for learning Japanese Kana characters,0.0
+415,Wysyłanie i odbieranie poczty z Thunderbird,Send and receive mail with Thunderbird,Sending and receiving mail from Thunderbird,0.0
+416,%s: Usunięcie wiodącego '/' ze ścieżek bezwzględnych,%s: Removing leading '/' from absolute path names,%s: Remove leading '/' from absolute paths,0.0
+417,"Klient komunikatora MSN, Gtalk oraz Facebook","Instant messaging client for MSN, Gtalk and Facebook","MSN, Gtalk and Facebook messenger client",0.366
+418,"Cofa, aż będzie jest wystarczająco dużo kart, aby zapełnić wszystkie stosy na tableau",Undo until there are enough cards to fill all tableau piles,Backs up until there are enough cards to fill all the stacks on the tableau,0.486
+419,Należy przenieść ~a na dwójkę kier.,Move ~a onto the two of hearts.,It is necessary to transfer ~a to the two directions.,0.0
+420,"Podaj nazwę pliku logów, generowanych przez valgrind",specify the log file name produced by valgrind,Enter the file name of the logs generated by valgrind,0.0
+421,"Kodeki do otwarzaniaplików mpeg, divx, mpeg4, ac3, wmv i asf","Codecs to play mpeg, divx, mpeg4, ac3, wmv and asf files","Codecs to open mpeg, divx, mpeg4, ac3, wmv and asf files",0.742
+422,Interfejs GTK dla narzędzia synchronizacji plików unison 2.40.102,GTK interface for the unison file synchronization tool 2.40.102,GTK interface for the unison file synchronization tool 2.40.102,1.0
+423,"Lista napisów zawierających pięć elementów: nazwa, zwycięstwa, liczba rozegranych gier, najlepszy czas (w sekundach) i najgorszy czas (również w sekundach). Gry nierozegrane nie są przedstawiane.","A list of strings that come in the form of a quintuple: name, wins, total games played, best time (in seconds) and worst time (also in seconds). Unplayed games do not need to be represented.","A list of captions containing five elements: name, wins, number of games played, best time (in seconds) and worst time (also in seconds). Unplayed games are not shown.",0.442
+424,"Edytor dopasowań sekwencji wielokrotnych DNA, białek i drzew filogenetycznych z zapisem w formacie PostScript",Edits multiple sequence alignments and prints them in PostScript format.,"Editor of multiple sequence matches of DNA, proteins and phylogenetic trees with writing in PostScript format",0.0
+425,Klient połączenia z MUD ( Multi User Dungeons RPG ),Connect to MUDs (Multi User Dungeons),MUD ( Multi User Dungeons RPG ) connection client,0.0
+426,Zarządzanie i zmiana ustawienia połączeń L2TP IPsec VPN,Manage and change your L2TP IPsec VPN connection settings,Managing and changing L2TP IPsec VPN connection settings,0.467
+427,Strategiczna gra turowa zainspirowana historią ludzkiej cywilizacji,Turn-based strategy game inspired by the history of human civilization,A turn-based strategy game inspired by the history of human civilization,0.905
+428,"Wysokiej jakości, brutalna, trójwymiarowa gra akcji FPP","A high quality, fast scrolling first-person perspective 3D action game","High-quality, brutal, 3D FPP action game",0.0
+429,Uruchamia aplikacje EMBOSS Explorer w Twojej domyślnej przeglądarce internetowej,Starts the default web browser on the local EMBOSS Explorer website.,Runs EMBOSS Explorer applications in your default web browser,0.0
+430,"To, że przejście dla pieszych wygląda jak pole do gry w klasy, nie znaczy że nim jest",Just because a crosswalk looks like a hopscotch board doesn't mean it is one,Just because a pedestrian crossing looks like a classroom field doesn't mean it is,0.329
+431,Pozwala na badanie i oglądanie cząsteczek białek oraz niektórych objektów geometrycznych,Visualize and investigate proteins and some geometric objects,Allows you to study and view protein molecules and some geometric objects,0.222
+432,"Gra typu puzzle w 2D, gdzie poruszasz się małym, puszystym kotkiem pomiędzy strugami deszczu",2D puzzle game featuring a fuzzy little cat,"A 2D puzzle game where you move a small, fluffy cat between the streams of rain",0.0
+433,Środowisko graficzne IDE dla mikrokontrolerów opartych o MCS-51,Graphical IDE for MCS-51 based microcontrollers,Graphical IDE environment for microcontrollers based on the MCS-51,0.0
+434,"Gra typu puzzle, w której należy doprowadzić wodę do zbiornika",Vodovod is a puzzle game in which you must lead the water to the storage tank.,A puzzle game where you have to bring water to a tank,0.0
+435,%s: %s: Nie można zmienić właściciela/grupy: %s,%s: %s: Cannot change owner/group: %s,%s: %s: Cannot change owner/group: %s,1.0
+436,"Znaczniki zapisane wielkimi literami ""RWLIMX"" nie są już aktualne. Proszę używać małych liter. Więcej informacji można znaleźć w podręczniku systemowym apparmor.d(5).","Uppercase qualifiers ""RWLIMX"" are deprecated, please convert to lowercase See the apparmor.d(5) manpage for details.","Tags written in uppercase ""RWLIMX"" are no longer valid. Please use lower case letters. For more information, see the apparmor.d(5) system manual.",0.0
+437,"Wyświetla, zmienia i zapisuje obrazy z kamery internetowej","View, alter and save images from a webcam","Displays, changes and saves webcam images",0.0
+438,Stwórz własny show radiowy lub podcast!,Create your live radio show or podcast,Create your own radio show or podcast!,0.489
+439,"Symulator kolei, kompatybilny z trasami 'BVE Trainsim'",Train/railway simulator compatible with 'BVE Trainsim' routes,"Railway simulator, compatible with 'BVE Trainsim' tracks",0.615
+440,Odtwarzacz telewizji cyfrowej (DVB) dla GNOME,A digital television (DVB) viewer for GNOME,Digital TV (DVB) player for GNOME,0.0
+441,Pozwala na tłumaczenie tekstów oraz zawartości stron internetowych,Translate a text or web page,Allows you to translate text and web content,0.0
+442,Kreator interfejsów użytkownika w oparciu o biblioteki wxWidgets/wxPython,GUI designer written in Python with wxPython,User interface wizard based on wxWidgets/wxPython libraries,0.0
+443,Należy przenieść ~a na puste górne miejsce.,Move ~a onto an empty top slot.,You should move ~a to the empty top space.,0.0
+444,"Pobieraj i dziel się plikami, używając sieci P2P BitTorrent",Download and share files using the BitTorrent P2P network,Download and share files using the P2P BitTorrent network,0.65
+445,"Tworzenie szkiców, schematów blokowych oraz logo w programie Draw","Create and edit drawings, flow charts and logos by using Draw.","Creating sketches, flowcharts and logos in Draw",0.0
+446,Należy umieścić dziewiątkę karo obok ósemki karo.,Place the nine of diamonds next to the eight of diamonds.,Place the nine of diamonds next to the eight of diamonds.,1.0
+447,"Przeglądarka plików PDF z zakładkami, wykorzystująca bibliotekę poppler",A tabbed PDF viewer using the poppler library.,"PDF viewer with bookmarks, using poppler library",0.0
+448,Aktualizuje i zarządza dziennikami online (blogami),Update and manage your online journal,Updates and manages online logs (blogs),0.0
+449,Aplikacja do wykonywania obliczeń i działań na wyrażeniach algebraicznych,An interface to the Maxima Computer Algebra System,Application for performing calculations and operations on algebraic expressions,0.0
+450,Należy umieścić dziewiątkę trefl obok ósemki trefl.,Place the nine of clubs next to the eight of clubs.,Place the nine of clubs next to the eight of clubs.,1.0
+451,"Program %s rozpowszechniany jest z nadzieją, iż będzie on użyteczny - jednak BEZ JAKIEJKOLWIEK GWARANCJI, nawet domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ albo PRZYDATNOŚCI DO OKREŚLONYCH ZASTOSOWAŃ. W celu uzyskania bliższych informacji należy zapoznać się z Powszechną Licencją Publiczną GNU.","%s is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.","The %s program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY, not even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR USE. Please see the GNU General Public License for more information.",0.741
+452,Błąd podczas dodawania reguły dostępu hat dla profilu %s,ERROR adding hat access rule for profile %s,Error while adding hat access rule for profile %s,0.767
+453,Uruchomia w trybie aktualizacji zgłoszenia błędu. Można użyć z opcją --package.,Start in bug updating mode. Can take an optional --package.,Runs in bug report update mode. Can be used with the --package option.,0.0
+454,Zintegrowany edytor MIDI piano roll oraz silnik sekwencera,Integrated MIDI piano roll editor and sequencer engine,Integrated MIDI piano roll editor and sequencer engine,1.0
+455,Gra retro multitouch: użyj dwóch pokręteł aby narysować obraz,Retro game goes multitouch: use two knobs to paint a picture,Retro multitouch game: use two knobs to draw a picture,0.309
+456,"Rozświetl puste miejsca, wkręcając żarówki. Kolekcja gier - układanek",Light up all the empty squares by placing light bulbs in some of them,Light up the empty spaces by screwing in light bulbs. Collection of Jigsaw Games,0.0
+457,"Edytuje treść ebooków, zapisanych w formacie PDF",Edit text from ebook PDF files,Edits content of ebooks saved in PDF format,0.0
+458,Spektroskopiczna tabela okresowa absorpcji promieniowania X,The x-ray absorption spectroscopist's periodic table,Spectroscopic periodic table of X-ray absorption,0.0
+459,"Powszechnie używane programy z ograniczonymi dla Xubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash)","Commonly used applications with restricted copyright (mp3, avi, mpeg, TrueType, Java, Flash)","Commonly used programs with Xubuntu restricted proprietary rights (mp3, avi, mpeg, TrueType, Java, Flash)",0.42
+460,Należy umieścić waleta trefl obok dziesiątki trefl.,Place the jack of clubs next to the ten of clubs.,Place the jack of clubs next to the ten of clubs.,1.0
+461,Interaktywny interpreter wielojęzykowy obsługujący większość formatów IF,Interactive Fiction multi-interpreter that supports all major IF formats,Interactive multilingual interpreter supporting most IF formats,0.0
+462,Nastąpiło to podczas poprzedniej hibernacji systemu i uniemożliwiło poprawne wznowienie.,This occured during a previous hibernate and prevented it from resuming properly.,This occurred during a previous system hibernation and prevented correct resumption.,0.0
+463,Twórzy i edytuje grafikę wektorową w formacie Scalable Vector Graphics(SVG),Create and edit Scalable Vector Graphics images,Creates and edits vector graphics in Scalable Vector Graphics(SVG) format,0.0
+464,Program do analizy przemówień i transkrypcji za pomocą zintegrowanego edytora,Transcribe speech data using an integrated editor,Speech analysis and transcription software with integrated editor,0.0
+465,Prosty selektor i pipeta kolorów GTK2,Simple GTK2 color selector and picker,A simple GTK2 color selector and pipette,0.643
+466,Prosty interfejs graficzny GTK do interaktywnej konfiguracji Liquidsoap,Simple GTK gui to liquidsoap to interactively configure your streams.,Simple GTK graphical interface for interactive Liquidsoap configuration,0.0
+467,Znajdź problemy zarządzania pamięcią za pomocą narzędzia Valgrind,Find memory-management problems in your programs using the valgrind tool,Find memory management problems with the Valgrind utility,0.0
+468,"Klon klasycznej gry arkadowej ""Breakout"" dla GNOME",Play a clone of the classic arcade game Breakout for GNOME,"Clone of the classic arcade game ""Breakout"" for GNOME",0.786
+469,Wielowymiarowa grafika interaktywna do eksploracyjnej analizy danych,Multivariate interactive graphics for exploratory data analysis,Multidimensional interactive graphics for exploratory data analysis,0.809
+470,"Wysyła ed2k://, magnet: or *.emulecollection do silnika","Sends ed2k://, magnet: or *.emulecollection to the engine","Sends ed2k://, magnet: or *.emulecollection to the engine",1.0
+471,Należy przenieść ~a na szóstkę kier.,Move ~a onto the six of hearts.,You should move ~a to the six of hearts.,0.367
+472,Gra o interakcjach w społeczności ogrodników,Game about the interactions within a gardening community,A game about interactions in the gardening community,0.0
+473,Metronom MIDI KDE dla sekwencerów ALSA,KDE MIDI Metronome Using ALSA Sequencer,MIDI KDE Metronome for ALSA sequencers,0.0
+474,Klasyczna dwuwymiarowa gra przygodowa typu wskaż i kliknij,classic 2D point and click adventure game,Classic two-dimensional point and click adventure game,0.643
+475,Klasyczna gra w szachy dla dwóch osób,Play the classic two-player boardgame of chess,The classic game of chess for two,0.0
+476,"Pomaga zarządzać finansami, kontami i inwestycjami","Manage your finances, accounts, and investments","Helps manage finances, accounts and investments",0.537
+477,Administracja dla kont pocztowych z serwerów IMAP Cyrus,Administer the mailboxes of your IMAP Cyrus servers,Administration for mail accounts from Cyrus IMAP servers,0.0
+478,"Zarządzanie rezerwacjami dla hoteli, hosteli oraz BB","Manage the reservations for your hotel, hostel or BB","Reservation management for hotels, hostels and BB",0.0
+479,Należy przenieść ~a na asa pik.,Move ~a onto the ace of spades.,You should move ~a to the ace of spades.,0.367
+480,Zarządzanie urządzeniami BlackBerry za pomocą graficznego interfejsu użytkownika,Manage BlackBerry devices from a central GUI.,Managing BlackBerry devices using a graphical user interface,0.0
+481,Należy umieścić dziewiątkę kier obok ósemki kier.,Place the nine of hearts next to the eight of hearts.,Place the nine of hearts next to the eight of hearts.,1.0
+482,"Usuwa, rozpakowuje i obraca strony dokumentów PDF","Remove, extract, and rotate pages in PDF documents","Deletes, extracts and rotates pages in PDF documents",0.366
+483,Frontend do odtwarzania strumieni multimedialnych video w czasie rzeczywistym,Streaming Direct Broadcast System based on P2P,Frontend for playing multimedia video streams in real time,0.0
+484,Trójwymiarowa Szalka Petriego do demonstracji rozwoju sztucznego życia,Petri dish universe in 3D that demonstrates evolving artificial life,Three-dimensional Petri dish to demonstrate the development of artificial life,0.0
+485,"Zapis, odtwarzanie, edycja i konwersja plików audio","Record, play, edit and convert sound files","Recording, playback, editing and conversion of audio files",0.0
+486,"Wieloplatformowe środowisko języka BASIC do tworzenia gier, opartych o biblioteki SDL",Multiplatform basic interpreter for the development of videogames,Multi-platform BASIC language environment for creating games based on SDL libraries,0.0
+487,"Łap gemy i odrzucaj je, zanim Cię przygniotą",Grab the gems and throw them back up before they crush you,Catch gems and discard them before they crush you,0.262
+488,Wskaźnik głośności zgodny z wytycznymi EBU-R128 dla JACK,Loudness meter according to EBU-R128 for JACK,Volume indicator according to EBU-R128 guidelines for JACK,0.0
+489,Organizacja i obróbka zdjęć z aparatów cyfrowych,Organize and develop images from digital cameras,Organizing and processing photos from digital cameras,0.0
+490,Gra w kości w stylu pokera,Beat the odds in a poker-style dice game,A poker-style dice game,0.346
+491,Transmisja strumieni multimedialnych przez system Icecast,Broadcast multimedia streams over an Icecast system,Media streaming via Icecast,0.0
+492,Należy umieścić szóstkę kier obok piątki kier.,Place the six of hearts next to the five of hearts.,Place the six of hearts next to the five of hearts.,1.0
+493,Pokazuje i zapisuje w dzienniku dane transmisji dla programów Altus Metrum,View and log downlink data from Altus Metrum products,Shows and logs transmission data for Altus Metrum programs,0.0
+494,Narzędzie dla sędziów do analizy nagrań imprez sportowych,Sports video analysis tool for coaches,A tool for referees to analyze recordings of sporting events,0.0
+495,Tworzy płytę instalacyjną LiveCD lub jej obraz ISO według własnych preferencji językowych i zawartości pakietów,Customize your Ubuntu Desktop CDs easily,Creates a LiveCD or ISO image according to your language preferences and package contents,0.0
+496,Należy umieścić szóstkę pik obok piątki pik.,Place the six of spades next to the five of spades.,The six of spades should be placed next to the five of spades.,0.585
+497,"Element wykonalny uruchamiany poprzez narzędzie memcheck programu Valgrind, mające za zadanie detekcję wycieków pamięci",the executable that is run under valgrind's memcheck tool for memory leak detection,An executable run by Valgrind's memcheck utility to detect memory leaks,0.0
+498,Narzędzie filtrujące sygnał i obraz (program demo bazujący na guidata oraz guiqwt),Signal and Image Filtering Tool (demo software based on guidata and guiqwt),Signal and image filtering tool (demo program based on guidata and guiqwt),0.735
+499,Program do obróbki i przetwarzana zeskanowanych dokumentów tekstowych,Interactive post-processing tool for scanned pages,Software to process and handle scanned text documents,0.0
+500,Generator zadań z matematyki dla szkół francuskich,Generator for math worksheets for french college,Math task generator for French schools,0.0
+501,Automatycznie zmieniaj nazwy plików i sortuj je w wybranym porządku,Automatically rename files have them sort in given order,Rename files automatically and sort them in the order you want,0.0
+502,Desktopowa aplikacja organizera dla Palm Pilot,Desktop organizer application for the Palm Pilot,Desktop organizer application for Palm Pilot,0.489
+503,Program do udostępniania widoku pulpitu zdalnym komputerom,Choose how other users can remotely view your desktop,Software to share desktop view with remote computers,0.0
+504,"Określa nazwę pakietu w trybie zgłaszania błędu. Opcjonalne, jeśli użyto opcję --pid (wymuszone, jeśli podano nazwę pakietu jako parametr).",Specify package name in --file-bug mode. This is optional if a --pid is specified. (Implied if package name is given as only argument.),Specifies the name of the package in error reporting mode. Optional if the --pid option is used (forced if package name is given as a parameter).,0.234
+505,błąd odczytu (wywołanie z linii %i),read error (called from line %i),read error (call from line %i),0.0
+506,Umieszcza ikony aplikacji w panelu pulpitu,Docks any application into system tray,Places application icons on the desktop panel,0.0
+507,Pustą kartę przenosi do pustego tymczasowego miejsca,Move a card to an empty temporary slot,Blank card moves to an empty temporary space,0.366
+508,Proste środowisko GTK do testowania i wyświetlania danych wiimote,Simple GTK gui to the wiimote to test and display the wiimote data.,A simple GTK environment for testing and displaying wiimote data,0.0
+509,Wykonuje zdjęcia przy pomocy kamery internetowej (webcam),Take any picture with your web cam,Takes pictures with a webcam,0.0
+510,"-l,--list wypisuje bieżące połączenia każdego z portów","-l,--list list current connections of each port","-l,--list lists the current connections of each port",0.558
+511,Zakres rozmiaru okresu od %lu do %lu,Period size range from %lu to %lu,Period size range %lu to %lu,0.0
+512,Należy umieścić króla karo obok damy karo.,Place the king of diamonds next to the queen of diamonds.,Place the King of diamonds next to the Queen of diamonds.,1.0
+513,Odblokowanie dostępu do haseł oraz innych sekretów,Unlock access to passwords and other secrets,Unlocking access to passwords and other secrets,0.809
+514,"-d,--dest addr : zapis pod podany adres (klient:port)","-d,--dest addr : write to given addr (client:port)","-d,--dest addr : write to the specified address (client:port)",0.377
+515,Należy umieścić dwójkę kier obok asa kier.,Place the two of hearts next to the ace of hearts.,Place the two of hearts next to the ace of hearts.,1.0
+516,Należy przenieść ~a na waleta trefl.,Move ~a onto the jack of clubs.,You should move ~a to the jack of clubs.,0.367
+517,Należy przenieść ~a na piątkę karo.,Move ~a onto the five of diamonds.,You should move ~a to the five of diamonds.,0.367
+518,Należy umieścić ósemkę pik obok siódemki pik.,Place the eight of spades next to the seven of spades.,The eight of spades should be placed next to the seven of spades.,0.585
+519,Aplikacja błyskawicznego otwierania programów i dokumentów,Convenient command and access tool for applications and documents,Instant application to open programs and documents,0.0
+520,Tłumaczy słowa lub zdania przy użyciu internetowego serwisu translacyjnego,Translate words or sentences using an online translation service,Translates words or sentences using an online translation service,0.863
+521,Programowa analiza i wizualizacja danych symulacji badań atomów,Scientific visualization and analysis software for atomistic simulation data.,Software analysis and visualization of atomic test simulation data,0.0
+522,Sparc Audio nie obsługuje formatu %s,Sparc Audio doesn't support %s format...,Sparc Audio does not support the %s format,0.0
+523,Należy przenieść ~a na puste prawe miejsce.,Move ~a onto an empty right slot.,Move ~a to the empty right-hand space.,0.0
+524,"bufor za mały, nie można go użyć","buffer to small, could not use","buffer too small, can't use it",0.0
+525,Narzędzie graficzne do przetwarzania i klasyfikacji retrotranspozonów LTR,A graphical tool for postprocessing and classification of LTR retrotransposons.,A graphical tool for processing and classification of LTR retrotransposons,0.658
+526,Interfejs graficzny do wyświetlania strumieni wideo oraz radiowych Shoutcast lub Icecast,Lists audio and video streams from shoutcast and icecast,Graphical interface for displaying Shoutcast or Icecast video and radio streams,0.0
+527,Aplikacja do pobierania i zarządzania aplikacjami,Application to get and manage software,Download and manage applications,0.0
+528,Zakres rozmiaru bufora od %lu do %lu,Buffer size range from %lu to %lu,Buffer size range %lu to %lu,0.0
+529,Należy przenieść ~a na waleta karo.,Move ~a onto the jack of diamonds.,You should move ~a to the jack of diamonds.,0.367
+530,Konfigurator demona serwera TCOS oraz użytkowników,Configure TCOS server daemons and users,TCOS server and user daemon configurator,0.0
+531,%s nie jest strumieniem mono (%d kanaly/ów),%s is not a mono stream (%d channels),%s is not a mono stream (%d channels),1.0
+532,Usuń informacje o używanych plikach i aplikacjach,Delete records of which files and applications were used:,Remove information about used files and applications,0.0
+533,Zintegrowane środowisko programistyczne dla Pythona (IDE dla python-3.3),Integrated Development Environment for Python (using Python-3.3),Integrated Development Environment for Python (IDE for python-3.3),0.558
+534,Zjadaj pyszne warzywa w ogrodzie (gra przeznaczona dla małych dzieci),Eat the yummy veggies in the garden (game for small kids),Eat yummy vegetables in the garden (game designed for small children),0.3
+535,Program do edycji zdjęć i tworzenia grafik rastrowych,painting program to create pixel art and manipulate digital photos,Software for editing photos and creating raster graphics,0.0
+536,Należy umieścić siódemkę trefl obok szóstki trefl.,Place the seven of clubs next to the six of clubs.,Place the seven of clubs next to the six of clubs.,1.0
+537,Kreator atlasów offline dla aplikacji komórkowych i GPS,create offline-atlases for GPS/cell phone applications,Offline atlas creator for mobile and GPS applications,0.0
+538,Rozwijaj oprogramowanie w zintegrowanym środowisku programistycznym,Develop software in an integrated development environment,Develop software in an integrated development environment,1.0
+539,Nieustawiona zmienna logiczna %s użyta w wyrażeniu if.,Unset boolean variable %s used in if-expression,Unset Boolean variable %s used in an if statement.,0.608
+540,Program do odtwarzania fragmentów plików dźwiękowych ze zmienną prędkością,A tool to play back a piece of music at a different speed or pitch,Program to play fragments of audio files at variable speed,0.0
+541,Należy przenieść ~a na szóstkę karo.,Move ~a onto the six of diamonds.,Move ~a to the six of diamonds.,0.489
+542,Zgłoszenia błędów zawierają informacje o działaniu programu podczas awarii. Użytkownik może w dowolnej chwili wysłać lub anulować raport.,Error reports include information about what a program was doing when it failed. You always have the choice to send or cancel an error report.,Error reports contain information about the operation of the program during a crash. The user can send or cancel the report at any time.,0.0
+543,Applikacja ułatwiająca zarówno granie jak i zarządzanie modułami gry Dink,"Run, edit, install, remove and package D-Mods (Dink Modules)",An app that makes it easy to both play and manage Dink game modules,0.0
+544,Narzędzie programistyczne RAD dla języka Python i WxWindows,RAD Tool for Python and WxWindows,RAD development tool for Python and WxWindows,0.673
+545,Wewnętrzny błąd spowodował utworzenie nieprawidłowego uprawnienia 0x%llx,Internal error generated invalid perm 0x%llx,An internal error has created an invalid permission 0x%llx,0.0
+546,Udostępnij klawiaturę i mysz przez sieć,Share your keyboard and mouse over a network,Share keyboard and mouse over network,0.383
+547,"Modeluje struktury molekuł, tworząc ich wysokiej jakości obrazy",Model molecular structures and produce high-quality images of them,"Models the structures of molecules, producing high-quality images of them",0.282
+548,Dwuwymiarowa gra platformowa o komunistach i kapitalistach,2D platform game about communist and capitalist balls,A 2D platform game about communists and capitalists,0.366
+549,Określa katalog podręczny pakietów pobieranych do piaskownicy,Cache directory for packages downloaded in the sandbox,Specifies the cache directory of packages downloaded to the sandbox,0.0
+550,Należy umieścić dwójkę pik obok asa pik.,Place the two of spades next to the ace of spades.,You should place the deuce of spades next to the ace of spades.,0.619
+551,podzbiór może być użyty tylko z regułami łączy.,subset can only be used with link rules.,The subset can only be used with link rules.,0.882
+552,Programowy renderer dźwięku (sekwencer MIDI oraz odtwarzacz MOD),"Software sound renderer (MIDI sequencer, MOD player)",Software sound renderer (MIDI sequencer and MOD player),0.613
+553,nie można odtworzyć plików WAVE z próbkowaniem o rozmiarze %d bitów,can't play WAVE-files with sample %d bits wide,WAVE files with sampling size %d bits cannot be played,0.0
+554,Wyszukiwarka GNOME do odnajdywania wyrazów w zbiorach plików,GNOME tool to find strings in a set of files,GNOME Search Engine for finding words in file collections,0.0
+555,Należy przenieść ~a na asa kier.,Move ~a onto the ace of hearts.,You should move ~a to the ace of hearts.,0.367
+556,Kontroler wyrzutni rakiet USB Marks and Spencer,Control Marks and Spencer USB Missile Launcher,USB rocket launcher controller Marks and Spencer,0.0
+557,Wyświetla aktualny czas innych stref czasowych,See the time in other timezones,Displays the current time of other time zones,0.0
+558,"Multiplatformowy komunikator internetowy, obsługujący: Gadu-Gadu, Google Talk, Facebook, MSN, Yahoo i wiele innych","Chat on Google Talk, Facebook, MSN and many other chat services","Multiplatform instant messenger, supporting: Gadu-Gadu, Google Talk, Facebook, MSN, Yahoo and many more",0.233
+559,"Graficzny odtwarzacz muzyki, napisany w języku C",Gimmix is a graphical music player daemon (MPD) client written in C.,"Graphical music player, written in C",0.0
+560,Zaawansowany program logujący dla operatorów krótkofalówek,Advanced logging program for hamradio operators,Advanced logging program for ham radio operators,0.455
+561,Program do rysowania i obróbki zdjęć,Application for Drawing and Handling of Images,Software for drawing and editing photos,0.0
+562,Narzędzie do strukturyzowania i organizacji informacji za pomocą map myślowych,A free tool to structure and organise your information with mind mapping,A tool for structuring and organizing information using mind maps,0.0
+563,Interfejs graficzny do łatwej konfiguracji programu Synergy,A graphical interface for easily configuring Synergy,Graphical interface for easy Synergy configuration,0.0
+564,Dodaje informacje współrzędnych GPS do plików jpeg,Add coordinates to jpeg images using gpx files,Adds GPS coordinate information to jpeg files,0.0
+565,Odbijanie piłki w stylu gry breakout z doskonałą grafiką,A ball-and-paddle game with nice graphics.,Bouncing ball style breakout game with great graphics,0.0
+566,Czat głosowy na serwerach Ventrilo 3.x,Voice chat on Ventrilo 3.x servers,Voice chat on Ventrilo 3.x servers,1.0
+567,"%s: błąd przy usuwaniu domyślnego acl dla ""%s"": %s","%s: error removing default acl on ""%s"": %s",%s: error deleting default acl for '%s': %s,0.0
+568,Sekwencer audio z obsługą MIDI i wielościeżkowym edytorem muzyki,MIDI and Audio Sequencer and Notation Editor,Audio sequencer with MIDI support and multi-track music editor,0.0
+569,Pozwala odbierać i wysyłać wiadomości tekstowe z telefonu komórkowego,Receive and send text messages from your mobile phone,Allows you to receive and send text messages from your mobile phone,0.717
+570,"Zarządza oprogramowaniem, zainstalowanym z kodów źródłowych",Manages software installed from source code,Manages software installed from source codes,0.76
+571,Należy przenieść ~a na puste miejsce.,Move ~a onto an empty slot.,Move ~a to the empty space.,0.0
+572,"Wysyła i pobiera pliki przez protokoły FTP, FTPS oraz SFTP","Download and upload files via FTP, FTPS and SFTP","Uploads and downloads files via FTP, FTPS and SFTP protocols",0.546
+573,Zestaw gier typu puzzle dla jednego gracza,Deduce the positions of the balls by firing lasers,A set of puzzle games for one player,0.0
+574,Gra wideo z myszą w labiryncie,video game with mice in a maze,A video game with a mouse in a maze,0.0
+575,%s: Błąd podczas przetwarzania końcowego wyrażenia regularnego. Proces przerwano.,%s: Errors found during regex postprocess. Aborting.,%s: Error while processing final regular expression. The process was aborted.,0.0
+576,"Klient IRC, stworzony na bazie aplikacji XChat",Chat with other people using Internet Relay Chat,IRC client based on XChat application,0.0
+577,Należy umieścić czwórkę trefl obok trójki trefl.,Place the four of clubs next to the three of clubs.,Place the four of clubs next to the three of clubs.,1.0
+578,Klient BBS oparty o linuksową bibliotekę Qt,BBS client based on Qt library in linux,BBS client based on Linux Qt library,0.427
+579,QjackCtl - JACK Audio Connection Kit Qt GUI Interface,QjackCtl is a JACK Audio Connection Kit Qt GUI Interface,QjackCtl - JACK Audio Connection Kit Qt GUI Interface,0.661
+580,"Nie można odtworzyć pętli, %s nie obsługuje skoków",can't play loops; %s isn't seekable,"Cannot reproduce loop, %s does not support jumps",0.0
+581,"Umieszczaj punkty tak, aby łączące je linie nie przecinały się",Position the points so that no line crosses another,Place the points so that the connecting lines do not intersect,0.239
+582,"Kompresja, dekompresja, zmiana częstotliwości próbkowania oraz formatów plików dźwiękowych",X Convert File Audio. Programme pour convertir les fichiers audio.,"Compression, decompression, changing sample rates and formats of audio files",0.0
+583,"Nie można uruchomić przeglądarki internetowej, aby otworzyć %s.",Unable to start web browser to open %s.,Unable to launch web browser to open %s.,0.595
+584,Graj w stare gry na emulatorze MAME,Play vintage arcade games using the MAME emulator,Play old games on MAME emulator,0.0
+585,Maszyna wirtualna z MMU dla FreeMiNT i Linux-m68k,Virtual Machine with MMU for FreeMiNT and Linux-m68k,Virtual machine with MMU for FreeMiNT and Linux-m68k,1.0
+586,Tworzenie filmów ze zdjęć i klipów wideo,Movie creator from photos and video clips,Create movies from photos and video clips,0.615
+587,"Program do porządkowania przepisów, tworzenia listy zakupów, obliczania informacji odżywczych oraz wielu tym podobnych rzeczy.","Organize recipes, create shopping lists, calculate nutritional information, and more.","A program for organizing recipes, creating shopping lists, calculating nutritional information, and many such things.",0.0
+588,Należy przenieść kartę z zapasu na puste miejsce tableau,Move a card from the reserve onto the empty tableau slot,Move a card from the inventory to an empty space in the tableau,0.329
+589,Klient Fax z monitorem połączeń dla urządzeń AVM FRITZ!Box oraz kompatybilnych,Fax-Software and Call-Monitor for AVM FRITZ!Box or compatible,Fax client with call monitor for AVM FRITZ!Box and compatible devices,0.0
+590,Umożliwia tworzenie i edycję zaawansowanych dokumentów tekstowych z elementami grafiki,"Create and edit text and graphics in letters, reports, documents and Web pages by using Writer.",Enables creation and editing of advanced text documents with graphic elements,0.0
+591,"-f dat (16 bit little endian, 48000, stereo)","-f dat (16 bit little endian, 48000, stereo)","-f dat (16 bit little endian, 48000, stereo)",1.0
+592,"Powszechnie używane programy z ograniczonymi dla Ubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash, kodeki)","Commonly used applications with restricted copyright (mp3, avi, mpeg, TrueType, Java, Flash, Codecs)","Commonly used programs with Ubuntu-restricted proprietary rights (mp3, avi, mpeg, TrueType, Java, Flash, codecs)",0.495
+593,Program GENPO zamieni Twój komputer w prawdziwe organy!,GENPO is the GENeral Purpose Organ.,The GENPO program will turn your computer into a real organ!,0.0
+594,Projektant graficzny dla starterów RNA oraz reakcji PCR,Graphical design of primers for PCR and sequencing,Graphic designer for RNA primers and PCR reactions,0.0
+595,Kanał %2d: Zdarzenie kontrolne : %5d,Channel %2d: Control event : %5d,Channel %2d: Control event : %5d,1.0
+596,Konfigurator dodawania elementów do menu kontekstowego Nautilus,Configure items to be added to the Nautilus context menus,Configurator for adding items to Nautilus context menu,0.0
+597,"Schematy, przechwytywanie i symulacja układów elektronicznych","Schematic, capture and simulation of electronic circuits","Schematics, capture and simulation of electronic circuits",0.809
+598,Błąd alokacji pamięci: Nie można usunąć %s:%s.,Memory Allocation Error: Unable to remove %s:%s.,Memory allocation error: Unable to delete %s:%s.,0.643
+599,Wtyczka dla programu Totem dla telewizji Arte,A totem plugin to watch streams from arte.tv,Plug-in for Totem program for Arte TV,0.0
+600,"Wtyczki GStreamer dla plików mms, wavpack, quicktime, musepack","GStreamer plugins for mms, wavpack, quicktime, musepack","GStreamer plugins for mms, wavpack, quicktime, musepack files",0.867
+601,"Zgrywanie zdjęć i filmów z aparatów, kart pamięci oraz innych urządzeń przenośnych","Download photos and videos from cameras, memory cards and Portable Storage Devices","Uploading photos and videos from cameras, memory cards and other mobile devices",0.632
+602,Połącz kwadraty siatki zgodnie ze znajdującymi sie na nich strzałkami,Link the squares of a grid according to the arrows on them,Connect the grid squares according to the arrows on them,0.462
+603,Interaktywne narzędzie do kopiowania danych z lub na urządzenia USB,Interactive tool to copy files to or from USB storage media,Interactive tool for copying data to or from USB devices,0.279
+604,Własne filmy na DVD z menu,Author videos to DVD with menus,Custom DVD movies with menus,0.0
+605,"Problem dotyczy programu %s, który został zmieniony od czasu awarii.",The problem happened with the program %s which changed since the crash occurred.,"The problem is with the %s program, which has been changed since the crash.",0.262
+606,Wciągająca gra platformowa z elementami układanki,Platform game with some puzzle elements,Addictive platform game with puzzle elements,0.0
+607,Program do pomocy przy rozwiązywaniu problemów z algebrą,Computer algebra system for field theory problems,Program to help you solve algebra problems,0.0
+608,"Interfejs graficzny dla gier Go, Amazons i Reversi","A multi-purpose board game GUI for Go, Amazons and Reversi","Graphical interface for Go, Amazons and Reversi games",0.393
+609,Szafa grająca dla dużych kolekcji plików mp3/ogg/flac/mpc,Jukebox for large collections of mp3/ogg/flac/mpc,Jukebox for large mp3/ogg/flac/mpc file collections,0.0
+610,"Nie można połączyć się z bazą danych awarii, proszę sprawdzić połączenie internetowe.","Cannot connect to crash database, please check your Internet connection.","Unable to connect to the crash database, please check your internet connection.",0.579
+611,Pozwala na zapis sesji (zrzutów ekranu) w postaci filmów wideo,Record a video of your desktop session,Allows you to save sessions (screenshots) as videos,0.0
+612,Powietrzna strzelanka 2D w Zero G,2D overhead shooter in Zero G,2D aerial shooter in Zero G,0.537
+613,Lekki i szybki klient pocztowy oparty na GTK+,Lightweight and Fast GTK+ based Mail Client,Lightweight and fast mail client based on GTK+,0.0
+614,"--set=acl ustawienie ACL pliku(ów), zastępując aktualne --set-file=plik odczytanie z pliku pozycji ACL do ustawienia --mask przeliczenie maski efektywnych uprawnień","--set=acl set the ACL of file(s), replacing the current ACL --set-file=file read ACL entries to set from file --mask do recalculate the effective rights mask","--set=acl setting the ACLs of the file(s), replacing the current ones --set-file=file reading from the file the ACL entries to set --mask recalculating the effective permissions mask",0.229
+615,Program księgowy dla małych i średnich przedsiębiorstw,Bookkeeping program for small to medium sized companies,Accounting software for small and medium-sized enterprises,0.0
+616,Pozwala na zdalne sterowanie komputerem za pomocą telefonu komórkowego,Remote control your desktop from your Bluetooth enabled mobile phone,Allows you to remotely control your computer with a mobile phone,0.0
+617,Ułóż okna na twoim pulpicie X,Tile the Windows Upon your X Desktop,Arrange windows on your desktop X,0.0
+618,Program do korekcji rozbieżności wokalu i linii melodycznej,Correct the pitch of a voice singing out of tune,Program for correction of vocal and melody line discrepancies,0.0
+619,"Gdy raport zostanie wysłany, proszę wypełnić formularz w automatycznie otwartej przeglądarce internetowej.","After the problem report has been sent, please fill out the form in the automatically opened web browser.","When the report is sent, please fill out the form in the automatically opened web browser.",0.659
+620,"Platformówka z pingwinem w roli głównej, zainspirowana grą Mario",A Super Mario inspired penguin platform game,"Platformer game starring a penguin, inspired by Mario",0.0
+621,"-f cd (16 bit little endian, 44100, stereo)","-f cd (16 bit little endian, 44100, stereo)","-f cd (16 bit little endian, 44100, stereo)",1.0
+622,"Wyszukiwarka filmów, napisów, osób, torrentów wraz z informacjami na wielu stronach źródłowych","Search for movies, persons, torrents and subtitles on many websites, and get info about them","Search engine for movies, subtitles, people, torrents along with information on multiple source sites",0.0
+623,Błąd: dodanie katalogu %s do ścieżki wyszukiwania nie powiodło się.,Error: Could not add directory %s to search path.,Error: adding directory %s to search path failed.,0.467
+624,Maszyna wirtualna dla 32-bitowych programów na Atari,Virtual Machine for Atari 32-bit applications,Virtual machine for 32-bit programs on Atari,0.0
+625,"Taka sytuacja ma miejsce, gdy uruchamiana jest starsza wersja gry AisleRiot, która nie zapisuje ostatnio wybranego rodzaju gry. W takim przypadku uruchamiana jest domyślna gra Klondike.","This usually occurs when you run an older version of Aisleriot which does not have the game you last played. The default game, Klondike, is being started instead.","This situation occurs when an older version of the AisleRiot game is started that does not save the last selected game type. In this case, the default Klondike game is started.",0.132
+626,"Wyszukuje dokumenty, udostępniając szczegółowe parametry filtrowania wyników",Find documents by specifying search terms,"Searches for documents, providing detailed parameters for filtering results",0.0
+627,Binarny sterownik nVidia X.Org (aktualna wersja),NVidia binary X.Org driver ('current' driver),Binary nVidia X.Org driver (current version),0.0
+628,"System nie dysponuje wystarczającą ilością pamięci, aby przetworzyć raport błędu.",Your system does not have enough memory to process this crash report.,The system does not have enough memory to process the error report.,0.632
+629,Należy przenieść ~a na czerwonego jokera.,Move ~a onto the red joker.,You should move ~a to the red joker.,0.0
+630,Należy przenieść ~a na króla trefl.,Move ~a onto the king of clubs.,You should move ~a to the king of clubs.,0.367
+631,Menedżer plików dla odtwarzaczy MP3 SONY,File manager for Sony MP3 players,File Manager for SONY MP3 Players,1.0
+632,Narzędzie do porównywania oraz łączenia plików i katalogów,A File And Directory Comparison And Merge Tool,A tool to compare and merge files and directories,0.0
+633,Brak możliwości ruchu. Należy cofnąć ruch lub rozpocząć od nowa.,No moves are possible. Undo or start again.,Cannot move. Undo the move or start over.,0.0
+634,"Paczka zawierająca narzędzia użytkowe GenBank dla: NCBI C, SDK: Cn3D, Network Entrez, Sequin, ddv i udv",View multiple sequence alignment for GenBank,"A package containing GenBank utility tools for: NCBI C, SDK: Cn3D, Network Entrez, Sequin, ddv and udv",0.0
+635,"Określa, czy karty mają być przeciągane, czy też należy najpierw kliknąć na źródło a potem na cel.",Select whether to drag the cards or to click on the source then the destination.,"Specifies whether cards should be dragged, or whether to click on the source first and then on the target.",0.237
+636,"W pełni konfigurowalny z GUI, dwupanelowy menedżer plików X","Fully GUI-configurable, two-pane X file manager","Fully configurable with GUI, two-panel file manager X",0.0
+637,Wybór karty z zapasu dla pierwszego miejsca podkładu,Select a card from the reserve for first foundation pile,Selecting a card from the stock for the first place of foundation,0.247
+638,"-f cdr (16 bit big endian, 44100, stereo)","-f cdr (16 bit big endian, 44100, stereo)","-f cdr (16 bit big endian, 44100, stereo)",1.0
+639,Aplikacja sekwencera Audio z obsługą MIDI,Qtractor is an Audio/MIDI multi-track sequencer application,Audio sequencer application with MIDI support,0.0
+640,Dzielenie plików w sieci Direct Connect,Share files over the Direct Connect network,Sharing files over a Direct Connect network,0.0
+641,Skrypt symptomu %s nie określił pakietu,Symptom script %s did not determine an affected package,Symptom script %s did not specify a package,0.467
+642,Podany pid to numer zawieszonej aplikacji.,The provided pid is a hanging application.,The pid specified is the number of the suspended application.,0.0
+643,Należy umieścić waleta karo obok dziesiątki karo.,Place the jack of diamonds next to the ten of diamonds.,Place the jack of diamonds next to the ten of diamonds.,1.0
+644,"Dwuwymiarowa gra, zainspirowana Bubble Bobble, Snow Bros i Tumble Pop","2D game inspired in Bubble Bobble, Snow Bros and Tumble Pop","A two-dimensional game inspired by Bubble Bobble, Snow Bros and Tumble Pop",0.577
+645,Zoptymalizowane przyśpieszanie sprzętowe OpenGL dla nowszych kart graficznych ATI,Optimized hardware acceleration of OpenGL with newer ATI graphic cards,Optimized OpenGL hardware acceleration for newer ATI graphics cards,0.0
+646,Wyświetla makromolekuły i przygotowuje ich obrazy do publikacji,View macro-molecules and prepare publication-quality images of them,Displays macromolecules and prepares their images for publication,0.0
+647,Wysyła polecenia z kalwiatury do kilku okien jednocześnie,Send keys to multiple windows simultaneously,Sends commands from calwiatura to several windows simultaneously,0.0
+648,Klient sieci IRC dla GNUstep i Mac OS X,An IRC Client for GNUstep and Mac OS X,IRC client for GNUstep and Mac OS X,0.863
+649,"Zawiera Gmail, Google Docs, Google+, YouTube oraz Picasa","Includes Gmail, Google Docs, Google+, YouTube and Picasa","Zawiera Gmail, Google Docs, Google+, YouTube or Picasa",0.541
+650,"Lekkie, przyjemne dla oka widżety pulpitu",A light and eye-candy dock and desklets for your desktop.,"Lightweight, eye-catching desktop widgets",0.0
+651,"Wyświetlanie, modyfikacja, drukowanie i eksport drzew filogenetycznych w formacie SVG","Displays, modifies, prints and exports in SVG format phylogenetic trees","View, modify, print and export phylogenetic trees in SVG format",0.0
+652,"Znajdź to, czego szukasz na komputerze wg nazwy lub treści, używając programu Tracker",Find what you're looking for on this computer by name or content using Tracker,Find what you're looking for on your computer by name or content using Tracker,0.783
+653,Narzędzie projektowania stron internetowych w języku Python,Enterprise web development framework using Python,A web design tool in Python,0.0
+654,"Modelowanie 3D, animacja, rendering oraz postprodukcja","3D modeling, animation, rendering and post-production","3D modelling, animation, rendering and post-production",0.537
+655,Graficzny interfejs użytkownika dla PDF Toolkit (pdftk),A graphical user interface for the PDF Toolkit (pdftk),Graphical User Interface for PDF Toolkit (pdftk),0.432
+656,"Tnie, dzieli, łączy, obraca strony i zmienia układ w dokumentach PDF","PDF Merging, Rearranging, Splitting, Rotating and Cropping","Cuts, splits, combines, rotates pages and rearranges PDF documents",0.0
+657,Analiza i graficzna prezentacja danych naukowych,Analyze and graphically present experimental data,Analysis and graphical presentation of scientific data,0.0
+658,"Gdy zgubisz się w lesie i poczujesz samotność, przytul drzewo","If you're ever lost and alone in the woods, hug a tree","When you get lost in the woods and feel lonely, hug a tree",0.0
+659,Gosmore - edycja i przeszukiwanie map oraz tras OpenStreetMap,"View, search and route with OpenStreetMap",Gosmore - editing and searching OpenStreetMap maps and routes,0.0
+660,"Odkrywaj pary kamieni, unikając przeszkód i zastawionych pułapek",Uncover pairs of stones while navigating obstacles using a marble,Discover pairs of stones while avoiding obstacles and traps,0.278
+661,Śledzi i synchronizuje pliki w Git Annex,Track and sync the files in your Git Annex,Tracks and synchronizes files in Git Annex,0.0
+662,Mały i szybki klient sieci BitTorrent,A small and fast BitTorrent client,Small and fast BitTorrent client,0.76
+663,Aplikacja uruchomieniowa do Freespace 2 Source Code Project,launcher for the Freespace 2 Source Code Project,Running application for Freespace 2 Source Code Project,0.541
+664,Symulator lotu FlightGear w trybie graficznym,Graphical launcher for the FlightGear Filght Simulator,FlightGear Flight Simulator in graphical mode,0.0
+665,Tłumaczy słowa pomiędzy językami angielskim i japońskim,Enter a Japanese or English word to easily get translations,Translates words between English and Japanese,0.0
+666,Należy umieścić ósemkę trefl obok siódemki trefl.,Place the eight of clubs next to the seven of clubs.,Place the eight of clubs next to the seven of clubs.,1.0
+667,Pobieraj pliki ze swojego aparatu cyfrowego.,Download files from your digital camera.,Download files from your digital camera.,1.0
+668,Narzędzie graficzne do łączenia i porównywania plików tekstowych,Graphical tool for merging and comparing text files,A graphical tool for merging and comparing text files,0.882
+669,Obróbka obrazów astronomicznych oraz kontrola CCDs,Process astronomical images and control CCDs,Processing of astronomical images and control of CCDs,0.385
+670,Zmiana tapety i zachowań menedżera pulpitu,Change desktop wallpapers and behavior of desktop manager,Change wallpaper and desktop manager behaviour,0.0
+671,Otwiera nowe okno trybu prywatnego przeglądarki,Open a new private browsing window,Opens a new browser private mode window,0.0
+672,Pozwala na zmianę i projektowanie modeli cząsteczek oraz tworzenie ich szkiców o wysokiej jakości,"Model and manipulate molecules, and create high-quality renderings of them",Allows you to change and design particle models and create high quality sketches of them,0.0
+673,Strategiczna walka w przestrzeni 2D dla wielu graczy przez internet w czasie rzeczywistym,Real Time Strategy 2D space combat multiplayer net game.,Strategic multiplayer 2D space combat over the internet in real-time,0.0
+674,Interfejs graficzny dla środowiska R do obliczeń statystycznych,Graphical interface to the R environment for statistical computing,Graphical interface for R environment for statistical calculations,0.355
+675,Lekki klient Twitter na bazie Gtk2 i WebKit,Lightweight Twitter client based on Gtk2 and WebKit,Lightweight Twitter client based on Gtk2 and WebKit,1.0
+676,Narzędzie do pomocy w tłumaczeniu tekstów,A translation tool to help a human translator translate files into other languages,A tool to help translate texts,0.0
+677,Modyfikacja matryc kalibrujących dla urządzeń ColorHug,Modify the calibration matrices on the ColorHug device,Modification of calibration matrices for ColorHug devices,0.0
+678,Klient GTK+-2 dla OpenVAS Security Scanner,GTK+-2 Client for OpenVAS Security Scanner,Klient GTK+-2 dla OpenVAS Security Scanner,0.0
+679,Należy przenieść ~a na trójkę karo.,Move ~a onto the three of diamonds.,Move ~a to the three of diamonds.,0.489
+680,"Przepraszamy, program %s został niespodziewanie zakończony","Sorry, the program ""%s"" closed unexpectedly","Sorry, program %s was terminated unexpectedly",0.0
+681,AppArmorAplet to wolne oprogramowanie; można je redystrybuować i/lub modyfikować zgodnie z warunkami licencji GNU General Public License wydanej przez Free Software Foundation; w wersji 2 tej licencji lub dowolnej późniejszej.,"AppArmorApplet is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 of the License, or (at your option) any later version.",AppArmorAplet is free software; you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation; either version 2 or any later version.,0.757
+682,Zmniejsza i rozdziela pliki mp3 i ogg bez potrzeby dekodowania,Split mp3 and ogg files without decoding,Resizes and splits mp3 and ogg files without decoding,0.608
+683,"Zarządzanie bazami danych, tworzenie kwerend i raportów","Manage databases, create queries and reports to track and manage your information by using Base.","Database management, creating queries and reports",0.0
+684,Należy umieścić piątkę karo obok czwórki karo.,Place the five of diamonds next to the four of diamonds.,Place the five of diamonds next to the four of diamonds.,1.0
+685,"%s: nie można ustawić domyślnego acl dla ""%s"": %s","%s: cannot set default acl on ""%s"": %s",%s: unable to set default acl for '%s': %s,0.0
+686,Klient i przeglądarka zdjęć formatu DICOM z obsługą PACS oraz sieci,Medical image viewer and DICOM network client,DICOM client and image viewer with PACS and network support,0.0
+687,Ograniczone wsparcie dla urządzeń ze starszym firmwarem,limited support for devices with older firmware,Limited support for devices with older firmware,1.0
+688,Zarządzanie certyfikatami i zunifikowane GUI kryptograficzne,Certificate Manager and Unified Crypto GUI,Certificate management and unified cryptographic GUI,0.0
+689,Aplet panelu do zmiany rozmiarów i orientacji ekranów X.,A panel applet for resizing and reorientating X screens.,Panel applet for resizing and orienting X screens.,0.513
+690,Dopasuj dwie najwyższe karty z wykorzystanych.,Match the top two cards of the waste.,Match the top two cards of the cards used.,0.742
+691,StepBill - XBill dla GNUstepa (oparty na MacBillu),StepBill - XBill for GNUstep (based on MacBill),StepBill - XBill for GNUstep (based on MacBill),1.0
+692,FPS 4D na pokładzie statku kosmicznego,Fly your ship in a 4d environment,FPS 4D on board a spaceship,0.0
+693,Nie można ustalić pakietu lub nazwy pakietu źródłowego.,Could not determine the package or source package name.,The package or source package name cannot be determined.,0.587
+694,"Abstrakcyjna, pionowa strzelanka z elemetami muzyki",Abstract vertical shooter with music elements,Abstract vertical shooter with music elements,1.0
+695,Należy umieścić dziewiątkę pik obok ósemki pik.,Place the nine of spades next to the eight of spades.,Place the nine of spades next to the eight of spades.,1.0
+696,Należy przenieść ~a na waleta pik.,Move ~a onto the jack of spades.,You should move ~a to the jack of spades.,0.367
+697,Błąd: nie można odczytać profilu %s: %s.,Error: Could not read profile %s: %s.,Error: Could not read profile %s: %s.,1.0
+698,Pozwala tworzyć i przeglądać projekty interfejsów użytkownika dla aplikacji GTK+,Create or open user interface designs for GTK+ applications,Allows you to create and view user interface designs for GTK+ applications,0.437
+699,* Wypisuje połączone porty (bez ich subskrypcji),* List connected ports (no subscription action),* Writes out connected ports (without subscribing to them),0.0
+700,Dostęp do graficznego środowiska pulpitu przez syntezator mowy i/lub odświeżalne pismo Braille'a,Provide access to graphical desktop environments via synthesized speech and/or refreshable braille,Access to graphical desktop environment via speech synthesizer and/or refreshable braille,0.326
+701,Dodawanie i usuwanie programów głównego menu,Add or remove applications from the main menu,Adding and deleting main menu programs,0.0
+702,Należy przenieść ~a na czwórkę pik.,Move ~a onto the four of spades.,You should move ~a to the four of spades.,0.367
+703,Ostrzeżenie: format jest zmieniony na S16_BE,Warning: format is changed to S16_BE,Warning: format is changed to S16_BE,1.0
+704,Nie można ustawić rozmiaru %lu bufora dla odtwarzania: %s,Unable to set buffer size %lu for playback: %s,Cannot set %lu buffer size for playback: %s,0.0
+705,"Interfejs graficzny w Javie dla FTP, SMB, SFTP oraz NFS","Java GUI client for FTP, SMB, SFTP and NFS","GUI in Java for FTP, SMB, SFTP and NFS",0.631
+706,Środowisko programowe R dla obliczeń statystycznych i grafiki,R software environment for statistical computing and graphics,R software environment for statistical calculations and graphics,0.595
+707,Kanał %2d: Zapisane zdarzenie : %5d,Channel %2d: Note On event : %5d,Channel %2d: Recorded event : %5d,0.0
+708,Program do zarządzanie routerami zgodnymi z UPnP IGD,A simple program to manage UPnP IGD compliant routers,Software to manage UPnP IGD compatible routers,0.316
+709,%s: napotkano błędy w pliku. Przerwanie procesu.,%s: Errors found in file. Aborting.,%s: file errors were encountered. Process aborted.,0.0
+710,Zaawansowane narzędzie do ataków i badania zabezpieczeń sieciowych,Web Application Attack and Audit Framework,Advanced attack and network security research tool,0.0
+711,Niewspierany format próbki bitów %d dla %s,Unsupported sample format bits %d for %s,Unsupported bit sample format %d for %s,0.0
+712,Zdobądź wszystkie sześć niebieskich kwadratów na sześciu ścianach sześcianu na raz,Get all six blue squares on to the six faces of the cube at the same time,Get all six blue squares on the six faces of the cube at once,0.63
+713,Przekierowuje i manipuluje strumienie dźwiękowe z i do różnych źródeł,routes and manipulates audio from/to multiple sources,Redirects and manipulates audio streams from and to various sources,0.0
+714,Tworzy i edytuje płytki elektronicznych obwodów drukowanych,Create and edit printed circuit board designs,Creates and edits electronic printed circuit boards,0.0
+715,Amatorskie radio do przesyłania danych z ARQ,Amateur Radio Data Transfer with ARQ,Amateur radio for data transmission with ARQ,0.0
+716,Przeglądarka plików pomocy HTML skompilowanych do formatu CHM,Compiled HTML Help (CHM) file viewer,Viewer for HTML help files compiled into CHM format,0.0
+717,Program symulujący procesy zachodzące podczas ewolucji organizmów,artificial life program that simulates the processes involved in the evolution of organisms,A program simulating processes occurring during the evolution of organisms,0.214
+718,"Zarządzanie dyskami, partycjami i systemami plików","Manage disks, partitions and file systems","Disk, partition and file system management",0.0
+719,Zestaw kart należy przenieść na puste miejsce miejsca tableau,Move a build of cards on to the empty Tableau slot,Move the set of cards to the empty space of the tableau,0.0
+720,"Gra ""w lochach"" typu Rogue, bazująca na książkach J.R.R. Tolkiena",A roguelike dungeon exploration game based on the books of J.R.R.Tolkien,"Rogue type ""dungeon"" game based on J.R.R. Tolkien's books",0.0
+721,Graficzny interfejs użytkownika dla EMBOSS (European Molecular Biology Open Software Suite),Graphical user interface for the European Molecular Biology Open Software Suite.,Graphical user interface for EMBOSS (European Molecular Biology Open Software Suite),0.702
+722,"Pozwala śledzić zasoby systemowe użycia i wydajności procesora, pamięci, dysków, poczty itp.","Monitor for CPU, memory, disks, network, mail","Allows you to track system resource usage and performance of CPU, memory, disks, mail, etc.",0.0
+723,"Gra platformowa dla wielu graczy, w której krasnoludy walczą jedzeniem o jedzenie",multiplayer platform game with dwarfs fighting with/for food,A multiplayer platform game where dwarves fight over food,0.0
+724,Błąd przetwarzania wyrażeń regularnych dla profilu %s. Wczytanie nie powiodło się.,"ERROR processing regexs for profile %s, failed to load",Regular expression processing error for profile %s. Load failed.,0.0
+725,Uszkodzona konfiguracja odtwarzania: brak dostępnych konfiguracji: %s,Broken configuration for playback: no configurations available: %s,Defective playback configuration: no configurations available: %s,0.383
+726,"Uwaga: częstotliwość nie jest dokładna (zażądano = %iHz, jest = %iHz)","Warning: rate is not accurate (requested = %iHz, got = %iHz)","Note: frequency is not accurate (requested = %iHz, is = %iHz)",0.467
+727,"Przepraszamy, wystąpił wewnętrzny błąd działania %s.","Sorry, %s has experienced an internal error.","Sorry, there was an internal error running %s.",0.0
+728,Należy umieścić ósemkę karo obok siódemki karo.,Place the eight of diamonds next to the seven of diamonds.,Place the eight of diamonds next to the seven of diamonds.,1.0
+729,"Zarządzanie aktywnymi zadaniami, wykonywanymi przez komputer",Manage system jobs present on your computer,Management of active tasks performed by the computer,0.0
+730,Szybkie kalkulacje i rozwiązywanie równań algebraicznych,Do symbolic mathematics and quick calculations,Quick calculations and solving algebraic equations,0.0
+731,Dostarcza interfejsy D-Bus do odpytywania i manipulowania informacjami o kontach użytkowników.,Provides D-Bus interfaces for querying and manipulating user account information.,Provides D-Bus interfaces for querying and manipulating user account information.,1.0
+732,nieprawidłowy format znacznika w rozszerzeniu fragmentu 'fmt ',wrong format tag in extensible 'fmt ' chunk,invalid tag format in fragment extension 'fmt ',0.0
+733,"Gra platformowa, gdzie Twoim zadaniem jest zbieranie cukierków",Platform game where your goal is to collect candies,A platform game where your task is to collect candies,0.534
+734,Program do masowej zmiany nazw plików i folderów,To rename files and directories in batch,Program for mass renaming of files and folders,0.0
+735,Aplikacja umożliwiająca wybudzanie komputera przy użyciu funkcji Wake On LAN,A GTK+ utility to awake turned off machine using the Wake On LAN feature.,Application to wake up the computer using Wake On LAN,0.0
+736,"Niewymagająca gra, w której należy odpierać ataki nadlatujących agresorów",Application to manage remote site configurations,An undemanding game in which you have to fend off incoming aggressors,0.0
+737,Należy przenieść ~a na nieznaną kartę.,Move ~a onto the unknown card.,You should move ~a to an unknown card.,0.0
+738,Diagnoza i naprawa uszkodzonych plików mp3,MP3 Diags - diagnosis and repair tool,Diagnose and repair corrupt mp3 files,0.0
+739,Pakiet do badania i kontroli widżetów aplikacji,Give your application an accessibility workout,Package for testing and controlling application widgets,0.0
+740,Zebrane informacje są wysyłane do systemu zgłaszania błędów. To może potrwać kilka minut.,The collected information is being sent to the bug tracking system. This might take a few minutes.,The collected information is sent to the bug reporting system. This may take a few minutes.,0.458
+741,Ponowne użycie istniejącego już katalogu cache (CDIR) lub jego utworzenie,"reuse a previously created cache dir (CDIR) or, if it does not exist, create it",Reusing an existing cache directory (CDIR) or creating one,0.0
+742,Program do tworzenia kopii zapasowych i przywracania danych,Full and incremental backup with media verification,Data backup and restore software,0.0
+743,Prosty w obsłudze ale bogaty w funkcje klient multipleksera muzycznego XMMS2,XMMS2 client which aims to be as feature-full and easy-to-use as possible,Simple to use but feature rich XMMS2 music multiplexer client,0.0
+744,Aplikacja do wizualizacji i analizy danych naukowych,Application for scientific data analysis and visualization,Application for visualization and analysis of scientific data,0.0
+745,Wieloprotokołowy komunikator oraz telefon internetowy VoIP SIP/RTP,Talk to people over the Internet and send instant messages over multiple protocols,Multi-protocol communicator and VoIP SIP/RTP Internet phone,0.0
+746,Należy przenieść ~a na dziesiątkę kier.,Move ~a onto the ten of hearts.,It is necessary to move ~a to the tenth direction.,0.0
+747,Niewielki program do tworzenia zaawansowanych prezentacji DVD,A lightweight DVD slideshow maker using GTK+2,A small program to create advanced DVD presentations,0.0
+748,Należy przenieść ~a na ósemkę kier.,Move ~a onto the eight of hearts.,You should move ~a to the eight of hearts.,0.367
+749,Ścieżka do zduplikowanej bazy danych sqlite (domyślnie: bez wyszukiwania duplikatów),Path to the duplicate sqlite database (default: no duplicate checking),Path to the duplicate sqlite database (default: no duplicate search),0.88
+750,Przeglądaj ślady powstające podczas wykonywania programów wielowątkowych,View traces produced during the execution of multi-threaded programs,View traces created during execution of multithreaded programs,0.369
+751,Nieprawidłowy bufor przyrostowy %p na pozycji %p ext %p rozmiar %d zasób %p,PANIC bad increment buffer %p pos %p ext %p size %d res %p,Invalid incremental buffer %p at position %p ext %p size %d resource %p,0.344
+752,Program do przypominania i nauki słówek,A flashcard and vocabulary learning program,A program to remind and learn vocabulary,0.0
+753,Hardkorowa kosmiczna strzelanka 3D z możliwością uaktualnienia statku kosmicznego,hardcore 3D space shooter with spaceship upgrade possibilities,Hardcore 3D space shooter with upgradeable spaceship,0.541
+754,"Przekonstruuj wzór, układając klocki domina wg podawanych szeregów liczb",Reconstruct the pattern by arranging the set of dominoes to match the provided array of numbers,Reconstruct the pattern by arranging the dominoes according to the given series of numbers,0.367
+755,"Gra liczbowa, polegająca na ułożeniu elementów w kolejności występujących na nich cyfr","Try to end up with the tiles in numerical order, with the space in the bottom right",A numbers game in which the elements are arranged in the order of the digits appearing on them,0.0
+756,"Gra Reversi dla GNOME, wspierająca protokół tekstowy gry Go","Reversi game for GNOME, supporting the Go/Game Text Protocol","Reversi game for GNOME, supporting the Go text-based game protocol",0.546
+757,Graficzny interfejs użytkownika dla kalibracji wyświetlania Argyll CMS,A graphical user interface for the Argyll CMS display calibration utilities,Graphical user interface for Argyll CMS display calibration,0.469
+758,Należy umieścić trójkę trefl obok dwójki trefl.,Place the three of clubs next to the two of clubs.,Place the three of clubs next to the two of clubs.,1.0
+759,Konwertuje współrzędne oraz wymienia je z urządzeniem GPS,Convert GPS data and exchange it with a GPS unit,Converts coordinates and exchanges them with a GPS device,0.0
+760,Gra 2D w stylu Worms w której śmieszne postacie strzelają ze śmiesznych broni.,A 2D game where funny characters launch funny weapons,2D Worms-style game in which funny characters shoot with funny weapons.,0.0
+761,Otwórz nowe okno z użyciem tymczasowego profilu,Open a New Window with a temporary profile,Open a new window using a temporary profile,0.5
+762,Gra edukacyjna do nauki odnajdywania liter na klawiaturze,Educational typing tutor game starring Tux,Educational game for learning to find letters on the keyboard,0.0
+763,%s: nieprawidłowy znak {. Zagnieżdżone grupowanie jest niedozwolone.,"%s: Illegal open {, nesting groupings not allowed",%s: invalid character {. Nested grouping is not allowed.,0.0
+764,"Naucz się gry na fortepianie, grając w grę",Learn the piano just by playing a game,Learn to play the piano by playing a game,0.377
+765,Miernik poziomu dźwięku sygnałów testowych dla JACK,Audio test signals meter for JACK,Test signal sound level meter for JACK,0.0
+766,"Gra stworzona na podstawie filmu Tron, w której poruszasz się motocyklami light cycle",Play a Tron-like light cycle game,"A game based on the movie Tron, in which you navigate light cycle motorcycles",0.0
+767,Program do edycji i przypisywania tagów plikom muzycznym,Tag your music with the next generation MusicBrainz tagger,A program to edit and assign tags to music files,0.0
+768,Wypełnij siatkę tak aby zakres każdego ponumerowanego kwadratu odpowiadał liczbie,Fill the grid so the range of each numbered square matches the number,Fill the grid so that the range of each numbered square corresponds to the number,0.535
+769,Kepas - KDE proste publikowanie i dzielenie się treściami,Kepas - KDE Easy Publish and Share,Kepas - KDE easy publishing and content sharing,0.0
+770,Instalator wtyczki Adobe Flash dla Mozilli Firefox,Installer for the Adobe Flash plugin for Mozilla,Adobe Flash plug-in installer for Mozilla Firefox,0.0
+771,Jaki rodzaj zgłoszenia ma zostać wysłany?,What kind of problem do you want to report?,What type of submission should be sent?,0.0
+772,Należy przenieść coś na puste miejsce zapasu,Move something on to an empty reserve,Move something to the empty supply space,0.0
+773,Interaktywna aplikacja kreśląca wykresy aktywności systemu sysstat,Interactive System Activity Grapher for sysstat,Interactive application plotting sysstat activity graphs,0.0
+774,Format próbkowania niedostępny dla odtwarzania: %s,Sample format not available for playback: %s,Sample format not available for playback: %s,1.0
+775,Należy przenieść ~a na asa trefl.,Move ~a onto the ace of clubs.,You should move ~a to the ace of clubs.,0.367
+776,Przekształca pliki multimediów różnych formatów dla wszystkich Twoich urządzeń,Convert multimedia for all your devices,Converts media files of different formats for all your devices,0.261
+777,Środowisko syntezy dźwięku i przetwarzania sygnałów audio,Sound synthesis and audio signal processing environment,Audio synthesis and signal processing environment,0.0
+778,"Trwa zbieranie informacji, które mogą pomóc twórcom programu usunąć zgłoszony błąd.",Information is being collected that may help the developers fix the problem you report.,The collection of information that may help the developers to fix the reported bug is ongoing.,0.282
+779,Interfejs graficzny do pracy z dyskami sformatowanymi w systemie plików WBFS,QWBFS Manager is a graphical user interface (GUI) for working with WBFS filesystem formatted hard disk drive.,Graphical interface for working with disks formatted in WBFS file system,0.0
+780,Uruchamianie i zabijanie procesów w zależności od aktywności systemu,Action launcher based on system activity,Starting and killing processes depending on system activity,0.0
+781,Edytor plików Gerber do projektowania układów drukowanych,Gerber file viewer for PCB design,Gerber file editor for PCB design,0.0
+782,"Polifoniczny, wielokanałowy syntezator midi czasu rzeczywistego","Polyphonic, multichannel midi realtime software synthesizer","Polyphonic, multi-channel real-time midi synthesizer",0.0
+783,Zabawna gra w stylu klasycznego moon landera,Fun game based on the classic moon lander,A fun game in the style of a classic moon lander,0.0
+784,"Częstotliwość się nie zgadza (żądano %iHz, otrzymano %iHz, błąd %d)","Rate doesn't match (requested %iHz, get %iHz, err %d)","Frequency does not match (requested %iHz, received %iHz, error %d)",0.0
+785,Należy umieścić piątkę pik obok czwórki pik.,Place the five of spades next to the four of spades.,The five of spades should be placed next to the four of spades.,0.585
+786,"Rysuje krawędzie wzdłuż linii siatki, dzielącej prostokąt według określonych zasad",Draw edges along the grid lines which divide the rectangle under certain rules,Draws edges along a grid line that divides a rectangle according to certain rules,0.0
+787,Należy umieścić coś w pustym miejscu tableau,Move something into the empty Tableau slot,Put something in the empty space of the tableau,0.0
+788,"Narzędzie do projektowania, zarządzania i administracji bazą danych MySQL","MySQL Database Design, Administration and Development Tool","A tool for designing, managing and administering MySQL database",0.0
+789,Aplikacja oparta na słowniku Felixa Gaffiota,Gaffiot's dictionary is a reference book,Application based on Felix Gaffiot's dictionary,0.0
+790,Sega Master System/Game Gear ROM Player,Sega Master System/Game Gear ROM Player,Sega Master System/Game Gear ROM Player,1.0
+791,"Program do obsługi urządzeń Wi-spy do analizy widma częstotliwości 2,4 GHz",2.4 GHz spectrum analysis using the Wi-Spy hardware device,Software for Wi-spy devices to analyze the 2.4 GHz frequency spectrum,0.0
+792,Gra nie ma rozwiązania. Należy cofnąć ruch lub rozpocząć od nowa.,The game has no solution. Undo or start again.,The game has no solution. You have to undo the move or start over.,0.305
+793,"Szybka, trójwymiarowa strzelanka FPS w stylu Quake III Arena","A fast-paced 3D first-person shooter, similar to id Software Inc.'s Quake III Arena","Fast-paced, 3D FPS shooter in the style of Quake III Arena",0.0
+794,Uruchamia interaktywną sesję gdb na zrzucie pamięci zgłoszenia (ignoruje opcję -o; nie przepisuje zgłoszenia),Start an interactive gdb session with the report's core dump (-o ignored; does not rewrite report),Runs an interactive gdb session on a memory dump of the request (ignores the -o option; does not rewrite the request),0.177
+795,"Program, który będzie Cię wspierał, pokazując Twoje postępy w walce z paleniem",Simple counter showing your gains since you quit smoking,A program that will support you by showing your progress in stopping smoking,0.0
+796,"Wyświetlanie, modyfikacja i eksport drzew filogenetycznych w formacie PostScript","Displays, modifies and exports in PostScript format phylogenetic trees","View, modify and export phylogenetic trees in PostScript format",0.0
+797,Prosty edytor tekstu dla Markdown i reStructuredText,Simple text editor for Markdown and reStructuredText,A simple text editor for Markdown and reStructuredText,0.867
+798,"Przesyła pliki za pomocą protokołów FTP, FTPS lub SFTP","Transfer files using the FTP, FTPS or SFTP protocol","Transfers files using FTP, FTPS or SFTP protocols",0.355
+799,%s: błąd grupowania wyrażeń regularnych: niedomknięte grupowanie; oczekiwano zamykającego },"%s: Regex grouping error: Unclosed grouping or character class, expecting close }",%s: regular expression grouping error: grouping not closed; closing was expected },0.0
+800,Program do nagrywania nie tylko radia internetowego,Splits a stream in its tracks!,Software for recording not only internet radio,0.0
+801,Przeglądarka lokalizacji i stref czasowych świata,View the time at locations around the world,Location viewer and world time zones,0.0
+802,"%s: nie można ustawić dostępowego acl dla ""%s"": %s","%s: cannot set access acl on ""%s"": %s",%s: unable to set acl access for '%s': %s,0.0
+803,Graficzne narzędzie planowania eksperymentów w naukach socjalnych,Graphical experiment builder for the social sciences,A graphical tool for planning experiments in the social sciences,0.0
+804,"-t,--tick # konwertuje taktowy znacznik czasowy na kolejkę","-t,--tick # convert tick-time-stamp on queue","-t,--tick # converts a timestamp to a queue",0.0
+805,Platforma programowania wizualnych strumieni danych dla multimediów,Visual dataflow programming platform for multimedia,Visual data stream programming platform for multimedia,0.455
+806,Należy przenieść ~a na waleta kier.,Move ~a onto the jack of hearts.,You should move ~a to the jack of hearts.,0.367
+807,Budowanie Środowiska KDE i związanego z nim oprogramowania z kodu źródłowego. Program działa tylko jako wiersz poleceń.,Builds the KDE Platform and associated software from its source code. A command-line only program.,Building KDE and related software from source code. The program runs as a command line only.,0.0
+808,Umieść ikonę dowolnej aplikacji w obszarze powiadomień/zasobniku systemowym,Dock any application to the notification area/system tray.,Place the icon of any application in the notification area/system tray,0.283
+809,"Zgłasza błąd działania programu na podstawie określonego pliku .apport lub .crash zamiast oczekujących w %s (wymuszone, jeśli określono plik jako parametr).",Report the crash from given .apport or .crash file instead of the pending ones in %s. (Implied if file is given as only argument.),Reports an error running the program based on the specified .apport or .crash file instead of pending in %s (forced if a file is specified as a parameter).,0.224
+810,Działania na wyrażeniach algebraicznych oraz kreślenie wykresów,Pocket Math Expression Solver and Plotter,Action on algebraic expressions and graphing,0.0
+811,Zgadnij jaka litera reprezentuje jaką cyfrę,Figure out which letters are which numbers,Guess which letter represents which number,0.0
+812,Częstość próbkowania jest niezgodna (%d) dla %s,Sample rate doesn't match (%d) for %s,Sampling rate is inconsistent (%d) for %s,0.0
+813,Należy przenieść ~a na damę karo.,Move ~a onto the queen of diamonds.,You should move ~a to the queen of diamonds.,0.367
+814,Należy przenieść ~a na czarnego jokera.,Move ~a onto the black joker.,You should move ~a to the black joker.,0.0
+815,Narzędzie do tworzenia dysków startowych Live USB,Tool for creating Live USB drives,Tool to create bootable Live USB drives,0.0
+816,"Wymagane jest uwierzytelnienie, aby zmienić konfigurację ekranu logowania",Authentication is required to change the login screen configuration,Authentication required to change login screen configuration,0.0
+817,Brama sieciowa MIDI dla protokołu UDP/IP Multicast,QmidiNet is a MIDI Network Gateway via UDP/IP Multicast,MIDI network gateway for UDP/IP Multicast protocol,0.0
+818,Przeglądarka widma masowego i analiza proteomiki,Mass spectrum viewer and data analysis proteomics tool,Mass spectrum viewer and proteomics analysis,0.383
+819,Pozwala na przeglądanie internetu w trybie tekstowym,Browse the web in text mode,Allows you to browse the Internet in text mode,0.0
+820,QEMU & KVM - menedżer maszyn wirtualnych,QEMU & KVM Virtual Machine Manager,QEMU & KVM - virtual machine manager,1.0
+821,"OpenClonk to głównie górnictwo, osadnictwo i szybkie bijatyki","OpenClonk is mainly about mining, settling and fast-paced melees.","OpenClonk is mainly about mining, settling and quick fights",0.726
+822,Uszkodzony plik konfiguracyjny dla tego PCM: brak dostępnych plików konfiguracyjnych,Broken configuration for this PCM: no configurations available,Corrupted configuration file for this PCM: no configuration files available,0.298
+823,QTscrobbler służy do przesyłania .scrobbler.log z przenośnych odtwarzaczy do Last.fm,QTScrobbler is tool for submitting .scrobbler.log from portable players to Last.fm,QTscrobbler is used to transfer .scrobbler.log from portable players to Last.fm,0.519
+824,"Flaga profilu ""debug"" nie jest już prawidłowa.",Profile flag 'debug' is no longer valid.,"The ""debug"" profile flag is no longer valid.",0.44
+825,"Pozwala dzielić się plikami przez anonimową, odporną na cenzurę sieć",Share files using GNU's anonymous and censorship-resistant network,"Lets you share files over an anonymous, censorship-resistant network",0.0
+826,To zgłoszenie o błędzie jest uszkodzone i nie może zostać przetworzone.,This problem report is damaged and cannot be processed.,This error report is corrupt and cannot be processed.,0.369
+827,Interaktywne narzędzie do symulacji alkacymetrii (analizy miareczkowej),Interactive tool to simulate acido-basic titrations,Interactive tool for the simulation of alkacimetry (titration analysis),0.0
+828,"Narzędzie do analizy, kontroli i testowania urządzeń DLNA/UPnP","DLNA/UPnP device and service analyzer,control-point and test-tool","Tool for analyzing, inspecting and testing DLNA/UPnP devices",0.0
+829,Sprzęt i oprogramowanie do tworzenia eksperymentów naukowych,hardware & software framework for developing science experiments,Hardware and software for creating scientific experiments,0.0
+830,"Ustaw tło pulpitu, menu i zachowanie ikon",Set desktop background and menu and icon behaviour,"Set desktop background, menu and icon behavior",0.0
+831,Monitorowanie i kontrola danych SMART twardego dysku,Monitor and control SMART data on hard disks,Monitoring and control of hard disk SMART data,0.0
+832,Emulator KC85 oraz kompatybilnych z nim maszyn,Emulator for KC85 and compatible computer,KC85 emulator and compatible machines,0.0
+833,"Darmowa, otwarta mapa lokalizacji objektów komunikacji bezprzewodowej GPS, GSM, WiFi itp.",Logs GSM and GPS and uploads to openBmap.,"Free, open location map of wireless communication objects GPS, GSM, WiFi etc.",0.0
+834,Pozwala na przeprowadzanie wyborów poprzez głosowanie,Conduct a Single Transferable Vote election,Allows elections to be conducted by voting,0.0
+835,Uzupełnia informacje techniczne oraz tagi plików audio i wideo,Supplies technical and tag information about a video or audio file,Completes technical information and tags for audio and video files,0.0
+836,Wyszukuj filmy na wielu stronach internetowychi uzyskaj informacje o nich,"Search for videos on many websites, and get info about them",Search for movies on multiple websites and get information about them,0.0
+837,nie można odtworzyć plików WAVE z próbkowaniem %d bitów na %d bitowym odcinku (%d kanałów),can't play WAVE-files with sample %d bits in %d bytes wide (%d channels),WAVE files cannot be played with %d bit sampling on %d bit section (%d channels),0.0
+838,Zarządzaj odnośnikami i cytatami w swoich publikacjach (współpracuje m.in. z OpenOffice),manage references and citations in your publications,Manage links and citations in your publications (works with OpenOffice among others),0.315
+839,Generuj siatkę powierzchni w formacie survex,Generate surface mesh in survex format,Generate surface mesh in survex format,1.0
+840,"Szybka gra RTS o komputerach, systemach, hakerach i sieciach.",The Kernel Panic game for the Spring engine. A fast-paced RTS with no economy.,"A fast-paced RTS game about computers, systems, hackers and networks.",0.0
+841,Monofoniczna wtyczka syntezatora z dwoma oscylatorami i kształtowaniem przebiegu,Monophonic synth plugin with two oscillators and waveshapers,Monophonic synthesizer plug-in with two oscillators and waveform shaping,0.478
+842,Nigdy nie głaszcz psa pod włos,Never blow in a dog's ear,Never stroke a dog's hair,0.0
+843,Zestaw gier edukacyjnych dla dzieci w wieku od 2 do 10 lat,Educational game for ages 2 to 10,Set of educational games for children aged 2 to 10 years,0.0
+844,"Antyczna, chińska gra planszowa dla 4 graczy",The ancient Chinese board game for 4 players,Ancient Chinese board game for 4 players,0.841
+845,aconnect - zarządca połączenia sekwencera ALSA,aconnect - ALSA sequencer connection manager,aconnect - ALSA sequencer connection manager,1.0
+846,Anulowanie i &ignorowanie przyszłych awarii tej wersji programu,Cancel and &ignore future crashes of this program version,Cancelling and &ignoring future failures of this program version,0.33
+847,Szkicuje i wykonuje kalkulacje struktur chemicznych,Draw and make calculations on chemical structures,Sketches and performs calculations of chemical structures,0.0
+848,Odczytuje informacje z plików avi lub mkv,themonospot - extract information from avi or mkv files,Reads information from avi or mkv files,0.68
+849,"nieprawidłowa ilość parametrów. Proszę użyć opcji --help, aby uzyskać więcej informacji.",incorrect number of arguments; use --help for a short help,incorrect number of parameters. Please use the --help option for more information.,0.0
+850,Sporadycznie wysyłaj informacje do firmy Canonical,Send occasional system information to Canonical,Occasionally send information to Canonical,0.0
+851,Typ dostępu niedostępny dla odtwarzania: %s,Access type not available for playback: %s,Access type not available for playback: %s,1.0
+852,Utwórz swoje własne biblioteki mebli dla SweetHome3D,Create your own SweetHome3D furniture libraries,Create your own furniture libraries for SweetHome3D,0.0
+853,"należy wykonać operację lokalną (-s, -g, -o) lub wskazać plik uwierzytelnienia (--auth); krótka pomoc dostępna jest z --helpy","you either need to do a local operation (-s, -g, -o) or supply an authentication file (--auth); see --help for a short help","perform a local operation (-s, -g, -o) or point to an authentication file (--auth); brief help is available with --helpy",0.373
+854,Analizuj i filtruj swoje dane XML w trybie graficznym,Visually query and analyse your XML data,Analyze and filter your XML data in graphical mode,0.0
+855,"Tryb nieprawidłowy. Przed ""x"" należy użyć znacznika wykonania ""i"", ""p"" albo ""u"".","Invalid mode, 'x' must be preceded by exec qualifier 'i', 'p', or 'u'","Invalid mode. Use an 'i', 'p', or 'u' execution marker before the 'x'.",0.239
+856,"Tworzy i edytuje tekst wraz z grafiką w listach, raportach, dokumentach i na stronach www za pomocą serwisu internetowego Zoho","Create and edit text and graphics in letters, reports, documents and Web pages using Zoho web services.","Creates and edits text along with graphics in letters, reports, documents and web pages using the Zoho web service",0.481
+857,Otwórz nowe okno w trybie prywatnym,Open a New Window in incognito mode,Open a new window in private mode,0.643
+858,Szczegółowa symulacja do poznawania Układu Słonecznego,Explore the solar system in this accurate simulation,A detailed simulation to explore the Solar System,0.366
+859,"Doskonały program do gry w tryktraka, jej nauki oraz analizy",GTK or console backgammon program with analysis,"An excellent program for triktrack, its learning and analysis",0.0
+860,"Odczyt, zapis i modyfikacja obrazów ISO","Read, write and modify ISO images","Reading, writing and modifying ISO images",0.0
+861,Należy przenieść ~a na piątkę kier.,Move ~a onto the five of hearts.,You should move ~a to the five directions.,0.0
+862,"Pozwala nagrywać i zapisywać to, co widzisz na ekranie monitora",Record a video of your desktop,Allows you to record and save what you see on the monitor screen,0.0
+863,"Słuchaj, przeglądaj i edytuj swoją kolekcję nagrań audio","Listen to, browse, or edit your audio collection","Listen, browse and edit your audio collection",0.383
+864,Manipulacja i przegląd struktur atomowych oraz wiązań chemicznych,View and manipulate atomic and other chemical systems,Manipulation and review of atomic structures and chemical bonds,0.0
+865,"Podejrzana pozycja bufora (%li wszystkich): dostępne = %li, opóźnienia = %li, bufor = %li","Suspicious buffer position (%li total): avail = %li, delay = %li, buffer = %li","Suspicious buffer position (%li of total): available = %li, delay = %li, buffer = %li",0.551
+866,uprawnienia odnośników nie są dozwolone w zmianie nazwanego profilu.,link perms are not allowed on a named profile transition.,link permissions are not allowed in a renamed profile change.,0.0
+867,"Gra typu puzzle, podobna do Tetris Attack",Puzzle game similar to Tetris Attack,"Puzzle game, similar to Tetris Attack",1.0
+868,"Aby wygrać, twórz linie o jednakowych kolorach",Make lines of the same color to win,"To win, create lines of equal colors",0.0
+869,Odtwarzacz TV dla kart wideo ATI,TV viewer for ATI video cards,TV Player for ATI video cards,0.537
+870,"Gra RTS, w której zarządzasz antycznymi wojskami",A real-time strategy game of ancient warfare,RTS game in which you manage ancient armies,0.0
+871,Pakiet biurowy obsługujący najpopularniejsze formaty dokumentów oraz standard ODF,The office productivity suite compatible to the open and standardized ODF document format. Supported by The Document Foundation.,Office suite supporting the most popular document formats and ODF standard,0.0
+872,Zarządzanie wydrukiem wielu kolorowych obrazów na jednej stronie,Color managed printing of multiple photos on single page,Manage the printing of multiple colour images on one page,0.0
+873,Bezpośrednio modyfikuje i konfiguruje Twoją bazę danych,Directly edit your entire configuration database,Directly modifies and configures your database,0.0
+874,"Buduje tymczasowy sandbox oraz pobiera/instaluje w nim potrzebne pakiety wraz z symbolami debugowania. Bez tej opcji założone zostaje, że niezbędne pakiety i symbole są już zainstalowane w systemie. Argument wskazuje na katalog bazy konfiguracji systemu pakietów. Wybranie opcji ""system"" skutkuje użyciem plików konfiguracji systemu - możliwe będzie wyłącznie śledzenie i analiza (retrace) problemów, które miały miejsce w bieżąco zainstalowanym wydaniu systemu.","Build a temporary sandbox and download/install the necessary packages and debug symbols in there; without this option it assumes that the necessary packages and debug symbols are already installed in the system. The argument points to the packaging system configuration base directory; if you specify ""system"", it will use the system configuration files, but will then only be able to retrace crashes that happened on the currently running release.","Builds a temporary sandbox and downloads/installs the necessary packages and debugging symbols into it. Without this option it is assumed that the necessary packages and symbols are already installed on the system. The argument points to the directory of the package system configuration database. Selecting the ""system"" option results in the use of system configuration files - only problems that occurred in the currently installed system release will be tracked and analyzed (retrace).",0.316
+875,Narzędzie graficzne do wyszukiwania i usuwania osieroconych bibliotek,A graphical tool to find and remove orphaned libraries,A graphical tool for finding and removing orphaned libraries,0.0
+876,Nakładka graficzna na Axela - lekkiego akceleratora pobierania,Front-end for Axel - a light download accelerator,Graphics overlay for Axel - a lightweight download accelerator,0.0
+877,Wyszukuje tłumaczeń w słowniku lokalnym oraz internetowym,Lookup words in a local or Internet dictionary,Searches for translations in the local and online dictionary,0.0
+878,Graj w gry z Super Nintendo Entertainment System,Play Super Nintendo Entertainment System games,Play games from the Super Nintendo Entertainment System,0.403
+879,Można przenieść coś w puste miejsce,Consider moving something into an empty slot,You can move something into an empty space,0.356
+880,Oczyść statek kosmiczny ze wszystkich droidów,Clear a spaceship from all droids,Clear the spaceship of all droids,0.0
+881,Narzędzie do zarządzania muzyką dla urządzeń Creative Nomad/Zen oraz Dell DJs,A tool for managing Creative Nomad/Zen Jukeboxes and Dell DJs,Music management tool for Creative Nomad/Zen and Dell DJs,0.0
+882,"Pobieranie i wysyłanie plików, przy pomocy wielu protokołów",Download and upload files using multiple file transfer protocols,"Downloading and sending files, using multiple protocols",0.0
+883,Zaawansowane narzędzie do przeprowadzania badań i analiz genealogicznych,"Manage genealogical information, perform genealogical research and analysis",Advanced tool for genealogical research and analysis,0.346
+884,Wyświetla i tymczasowo instaluje wszystkie rodzaje czcionek,View and temporarily install all kinds of fonts.,Displays and temporarily installs all types of fonts,0.0
+885,Doskonała gra do nauki języków programowania,Learn how to program with ants and spider webs,An excellent game for learning programming languages,0.0
+886,"GUI dla mp3gain, vorbisgain oraz aacgain","A GUI for mp3gain, vorbisgain and aacgain","GUI for mp3gain, vorbisgain and aacgain",0.809
+887,Pozwala na przyjazną użytkownikowi edycję oraz tworzenie obrazów,Create and Edit Drawings or Images,Allows user-friendly editing and creation of images,0.0
+888,"Unikaj robotów i spraw, by rozbijały się o siebie",Avoid the robots and make them crash into each other,Avoid the robots and make them crash into each other,1.0
+889,Należy przenieść ~a na dziesiątkę karo.,Move ~a onto the ten of diamonds.,You should move ~a to the ten of diamonds.,0.367
+890,"Program do nauki, utrwalania i pomocy w zapamiętywaniu",A flash card program to make your review process more efficient,"A program to learn, consolidate and help memorize",0.0
+891,Tworzy i edytuje trówymiarowe modele i animacje,Create and edit 3D models and animations,Creates and edits 3D models and animations,0.435
+892,Przywraca konfiguracje eCryptfs i montuje hasła,Backup eCryptfs configuration and mount passphrases,Restores eCryptfs configurations and mounts passwords,0.0
+893,Narzędzie dźwiękowe do budowy sieci przetwarzania przez łączenie funkcjonalnych boxów,An audio tool to build processing networks by connecting functional boxes,Sound tool for building processing networks by combining functional boxes,0.0
+894,"Należy określić pakiet lub identyfikator procesu. Proszę użyć opcji --help, aby uzyskać więcej informacji.",You need to specify a package or a PID. See --help for more information.,A package or process ID must be specified. Please use the --help option for more information.,0.0
+895,Przeglądarka diagramów definicji (XSD) schematów XML,XML Schema Definition (XSD) diagram viewer,XML Schema Definition Diagram (XSD) viewer,0.0
+896,Czyszczenie planszy przez usuwanie grup kulek jednego koloru i kształtu,Clear the screen by removing groups of colored and shaped tiles,Cleaning the board by removing groups of balls of the same color and shape,0.198
+897,Klient VDR Xineliboutput - Frontend FrameBuffer,VDR Xineliboutput Client - FrameBuffer Frontend,Klient VDR Xineliboutput - Frontend FrameBuffer,0.0
+898,"Niektóre wersje pakietów są już przestarzałe. Proszę zaktualizować następujące pakiety i sprawdzić, czy problem nadal występuje: %s",You have some obsolete package versions installed. Please upgrade the following packages and check if the problem still occurs: %s,Some versions of packages are already outdated. Please update the following packages and see if the problem persists: %s,0.194
+899,Należy przenieść ~a na dwójkę karo.,Move ~a onto the two of diamonds.,You should move ~a to the two of diamonds.,0.367
+900,Darmowy słownik języka japońskiego z asystentem nauczania,A free Japanese dictionary and study assistant,Free Japanese language dictionary with learning assistant,0.0
+901,Proszę zgłosić ten błąd autorom programu.,Please report this bug to the developers.,Please report this bug to the program authors.,0.701
+902,Zmiana rozdzielczości i położenia monitorów oraz projektorów,Change resolution and position of monitors and projectors,Changing the resolution and position of monitors and projectors,0.742
+903,DXX-Rebirth źródłowy port Descent: First Strike z 1995,DXX-Rebirth source port of Descent: First Strike from 1995...,DXX-Rebirth source port of Descent: First Strike from 1995,1.0
+904,"Gra przygodowa science-fiction, której akcja ma miejsce w postapokaliptycznej wizji przyszłości",A science-fiction adventure game set in a bleak post-apocalyptic vision of the future,A science-fiction adventure game set in a post-apocalyptic vision of the future,0.761
+905,Zgłasza błąd dotyczący symptomu (wymuszone jeśli podano nazwę symptomu jako parametr),File a bug report about a symptom. (Implied if symptom name is given as only argument.),Reports an error regarding the symptom (forced if the symptom name is given as a parameter),0.257
+906,Aplikacja do renderingu objętościowego dużych danych,Desktop volume rendering application for large data,Application for volumetric rendering of big data,0.0
+907,"Program do współpracy ze skanerem. Może być użyty do skanowania, kopiowania, rozpoznawania tekstu i wysyłania faxów.","A program to work with scanner. Can be used as a scanning, copier, OCR, fax tools.","A program to work with a scanner. It can be used for scanning, copying, text recognition and faxing.",0.293
+908,Należy przenieść ~a na puste lewe miejsce.,Move ~a onto an empty left slot.,You should move ~a to the empty left space.,0.0
+909,Odtwarzacz plików audio z rozciąganiem podstawy czasu,Audio file player with time stretch,Audio file player with time base stretching,0.643
+910,Nie można odnaleźć ostatnio wybranej gry.,Aisleriot cannot find the last game you played.,Last selected game cannot be found.,0.0
+911,"Błędny znacznik wykonania ""i"". Wcześniej użyto sprzecznego znacznika.","Exec qualifier 'i' invalid, conflicting qualifier already specified",Incorrect execution tag 'and'. A conflicting tag was used earlier.,0.0
+912,Powiadamianie o nowych wiadomościach poczty e-mail,Get notified when new mail arrives,Notification of new e-mails,0.0
+913,Mikser dla serwera dźwięku PulseAudio (GTK+),Mixer for the PulseAudio sound server (GTK+),Mixer for the PulseAudio sound server (GTK+),1.0
+914,"Komunikator internetowy z obsługą wielu protokołów, miedzy innymi: AIM, Google Talk, Jabber/XMPP, MSN, Yahoo!, Gadu-Gadu","Chat over IM. Supports AIM, Google Talk, Jabber/XMPP, MSN, Yahoo and more","Instant Messenger with support for multiple protocols, including: AIM, Google Talk, Jabber/XMPP, MSN, Yahoo!, Gadu-Gadu",0.325
+915,Błąd: nie można wykonać %s. Zatrzymywanie.,Error: %s is not an executable. Stopping.,Error: unable to execute %s. Stopping.,0.0
+916,Arkusz kalkulacyjny pozwalający na przeprowadzanie zaawansowanych obliczeń oraz tworzenie algorytmów i formuł,Create and edit scientific formulas and equations by using Math.,Spreadsheet to perform advanced calculations and create algorithms and formulas,0.0
+917,Należy przenieść ~a na dziewiątkę trefl.,Move ~a onto the nine of clubs.,You should move ~a to the nine of clubs.,0.367
+918,"Gra do nauki alfabetu, dla małych dzieci",GTK letters-learning game for small children,"A game to learn the alphabet, for young children",0.0
+919,"Zarządzanie nagraniami EEG, wyświetlanie i ocena plików EDF, oraz symulacja Process S","Manage EEG recordings, view and score EDF files, and simulate Process S","Management of EEG recordings, display and evaluation of EDF files, and simulation of Process S",0.0
+920,Interfejs GTK do synchronizacji plików dla programu Unizon (wersja 2.32.52),GTK interface for the unison file synchronization tool 2.32.52,GTK file synchronization interface for Unizon (version 2.32.52),0.0
+921,"Nie można naprawić skutków niedopełnienia bufora, przygotowanie nie udało się: %s","Can't recovery from underrun, prepare failed: %s","Unable to fix the effects of buffer underrun, preparation failed: %s",0.0
+922,Spróbuj `%s --help' żeby uzyskać więcej informacji.,Try `%s --help' for more information.,Try `%s --help' for more information.,1.0
+923,Błąd łączenia reguł dla profilu %s. Wczytanie nie powiodło się.,"ERROR merging rules for profile %s, failed to load",Rule merge error for profile %s. Load failed.,0.0
+924,Niektóre z nich mogą być niedostępne na wybranym urządzeniu,Some of these may not be available on selected hardware,Some of these may not be available on your selected device,0.708
+925,Zagraj w tenisa przeciwko komputerowi lub koledze,Play tennis against the computer or a friend,Play tennis against a computer or a friend,0.5
+926,Analiza i generowanie sygnału audio poprzez ALSA,Analyse or generate an Audio signal through ALSA,Audio signal analysis and generation via ALSA,0.0
+927,Czytnik przeglądarki internetowej dla tabletów dotykowych,A web browser reader for touch tablets,Web browser reader for touchscreen tablets,0.435
+928,"Jeśli wystąpią kolejne awarie, proszę spróbować ponownie uruchomić komputer.","If you notice further problems, try restarting the computer.","If further crashes occur, please try restarting your computer.",0.0
+929,Pozwala na oglądanie telewizji na ekranie komputera,Lets you watch TV in a window,Allows you to watch TV on your computer screen,0.0
+930,Należy przenieść ~a na ósemkę karo.,Move ~a onto the eight of diamonds.,Move ~a to the eight of diamonds.,0.489
+931,"Konfiguracja klawiatury, myszy i innych urządzeń wejścia","Configure keyboard, mouse, and other input devices","Configuring the keyboard, mouse and other input devices",0.701
+932,Przeglądarka internetowa działająca w trybie graficznym i tekstowym,Web browser running in both graphics and text mode,A web browser that works in both graphical and text mode,0.0
+933,usługi '%s' nie znaleziono w /etc/services,service '%s' is not found in /etc/services,service '%s' not found in /etc/services,0.489
+934,Mission Pack 1 dla klasycznej strzelanki FPS,Mission Pack 1 for the classic first person shooter,Mission Pack 1 for the classic FPS shooter,0.61
+935,Należy przenieść kartę lub stos kart na puste miejsce,Move a card or build of cards on to the empty slot,Move a card or a stack of cards to an empty space,0.271
+936,Nie udało się określić identyfikatora okna procesu przy użyciu programu xprop,xprop failed to determine process ID of the window,Failed to determine process window ID using xprop,0.343
+937,Uruchom przetwarzanie audio w interfejsie graficznym QT,Runs an audio processing core under a QT designer interface,Start audio processing in the QT GUI,0.0
+938,Należy przenieść ~a na trójkę trefl.,Move ~a onto the three of clubs.,You should move ~a to the three of clubs.,0.367
+939,Należy przenieść ~a na dziewiątkę kier.,Move ~a onto the nine of hearts.,Move ~a to the nine of hearts.,0.489
+940,Metapakiet dla środowiska pulpitowego Lightweight X11,Meta-package for the Lightweight X11 Desktop Environment,Metapackage for the Lightweight X11 desktop environment,1.0
+941,Należy umieścić dziesiątkę kier obok dziewiątki kier.,Place the ten of hearts next to the nine of hearts.,Place the ten of hearts next to the nine of hearts.,1.0
+942,Interfejs graficzny do zdalnego sterowania demonem Transmission,GUI to remotely control a Transmission daemon,Graphical interface for remote control of the Transmission daemon,0.0
+943,Pozwala montować obrazy iso jako wirtualne napędy CD-ROM/DVD-ROM,Mount CD-ROM and DVD image iso,Allows you to mount iso images as virtual CD-ROM/DVD-ROM drives,0.0
+944,"Twórz, graj, organizuj i zarządzaj instrumentami i dźwiękami MIDI","Create, play and organize MIDI instruments and sounds","Create, play, organize and manage MIDI instruments and sounds",0.39
+945,Nie można użyć okresu odpowiadającego rozmiarowi bufora (%lu == %lu),Can't use period equal to buffer size (%lu == %lu),Cannot use period corresponding to buffer size (%lu == %lu),0.513
+946,"Gra polegająca na odgadnięciu nieznanej liczby, na zasadach podobnych do Mastermind","A guess-the-number game, aka Bulls and Cows","A game of guessing an unknown number, with rules similar to Mastermind",0.0
+947,Konfiguracja źródeł pakietów oprogramowania i aktualizacji,Configure the sources for installable software and updates,Configuration of software package sources and updates,0.0
+948,Częstotliwość %iHz niedostępna dla odtwarzania: %s,Rate %iHz not available for playback: %s,Frequency %iHz not available for playback: %s,0.809
+949,Wolne środowisko dla inżynierów i naukowców do tworzenia prototypów i obróbki danych,A free environment for rapid engineering and scientific prototyping and data processing,A free environment for engineers and scientists to prototype and process data,0.244
+950,Z pewnością wraz z niniejszym programem dostarczono także egzemplarz Powszechnej Licencji Publicznej GNU (GNU General Public License); jeśli nie - proszę odwiedzić stronę internetową .slot type,"You should have received a copy of the GNU General Public License along with this program. If not, see .","Surely a copy of the GNU General Public License was also provided with this program; if not, please visit the .slot type",0.476
+951,Program do tworzenia animacji z obsługą kamer,Image Per Image capture tool for making animation movies.,Software to create animations with camera support,0.0
+952,"Wyświetla obrazy, które ewoluują wraz z dźwiękiem",Displays images that evolve with sound,Displays images that evolve with the sound,0.673
+953,Należy umieścić dziesiątkę karo obok dziewiątki karo.,Place the ten of diamonds next to the nine of diamonds.,Place the ten of diamonds next to the nine of diamonds.,1.0
+954,"Wysłanie zgłoszenia o błędzie, aby pomóc go usunąć",Send an error report to help fix this problem,Posting a bug report to help fix it,0.298
+955,"Nie można wyświetlić pomocy dla ""%s""",Could not show help for “%s”,"Unable to display help for ""%s""",0.0
+956,Podział jednej myszy i urządzenia wskazującego pomiędzy kilka komputerów,Share mouse and pointer with other Computers,Sharing a single mouse and pointing device between multiple computers,0.0
+957,%s: do uruchomienia tego programu wymagane są uprawnienia administratora.,%s: Sorry. You need root privileges to run this program.,%s: administrator rights are required to run this program.,0.278
+958,"Zebrane informacje mogą zostać wysłane do twórców, aby ulepszyć program. To może potrwa kilka minut.",The collected information can be sent to the developers to improve the application. This might take a few minutes.,The information gathered can be sent to the developers to improve the program. This may take a few minutes.,0.588
+959,Należy przenieść ~a na dwójkę trefl.,Move ~a onto the two of clubs.,You should move ~a to the two of clubs.,0.367
+960,Pozwala na przeglądanie dużych zbiorów informacji,ParaView allows viewing of large data sets,Allows you to browse large collections of information,0.0
+961,"Wymagane jest uwierzytelnienie, aby zmienić własne dane",Authentication is required to change your own user data,Authentication required to change your own data,0.485
+962,Narzędzie do ustawiania alarmów graficznych i dźwiękowych dla tabletów,A tool to setup visual and audio alarms for tablets,Tool to set graphic and audio alarms for tablets,0.452
+963,Pozwala na ustawienie codziennie wyświetlanego okna z wiadomościami do przeczytania,A message of the day browser for X,Allows you to set the daily display of messages to be read,0.0
+964,"Przesyła dane i aktualizuje bazy danych DNA GenBank, EMBL, DDBJ","Submit DNA sequences to the GenBank, EMBL, and DDBJ databases","Transfers data and updates DNA databases GenBank, EMBL, DDBJ",0.0
+965,"Połącz kropki tak, aby otrzymać kwadraty",Connect the dots to create squares,Connect the dots to make squares,0.537
+966,Aplikacja pozwala na dzielenie plików dźwiękowych WAV na kilka mniejszych części,Split wave files into multiple chunks,The application allows you to split WAV audio files into several smaller parts,0.0
+967,Klocki umarlaków. Gra typu Tetris Attack z ciekawą scenerią,Tetris Attack clone with spooky undertones,Deadman Blocks. Tetris Attack type game with interesting scenery,0.0
+968,Intuicyjna i łatwa w użyciu książka adresowa,Simple and easy to use addressbook,Intuitive and easy-to-use address book,0.0
+969,Raportowanie postępu pobierania/instalacji podczas instalowania pakietów do sandbox,report download/install progress when installing packages into sandbox,Download/installation progress reporting when installing packages to sandbox,0.0
+970,Graficzny interfejs użytkownika dla SSH i SCP,A graphical user interface for SSH and SCP,Graphical user interface for SSH and SCP,0.841
+971,"Multimedialna rozrywka edukacyjna: puzzle, skojarzenia, krzyżówki, zadania tekstowe itp.","Multimedia educational activities: puzzles, associations, text exercises, crosswords, scrambled letters, etc.","Multimedia educational entertainment: puzzles, associations, crosswords, text tasks, etc.",0.0
+972,Tworzy wizualizacje dla strumieni dźwięku z serwera PulseAudio,Visualization of PulseAudio streams with projectM,Creates visualizations for audio streams from PulseAudio server,0.0
+973,"Genialny terminal z przezroczystym tłem, umożliwiającym czytanie komend z innych okien",Use the command line in a Quake-like terminal,Ingenious terminal with transparent background for reading commands from other windows,0.0
+974,Należy umieścić szóstkę karo obok piątki karo.,Place the six of diamonds next to the five of diamonds.,Place the six of diamonds next to the five of diamonds.,1.0
+975,Porgram do przeprowadzania zaawansowanych obliczeń i przekształceń matematycznych oraz rysowania wykresów 3D,Perform symbolic and numeric calculations using Maxima,Porgram for performing advanced calculations and mathematical transformations and drawing 3D diagrams,0.0
+976,"Menedżer maszyn wirtualnych, pozwalający na uruchamianie na jednym komputerze kilku innych systemów",Run several virtual systems on a single host computer,"Virtual Machine Manager, allowing you to run several other systems on the same computer",0.0
+977,"Proste w obsłudze środowisko do edycji, klasyfikacji i przeglądania dokumentów TeX","A simple environment for editing, typesetting, and previewing TeX documents","An easy-to-use environment for editing, classifying and viewing TeX documents",0.0
+978,"Pozwala konstruować, przeglądać i analizować struktury atomow","Construct, view and analyse atomic structures","Allows you to construct, view and analyze atomic structures",0.0
+979,Edytor hex dla dużych plików i urządzeń,A hex editor for huge files and devices,Hex editor for large files and devices,0.0
+980,aseqnet - sieciowy klient/sewer dla sekwencera ALSA,aseqnet - network client/server on ALSA sequencer,aseqnet - network client/server for ALSA sequencer,0.0
+981,Kreator importu i migracji danych z programów pocztowych thunderbird / evolution itp.,Launch the import wizard to migrate data from mailer as thunderbird/evolution etc.,Wizard to import and migrate data from thunderbird / evolution mail programs etc.,0.0
+982,%s: %s: Tylko katalogi mogą mieć domyślne ACL-e,%s: %s: Only directories can have default ACLs,%s: %s: Only directories can have default ACLs,1.0
+983,Należy przenieść ~a na trójkę kier.,Move ~a onto the three of hearts.,It is necessary to move ~a to the three directions.,0.0
+984,Przenoś uruchomione aplikacje między komputerami w sieci,Move running applications between networked computers,Move running applications between computers on the network,0.385
+985,Katalog sandbox nie zostanie utworzony ani użyty ponownie dla dodatkowych symboli debugowania. Polegamy tylko na symbolach już zainstalowanych.,do not create or reuse a sandbox directory for additional debug symbols but rely only on installed debug symbols.,The sandbox directory will not be created or reused for additional debugging symbols. We rely only on symbols already installed.,0.0
+986,Należy przenieść króla na puste miejsce tableau.,Move a king onto an empty tableau slot.,Move the king to the empty space of the tableau.,0.0
+987,"Uwaga: nie można znaleźć systemu plików w %s, czy jest on zamontowany? Opcja --subdomainfs wymusza typ systemu plików.","Warning: unable to find a suitable fs in %s, is it mounted? Use --subdomainfs to override.","Note: can't find the filesystem in %s, is it mounted? The --subdomainfs option forces the file system type.",0.22
+988,Instaluje dodatkowy pakiet w piaskownicy (można użyć wiele razy),Install an extra package into the sandbox (can be specified multiple times),Installs an additional sandbox package (can be used multiple times),0.0
+989,Wtyczka Firefox do szybkiego przeszukiwania witryny Launchpad,Firefox Launchpad integration adds quick search for Launchpad services,Firefox plugin for quick search of Launchpad site,0.0
+990,"Gadający, pełny przydatnych funkcji konfiguracji budzik z możliwością włączenia komputera",A talking and fully customizable alarm clock that will operate from poweroff,A talking alarm clock full of useful configuration features with the ability to turn on your computer,0.0
+991,%s: Napotkano błędy podczas przetwarzania. Proces przerwano.,%s: Errors found during postprocess. Aborting.,%s: Processing errors were encountered. The process was aborted.,0.0
+992,Emulator Super Nintendo Entertainment System (TM),Super Nintendo Entertainment System (TM) emulator,Emulator Super Nintendo Entertainment System (TM),0.795
+993,Określony identyfikator procesu nie powiązany jest z żadnym programem.,The specified process ID does not belong to a program.,The specified process ID is not associated with any program.,0.291
+994,Standardowy emulator terminala dla systemu X Window,standard terminal emulator for the X window system,Standard terminal emulator for X Window System,0.5
+995,"Najokrutniejszy Tetris, w jakiego kiedykolwiek grałeś!",Go mad with this Tetris clone,The cruelest Tetris you've ever played!,0.0
+996,Pozwala na dzielenie plików w sieci DC++,Share files over the DC++ network,Allows file sharing on a DC++ network,0.0
+997,Można spróbować zdjąć karty z podkładu,Try moving cards down from the foundation,You could try taking the cards off the pad,0.0
+998,Łączenie wpisów nie powiodło się. Brak pamięci.,Couldn't merge entries. Out of Memory,Linking entries failed. No memory.,0.0
+999,Pozwala na tworzenie zdjęć i nagrywanie filmów z zabawnymi efektami za pomocą kamery internetowej,"Take photos and videos with your webcam, with fun graphical effects",Allows you to create photos and videos with fun effects using your webcam,0.264

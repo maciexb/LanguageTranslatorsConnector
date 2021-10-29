@@ -1,0 +1,26 @@
+,276
+Unnamed: 0,AmazonTranslate
+Sentences_from,Pasażerowie planujący wykorzystać TYBAC muszą się zapisać (do tajwańskich służb imigracyjnych) 3 dni przed użyciem.
+Sentences_to,Passengers planning to utilize TYBAC must sign up (to the Taiwanese immigration service) 3 days before use.
+Translated_sentences,Passengers planning to use TYBAC must sign up (for Taiwan Immigration Services) 3 days prior to use.
+BLEU,0.248
+Unnamed: 0,DeepL
+Sentences_from,Pasażerowie planujący wykorzystać TYBAC muszą się zapisać (do tajwańskich służb imigracyjnych) 3 dni przed użyciem.
+Sentences_to,Passengers planning to utilize TYBAC must sign up (to the Taiwanese immigration service) 3 days before use.
+Translated_sentences,Passengers planning to use TYBAC must sign up (with Taiwan immigration services) 3 days before use.
+BLEU,0.36
+Unnamed: 0,GoogleTranslator
+Sentences_from,Pasażerowie planujący wykorzystać TYBAC muszą się zapisać (do tajwańskich służb imigracyjnych) 3 dni przed użyciem.
+Sentences_to,Passengers planning to utilize TYBAC must sign up (to the Taiwanese immigration service) 3 days before use.
+Translated_sentences,passengers planning to use tybac must register (with the taiwanese immigration service) 3 days prior to use.
+BLEU,0.40700000000000003
+Unnamed: 0,MicrosoftTranslator
+Sentences_from,Pasażerowie planujący wykorzystać TYBAC muszą się zapisać (do tajwańskich służb imigracyjnych) 3 dni przed użyciem.
+Sentences_to,Passengers planning to utilize TYBAC must sign up (to the Taiwanese immigration service) 3 days before use.
+Translated_sentences,Passengers planning to use TYBAC must sign up (to Taiwan Immigration Services) 3 days prior to use.
+BLEU,0.32899999999999996
+Unnamed: 0,YandexTranslate
+Sentences_from,Pasażerowie planujący wykorzystać TYBAC muszą się zapisać (do tajwańskich służb imigracyjnych) 3 dni przed użyciem.
+Sentences_to,Passengers planning to utilize TYBAC must sign up (to the Taiwanese immigration service) 3 days before use.
+Translated_sentences,Passengers planning to use tibac must register (with the Taiwanese immigration service) 3 days before use.
+BLEU,0.507

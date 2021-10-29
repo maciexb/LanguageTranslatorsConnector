@@ -1,0 +1,1001 @@
+,Sentences_from,Sentences_to,Translated_sentences,BLEU
+0,ObudÅº ÅpiÄcych braci radosnym dÅºwiÄkiem rogu Schofa!,Awake the sleeping brethren with the joyful sound of the Schofa-horn!,Wake the sleeping brethren with the joyful sound of the Schofa horn!,0.718
+1,"A kiedy jÄ znajdÄ, nikt mnie nie zobaczy przez dwa tygodnie.","And when I'd found her, nobody'd see me for two weeks.","And when they find her, no one will see me for two weeks.",0.348
+2,"Jak moÅ¼esz straciÄ coÅ, czego nie masz?",How can you lose what you never possessed?,How can you lose something you don't have?,0.366
+3,DÅuÅ¼ej nie pozwolÄ robiÄ z siebie gÅupca.,You're not going to play with me anymore.,I won't let you make a fool of yourself any longer.,0.0
+4,"Ale nawiasem mÃ³wiÄc, chciaÅabym zachowaÄ wspomnienie o dzisiejszym wieczorze.",But the chopper is very similar.,"But by the way, I'd like to keep the memory of tonight.",0.0
+5,"Ludzie nie wiedzÄ, co zrobiÄ z pieniÄdzmi.","- With money, you can do anything.",People don't know what to do with the money.,0.0
+6,PlanowaÅem udaÄ siÄ do Edo. Edo?,I intend to follow the way of the sword just as I have been.,I was planning to go to Edo. Edo?,0.0
+7,"Nikt nie zostaje bogiem, poniewaÅ¼ chce.",! One does not become a god of one's own accord.,No one becomes a god because they want to.,0.0
+8,"Gdy mÃ³wiÅem, Å¼e odejdÄ, widziaÅem twe oczy.","When I said I'd leave you, I saw your eyes.","When I said they were going to leave, I saw your eyes.",0.322
+9,"W niektÃ³rych wsiach Las Hurdes wiÄkszoÅÄ dzieci to sieroty, porzucone przez matki, ktÃ³re po dwudniowej przeprawie przez gÃ³ry, pozostawiajÄ je w Domu Opieki SpoÅecznej w Cuidad Rodrigo.",In some villages of Las Hurdes most of the children are orphans. They are abandoned children whom the women of Las Hurdes bring back from Public Assistance in Cuidad Rodrigo a two-day walk away across the hills.,"In some villages of Las Hurdes, most of the children are orphans, abandoned by their mothers who, after crossing the mountains for two days, leave them at the Social House in Cuidad Rodrigo.",0.348
+10,Siegfried staÅ siÄ zabÃ³jcÄ smoka panem Skarbu NibelungÃ³w.,Siegfried became the dragon slayer The lord of the Nibelungen Treasure.,Siegfried has become the dragon-killing lord of the Nibelungen Treasure.,0.382
+11,"- Tak. Powiedz, jakie Dale zrobiÅa na tobie wraÅ¼enie?","Tell me, how did Dale strike you?","- Yeah. Tell me, how did Dale make an impression on you?",0.363
+12,- ChciaÅbym siÄ napiÄ i coÅ zjeÅÄ.,- I want a drink and some dinner.,- I'd like to have a drink and something to eat.,0.0
+13,"WidziaÅa pani, albo sÅyszaÅa coÅ zeszÅej nocy?","- Did you see, or hear anything during the night?",Did you see or hear anything last night?,0.61
+14,Jestem tylko absolwentem liceum z trÃ³jÄ z ang. na Åwiadectwie wiÄc mogÄ mi siÄ zdarzyÄ bÅÄdy,Daisy d Ora Jack........... Gustaw Diessl Marquis Casti Piani.. Michael won Newlinsky Stage Manager........,I'm only a high school graduate with a triple English on my diploma so mistakes can happen.,0.0
+15,"Dopiero na miejscu dowiemy siÄ, ile w nich jest prawdy.",But we won't know if it's accurate unless we go see firsthand.,Only when we get there will we find out how much truth there is in them.,0.0
+16,Jestem tylko skromnym narzÄdziem w rÄkach naszego przywÃ³dcy.,I am only a humble instrument in the hands of our great leader.,I'm just a humble tool in the hands of our leader.,0.344
+17,"Czy to prawda, Å¼e byÅeÅ w tym okropnym miejscu ?","""Is it true you were in that dreadful place?""",Is it true he was in that horrible place?,0.0
+18,"Wszyscy tu zajmujÄ siÄ strÄcaniem kapeluszy, ale mnie to cieszy, bo odrywa od zÅych myÅli.","""All they do here is knock off hats -- but I enjoy it -- it occupies the mind.""","Everyone here is making hats, but I enjoy it because it takes my mind off things.",0.288
+19,SpaÅem w nich i siÄ pogniotÅy.,I slept in them and they're wrinkled.,"I slept in them, and they got all crumpled up.",0.4
+20,PrzestaÅ siÄ grzebaÄ i wyciÄgnij mnie stÄd.,"Will you stop messing around, and get me out of here?",Stop playing around and pull me out.,0.0
+21,"Dochodzi do niego uÅmiech. O, tak.","Smile goes with this one, like this.","There's a smile coming to him. Oh, yeah.",0.0
+22,"A nie, to nie mÃ³j problem.","Oh, wait. No, it's not my problem.","And no, that's not my problem.",0.0
+23,Tyle myÅli kÅÄbi mi siÄ w gÅowie.,I've so much on my mind.,So many thoughts run through my head.,0.0
+24,"ByÅo tam dwÃ³ch mÄÅ¼czyzn, ktÃ³rzy chcieli mnie zabiÄ.",There were two men there who wanted to kill me.,There were two men who wanted to kill me.,0.658
+25,"Na Åodzi, jak w ""Speed 2"".",On a boat. Like Speed 2.,"On the boat, like in Speed 2.",0.0
+26,MÃ³j syn Philip gnaÅ korytarzem i o maÅo na was nie wpadÅ.,My son Philip came careering down the corridor and almost ran you down.,My son Philip ran down the hallway and almost ran into you.,0.0
+27,Nie skÅada siÄ teÅ¼ z metalu.,"That said, it's not made of any kind of metal, either.",It also does not consist of metal.,0.0
+28,"Na bazarach peÅnych sennych kupcÃ³w, zrÄczne palce mogÄ zdobyÄ nam ksiÄÅ¼Äce szaty.","In the bazaars of the sleepy merchants, thy nimble fingers can procure us princely raiment.","In marketplaces full of sleepy merchants, skilful fingers can get us princes' robes.",0.0
+29,Moja jedyna praca to zadawaÄ pytania.,My only job is to ask questions.,My only job is to ask questions.,1.0
+30,Dlaczego nas tu wysyÅajÄ i kaÅ¼Ä walczyÄ ze sobÄ?,Why should they send us out to fight each other?,Why do they send us here and make us fight each other?,0.0
+31,"MyÅlicie, Å¼e wasza maÅa Åwieczka przyÄmi ogieÅ prawdy?",Do you think your little candle will outshine the flame of truth?,Do you think your little candle will light the fire of truth?,0.586
+32,"UciekÅa mi i przyjechaÅa tutaj, a ja tymczasem goniÅem za cieniem. AÅ¼ do samego Memphis i z powrotem przez ostatni miesiÄc.",But she played a one-night stand on me and beat it down here... while I was following a chump steer... all the way up to Memphis and back for the last month.,"She ran away from me and came here, and I chased the shadow. All the way to Memphis and back for the last month.",0.284
+33,SpotkaÅa mÄÅ¼czyznÄ i poszli razem do domu.,"She meet a man, they go in the house together.",She met a man and they went home together.,0.0
+34,"Tylko to, Å¼e pojawiÅ siÄ nieprzewidziany, nieokreÅlony element.","Only that an unforeseen, undetermined element has appeared.","It's just that there was an unforeseen, unspecified element.",0.0
+35,"- Nie wiem, czy podoÅam, Nick.","-l don't think I can do it, Nick.","- I don't know if I can do this, Nick.",0.0
+36,Poza tym zawsze byÅ dla niej zbyt miÅy.,By other he always leaves It is sweet with her.,"Besides, he was always too nice to her.",0.0
+37,"MyÅlÄ, Å¼e odpowiedÅº jest w jej Å¼yciu, a nie Åmierci.","I think the answer's in her life, not her death.","She thinks the answer is in her life, not her death.",0.486
+38,"MÃ³j ojciec zginÄÅ za SzwecjÄ, a ja dla niej Å¼yjÄ.","My father died for Sweden, and I live for her.","My father died for Sweden, and I live for her.",1.0
+39,"A zatem w San Francisco sÅoÅce pojawia siÄ 3 godziny pÃ³Åºniej, niÅ¼ w Nowym Jorku.",The sun does not get to San Francisco till three hours after New York.,"Therefore, the sun appears 3 hours later in San Francisco than in New York.",0.0
+40,"Umiem na niej graÄ tylko ""St. Louis Blues"". Na czeÅÄ St.","I'm just gonna play the ""St. Louis Blues"" on this thing... in honor of St. Louis.","I can only play ""St. Louis Blues"" on it. In honor of St.",0.315
+41,"Hej, zastÄpco... Chyba wiesz co masz zrobiÄ?","Hey, Deputy... you know what you got to do, don't you?","Hey, deputy... I guess you know what to do?",0.0
+42,"Nie moÅ¼na zbiÄ takiej kasy, a potem wypiÄÄ siÄ na kumpli.",You can't make all the dough and then run out on your pals.,You can't make that kind of money and then go and drink it with your mates.,0.0
+43,"A tobie siÄ zdaje, Å¼e gdzie ja mieszkam?",What do you think this is?,Where do you think I live?,0.0
+44,"Yune... myÅlÄ, Å¼e ja go naprawdÄ lubiÄ.",Yoon... I think I like him.,Yune... they think I really like him.,0.0
+45,KtÃ³regoÅ dnia bÄdziesz grubÄ rybÄ z kupÄ szmalu i mnie teÅ¼ siÄ coÅ z tego naleÅ¼y.,"You're going to be a big shot some day, with plenty of sugar... and I'm going to ride right along.",One day you'll be a big fish with a bunch of money and I'll get something out of it.,0.0
+46,"Szefowa powie, co tam siÄ kroi na gÃ³rze?","Madam, are there any special things upstairs?",The boss will tell you what's going on up there?,0.0
+47,"PozwÃ³l mi odszukaÄ Kate i bÅagaÄ jÄ, by zostaÅa.",Let me find Kate and beg her to stay.,Let me find Kate and ask her to stay.,0.597
+48,"ChcÄ, aby pan poznaÅ sekretarza Jego Ekscelencji. Bob Roland.","I want you to meet His Excellency's Secretary, Bob Roland.",They want you to meet His Excellency's secretary. Bob Roland.,0.88
+49,"Tak siÄ przyzwyczailiÅmy, Å¼e to siÄ robi nudne. Hej, przyjdÅº zobaczyÄ nasz jutrzejszy show.",You want to take a look at our act tomorrow night.,"We're so used to it, it's getting boring. Hey, come see our show tomorrow.",0.0
+50,"Nie ma znaczenia, uciekaj. Co jest z nimi? Chryste!",What in the hell is keeping them?,It doesn't matter. Run away. What's with them? Christ!,0.0
+51,"JeÅli juÅ¼ musi pan jechaÄ... proszÄ to nosiÄ, przez wzglÄd na paÅskÄ matkÄ.","If you must go, wear this, for your mother's sake.","If you must go... please wear this, for your mother's sake.",0.711
+52,"Nie chcÄ przez resztÄ Å¼ycia reagowaÄ na fabryczny gwizdek zamiast na sygnaÅ trÄbki, albo caÅy dzieÅ tkwiÄ w kajucie.","I don't want to spend the rest of my life... answering a factory whistle, instead of a bugle call... or be cooped up in a shipping room all day.","They don't want to spend the rest of their lives reacting to a factory whistle instead of a trumpet signal, or being stuck in a cabin all day.",0.401
+53,"Ani dla niej, ani tuzina innych.","Not for her, nor a dozen like her.",Not for her or a dozen others.,0.0
+54,"Przykro mi, kochana, ale nie sÅyszÄ ciÄ wyraÅºnie.","I'm sorry, dear, I can't hear you.","I'm sorry, dear, but I can't hear you clearly.",0.447
+55,"I dziÅ zdaÅam sobie sprawÄ Å¼e przez ostatnie parÄ miesiÄcy, nawet z Brianem, byÅam samotna.","And today, I realized for the last few months, even with Brian, I have been alone.","And today I realize that for the last couple of months, even with Brian, I've been lonely.",0.272
+56,"JeÅli nie zranisz mnie znowu, to oddam teraz moje Å¼ycie.",If you don't hurt me anymore. I can give up my life right now.,"If you don't hurt me again, I'll give my life back now.",0.326
+57,"- ZapomniaÅ o krÃ³likach, o papierach...",- He forgets his rabbits. He forgets all these papers.,"- He forgot the keys, the papers...",0.0
+58,"JeÅli pani nie wrÃ³ci, bÄdÄ musiaÅ zatrudniÄ kogoÅ innego.","If you're not back, it will be necessary to engage someone else.","If you don't come back, I'll have to hire someone else.",0.0
+59,"- Ach, Tony - znam go dobrze.","It is by his boy, Tony. Tony, if I know it well.","- Oh, Tony. I know him well.",0.0
+60,- Lepiej chodÅº tu i zobacz. - Nie mam czasu.,-You better come take a look back here.,- You better come over here and see. - I don't have time.,0.0
+61,- Jedyny sposÃ³b na prywatne Å¼ycie.,- Only way to have a life.,- The only way to have a private life.,0.57
+62,"Jak zaczÄliÅmy strzelaÄ, uciekali z miasta tak szybko... Å¼e wzbijaÅy siÄ kÅÄby kurzu.","Why, when we started shootin', they ran outta town so fast... the breeze from their coat-tails set off a sizable windmill.","When we started shooting, they ran out of town so fast... ...and dust was flying up.",0.0
+63,W przyszÅym roku bÄdzie siÄ kwalifikowaÅ do poboru.,He'll be eligible for the draft next year.,He'll be eligible for the draft next year.,1.0
+64,Zaniedbywanie tego narzÄdu prowadzi do marskoÅci.,"I'd send that back if I were you. ""The liver, if neglected, invariably leads to cirrhosis."" Of course, you are all familiar with the symptoms of cirrhosis.",Neglect of this organ leads to cirrhosis.,0.0
+65,"BÄdzie on w peÅni zapÅacony, w tej chwili.","You can make out your receipt. You'll be paid in full, right now!","It will be paid in full, right now.",0.381
+66,"A potem sprawiÄ, Å¼e mnie pokochasz.",But you're going to get well. Then I know I can make you love me.,And then make you love me.,0.174
+67,"Jest coÅ, czego siÄ boisz, Concho?","Aren't you afraid of anything, Concha?","Is there something you're afraid of, Concho?",0.0
+68,"Skoro Mahomet nie przychodziÅ do gÃ³ry, gÃ³ra musiaÅa przyjÅÄ do Mahometa.","Since you didn't care to look for me, it's I who look for you.","If Muhammad did not come to Gad, Gad must have come to Muhammad.",0.0
+69,KiedyÅ ten dom byÅ zawsze peÅen goÅci.,"This house was always filled with guests, once upon a time.",Once this house was always full of guests.,0.26
+70,- Za piÄÄ minut bÄdzie tu policja! - Niech to!,- The cops will be here in five minutes.,- The police will be here in five minutes! - Damn it!,0.551
+71,Dobrze siÄ bawiÅaÅ? WÅaÅciwie to tak.,You take a little spin down by the shore?,"Did you have fun? Actually, I did.",0.0
+72,"Czy chcecie, abym byÅ waszym kapitanem?",Do you want me to be your captain?,Do you want me to be your captain?,1.0
+73,"Dla ojczyzny, Waszej WysokoÅci, i lojalnoÅci dla ciebie... i twojej chwaÅy, Å¼adne poÅwiÄcenie nie jest zbyt wielkie!","For the fatherland, Your Majesty, and loyalty to you... and for glory, no sacrifice is too great!","For the homeland, Your Highness, and loyalty to you... and your glory, no sacrifice is too great!",0.541
+74,"ChciaÅ, bym pana spytaÅ czy moÅ¼e pan poczekaÄ... i pojechaÄ jutro po wschodzie sÅoÅca.",He wants me to ask if you can wait and go on after sunrise.,I wanted to ask you if you could wait... and ride tomorrow after sunrise.,0.0
+75,"JeÅli ktoÅ zbliÅ¼y siÄ do szefa, przyÅÃ³Å¼ mu.","Anybody come near the boss, let him have it.","If someone approaches the boss, bring him in.",0.0
+76,"JeÅ¼eli cokolwiek mi siÄ stanie, powiedz rodzicom, Å¼e mnie znaÅeÅ.","If anything should happen, tell my father and mother you knew me.","If anything happens to me, tell my parents you knew me.",0.0
+77,Harrigan byÅ czoÅowym aktorem na Broadway'u zanim skoÅczyÅ 21 lat.,Harrigan had become a leading man on the Broadway stage by his 21st birthday.,Harrigan was a leading actor on Broadway before he was 21.,0.0
+78,"ZnalazÅam w ""Timesie"" nekrolog ojca Patsy.",- I spotted an obituary for Patsy's father in The Times.,I found Patsy's father's obituary in the Times.,0.0
+79,"CieszÄ siÄ, Å¼e ci siÄ powiodÅo.","Certainly is nice to see you, Rico.",Glad you could make it.,0.0
+80,"To nie fair zaczynaÄ, zaciekawiaÄ a potem nic nie mÃ³wiÄ.","You'd like me to tell you all about fire, would you? Yes, I wish you would.","It's not fair to start, get you interested and then not say anything.",0.0
+81,- A Lilly w tej galerii...,"Yeah. And Lily, she works at that gallery doing, uh, you know-",- And Lilly in this gallery...,0.0
+82,Tan szpital tak desperacko potrzebowaÅ pieniÄdzy.,This hospital has always needed money so desperately.,This hospital so desperately needed the money.,0.0
+83,"SiedzieliÅmy przy kominku, zajadaliÅmy babeczki popijajÄc herbatÄ i spoglÄdaliÅmy na nasze cienie rozprzestrzeniajÄce siÄ po suficie.",We used to have tea and muffins in front of the fireplace... watching the shadows leaping on the ceiling.,"We sat by the fire, ate muffins and tea and looked up at our shadows spreading across the ceiling.",0.0
+84,ZadzwoÅ do Lova do biura dziesiÄÄ po drugiej.,"You call Johnny Lovo at his office at ten past two, see.",Call Lova at the office at ten past two.,0.345
+85,W jeden wieczÃ³r potrafi przepuÅciÄ caÅy zarobek.,This is the will that one doesn't keep the earnings overnight.,He can blow all his money in one evening.,0.0
+86,"Morris byÅ czoÅowym aktorem, ktÃ³ry przeniÃ³sÅ siÄ z teatru do hollywood.","Morris was a leading player, who had come from the theatre to hollywood.",Morris was a leading actor who moved from theatre to Hollywood.,0.298
+87,"Czy mi wierzysz czy nie, zadzwoÅ do... kandyjskiego konsula w Londynie?","Whether you believe me or not, will you put a telephone call through.. to High Commissioner for Canada in London?","Whether you believe me or not, call... the Kandyan consul in London?",0.273
+88,"CÃ³Å¼, muszÄ przyznaÄ, Å¼e to najwspanialszy poÅ¼ar w mym Å¼yciu.","Well, I must say, that's the best fire I ever saw in all me life.","Well, I have to say, this is the greatest gift of my life.",0.0
+89,Ze wzglÄdu na stare czasy Moi kochani,For auld lang syne My dear,"For old times' sake, my dears",0.0
+90,Zbyt dÅugo trzymasz bat nad mojÄ gÅowÄ.,You've held a sword over my head about long enough.,You've been holding the whip over my head too long.,0.0
+91,"W porzÄdku, mnie w nim nie bÄdzie.","That's alright, I won't be in it.","All right, I won't be there.",0.0
+92,"WedÅug paÅskiego oÅwiadczenia, panna Harlon i ja jesteÅmy jedynymi spadkobiercami wuja.","By your own statement, Miss Harlon and I are the sole heirs of Uncle.","According to your statement, Miss Harlon and I are your uncle's sole heirs.",0.405
+93,"WyÅÄcz lepiej ÅwiatÅo, Å¼eby nic nie zaczÄÅ podejrzewaÄ, jak bÄdzie wracaÅ.",Turn off the light. He'll get suspicious if he comes home and sees it on.,Turn the light off so we don't start suspecting anything when he comes back.,0.0
+94,"WynoÅ siÄ, jeÅli coÅ ci nie pasuje!","If you complain, go away now.",Get out if you don't like it!,0.0
+95,Pozostaje tylko 23 godziny i 20 minut dnia.,That leaves the day only 23 hours and 20 minutes long.,That leaves only 23 hours and 20 minutes of daylight.,0.519
+96,"A gdy dostarczysz wiadomoÅÄ, zapomnisz o wszystkim co powiedziaÅem.","And after you deliver the message, you will remember nothing I now say.","And when you deliver the message, you'll forget everything I said.",0.214
+97,"/Pani Meade ukrywaÅa siÄ od pÃ³Å roku, /po tym jak uciekÅa z wiÄzienia.",Mrs. Meade Has Been Missing Since Fleeing A Prison Transport Van Six Months Ago.,/Mrs. Meade had been in hiding for five years after she escaped from prison.,0.0
+98,- A te 20 000 sztuk srebra?,"- And the 20,000 pieces of eight?","- And the 20,000 pieces of silver?",0.76
+99,Nie jestem tylko pewny. czy trzeba byÄ tak agresywnym.,I'm just not sure we need to be so aggressive.,I'm just not sure you have to be so aggressive.,0.525
+100,"Nie mam samochodu, ale mam szofera.",Have you ever had any experience as a kidnapper? You bet. You know what I do when I kidnap somebody?,"I don't have a car, but I have a chauffeur.",0.0
+101,"A teraz, byÄ moÅ¼e, dokonuje piÄtego.","And by now, perhaps a fifth.","And now, maybe, he's doing it.",0.0
+102,I od tamtej pory nosi moje dobre buty.,And he's been wearing my good ones ever since.,And he's been wearing my good shoes ever since.,0.661
+103,"Nawet jeÅli to prawda, czemu bez wahania ich zdradziÅaÅ?","Even if that's true, how can you betray them so easily?","Even if it was true, why did she betray them without hesitation?",0.0
+104,Wujek Danny chce ci opowiedzieÄ bajeczkÄ.,Your Uncle Danny wants to tell you a fairy story.,Uncle Danny wants to tell you a story.,0.661
+105,"Poczujesz siÄ lepiej wkrÃ³tce po tym, jak opuÅcisz to miejsce.",You'll soon feel better when you get out of here.,You will feel better soon after you leave this place.,0.0
+106,"PatrzÄc na przebieg Åledztwa, wiedziaÅem, Å¼e skontaktujÄ siÄ z wami.","I was confident, in the course of their investigation, they would reach out to you and Tom, and they did.","Looking at the investigation, I knew you'd be contacted.",0.0
+107,"MogÄ jej powiedzieÄ, Å¼e pÅywaÅem w koszuli._BAR_",I could tell her I wore a swimming shirt.,I can tell her I swam in my shirt.,0.0
+108,"Gdy pani tam byÅa, panno Grosvenor?","When you were there, Miss Grosvenor?","When you were there, Miss Grosvenor?",1.0
+109,Studenci nie interesujÄ mnie juÅ¼ od dawna.,Years ago I gave up believing in students.,I haven't been interested in students for a long time.,0.0
+110,Nie wsadzajÄ tam ludzi bez powodu.,They don't put people there for nothing.,They don't put people in there for no reason.,0.367
+111,"Robert Cedric Sherriff, urodziÅ siÄ w Kingston-upon-Thames w anglii, w 1896 roku.","RC Sherriff, Robert Cedric Sherriff, was born in Kingston-upon-Thames, Surrey, england, in 1896.","Robert Cedric Sherriff was born in Kingston-upon-Thames, England, in 1896.",0.578
+112,"MoÅ¼esz sobie iÅÄ, kiedy tylko zechcesz.",You can leave any time you see fit.,You can go whenever you want.,0.0
+113,"Zawsze byÅem ciekaw, co za dziewczyna wychodzi za tak znanego lotnika jak King Westley.",I've always been curious to know what kind of a girl would marry a front-page aviator like King Westley.,I always wondered what kind of girl would marry a famous aviator like King Westley.,0.319
+114,"Skoro prosisz mnie o pomoc, nigdy ciÄ nie opuszczÄ.","Now that you've asked for help, I'll never leave you alone.","If you ask me for help, I will never leave you.",0.0
+115,"ChoÄby to byÅ caÅy komisariat, nie wolno im tu wpadaÄ i przepytywaÄ mojej Å¼ony.","Even if they're the whole police department they can't bust in here, questioning my wife.","Even if this is the whole police station, they can't come in here and question my wife.",0.0
+116,"Nie tak od razu Bertie, musimy siÄ przygotowaÄ... powiedzmy w najbliÅ¼szy wtorek !","""We can't now, Bertie -- we must make arrangements first - let's say next Tuesday!""","Not so fast Bertie, we have to get ready... let's say next Tuesday!",0.23
+117,"Daniel, ten ostatni rok w ""Modzie"", nie zamieniÅabym go na nic innego.","Daniel,This - This Last Year At ""Mode,"" I","Daniel, this last year at Fashion, I wouldn't trade it for anything else.",0.184
+118,"Jak tylko coÅ powiem, zaraz na mnie wrzeszczysz.",You just snap my head off every time I open my mouth.,"As soon as I say something, you yell at me.",0.0
+119,PonoÄ Miranda odrzuciÅa jesienne kurtki na rzecz sesji Sedan.,Heard Miranda killed autumn jackets and pulled up the Sedona shoot.,PonoÄ Miranda ditched the fall jackets in favor of the Sedan shoot.,0.0
+120,"- ZostanÄ na godzinÄ, jeÅli mogÄ.","- I'll stay for an hour, if you don't mind.",- They'll stay for an hour if they can.,0.446
+121,Tam dokÄd jadÄ nie bÄdzie Å¼adnych inspekcji.,There'll be no inspection where I'm going.,There will be no inspections where they are going.,0.0
+122,"ProszÄ, Flaemmchen, nie mieszajmy do tego mojej Å¼ony.","We will leave my wife out of this, Flaemmchen, please.","Please, Flaemmchen, let's leave my wife out of this.",0.556
+123,"C. difficile. WiÄc dajcie mi tabletki, Å¼eby to wyleczyÄ.","So, just give me some pills to fix that.",C. difficile. So give me the pills to cure it.,0.0
+124,"Od poranka, tuÅ¼ po tamtym Ånie.",Since the morning after the dream.,Since the morning after that.,0.508
+125,"Po dÅugiej nieobecnoÅci, bo od poczÄtku filmu, wraca muzyka, aby podkreÅIiÄ ostatnie minuty akcji.","After a Iong absence, since the main title, actually, music returns as underscoring for the Iast seven minutes of the film.","After a long absence from the beginning of the film, the music returns to highlight the final minutes of action.",0.0
+126,"Panie i panowie, przepraszam za zwÅokÄ...","Ladies and gentlemen, I apologize for the slight delay.","Ladies and gentlemen, sorry for the delay...",0.0
+127,"Gdybym uciekÅ, staÅbym siÄ poÅmiewiskiem caÅego Åwiata.",Please! Let's you and I run away together! I can't do that!,"If I ran away, I'd be the laughing stock of the world.",0.0
+128,"Co zrobiÅeÅ chÅopcze, rozbiÅeÅ mamie skarbonkÄ?","What'd you do, boy, rob your mama's bank?","What did you do, boy, break Mommy's piggy bank?",0.0
+129,MogÄ rÃ³wnieÅ¼ czytaÄ. nie nienawidzÄ Hee Joo.,I was able to read all the words that were written on those pages very easily.,They can also read. don't hate Hee Joo.,0.0
+130,Ale dam pani figÄ z makiem.,"no snow, no ice. Get some onions. That'll make your eyes water.",But I'll give you a fig and a poppy seed.,0.0
+131,"Anno, jesteÅ dla mnie caÅym Å¼yciem.","Anna, you're all my life to me.","Anna, you are my whole life.",0.0
+132,Ludzie bÄdÄ panikowaÄ. Telefony bÄdÄ siÄ urywaÅy.,"People are panicking, so the phone is going to be ringing off the hook.",People will panic. The phones will be ringing off the hook.,0.289
+133,"Nie moÅ¼na wybaczyÄ zniewagi, ale moÅ¼na zniewaÅ¼aÄ.",One must never pardon an insult but may freely give one.,"You can't forgive an insult, but you can insult.",0.0
+134,Jest wart co najmniej 3 ryo!,You! It would be worth three ryos at least!,It's worth at least 3 ryo!,0.0
+135,Ale w prawdziwym Å¼yciu wilk i owca nie bÄdÄ naleÅ¼eÄ do siebie.,"That because it's a children's book. But in reality, a wolf and a lamb cannot be together.","But in real life, the wolf and the sheep don't belong together.",0.0
+136,"Dduk Bok Gi, idÅº zjeÅÄ co chcesz!","Dduk-bok-gi, go eat all you want!","Dduk Bok Gi, go eat what you want!",0.0
+137,"Ale wciÄÅ¼ nie mamy pewnoÅci, czy zagraÅ¼ajÄ ludzkoÅci.",But we still can't be sure that they're a threat to humanity.,But we are still not sure whether they endanger humanity.,0.0
+138,A szata graficzna rozkÅadÃ³wki Winter Wonderland...,And this layout for the Winter Wonderland spread.,And the layout of the Winter Wonderland booklet...,0.0
+139,"CzÅowieka o dobrym i spÃ³jnym charakterze, ktÃ³ry dostaÅ medal za odwagÄ w czasie Drugiej Wojny Åwiatowej.",A man of essential fineness and integrity of character. A man who was decorated for bravery in the World War.,A man of good and decent character who received a medal for bravery in World War II.,0.0
+140,"""No juÅ¼, napal w piecu,"" powiedziaÅ Big Jim.","""Well, build up the fire,"" said Big Jim.","""Come on, fire up the furnace,"" Big Jim said.",0.0
+141,"Dla mnie to nie to samo, dobrze?","It's not the same thing for me, okay?","It's not the same for me, okay?",0.5
+142,"Ale szybko, Susan jest jeszcze w ÅÃ³Å¼eczku.","I'll have to be quick, Susan's still in her cot.","But quick, Susan's still in the baby.",0.263
+143,"Pierre Leclerc do twoich usÅug, Sir.","Pierre Leclerc at your service, Sir.","Pierre Leclerc at your service, Sir.",1.0
+144,Hagen Tronje bÄdzie walczyÅ ze mnÄ na ÅmierÄ i Å¼ycie!,Hagen Tronje shall duel with me for his life!,Hagen Tronje will fight me to the death!,0.0
+145,"Dlaczego mamy pozwoliÄ Gladys ograbiÄ nas z naszego szczÄÅcia, Paula?","Why should we let Gladys rob us of happiness, Paula?","Why should we let Gladys rob us of our happiness, Paula?",0.752
+146,"Czy chcesz przez to powiedzieÄ, Å¼e musisz mordowaÄ?",So you mean to say you have to kill?,Are you saying you have to murder?,0.0
+147,Z twoim umysÅem i mojÄ siÅÄ moÅ¼emy dokonaÄ wszystkiego.,"With your brain and my strength, there is nothing we cannot do.","With your mind and my strength, we can do anything.",0.0
+148,- Niech pan tak nie mÃ³wi.,- You ought not say that.,- Don't say that.,0.0
+149,"John FuIton opisuje, w jaki sposÃ³b pokazano ÅIady stÃ³p na Åniegu.",John FuIton described how the footprints in the snow coming up were done.,John FuIton describes how the footprints on the snow were shown.,0.0
+150,W oczach ogÃ³Åu reprezentujÄ pewne zasady.,"I stand for certain things in the public eye, certain principles.","In the eyes of the public, they represent certain principles.",0.0
+151,"Chyba Å¼e znajdÄ z tego wyjÅcie i to zrobiÄ, obiecujÄ ci.","Unless I can find a way out of this... And I will, I promise you.","Unless they find a way out of this and do it, I promise you.",0.504
+152,"DajÄ ci ostatniÄ szansÄ, rozbierz tÄ ÅÃ³dÅº.",I want to give you one it finishes opportunity It dismantles this ship,"They're giving you one last chance, take it apart.",0.0
+153,"ZrÃ³b coÅ najlepszego, i przynieÅ coÅ do picia.","Do your best, and bring something to drink at once.","Get your best, and bring something to drink.",0.639
+154,- Dasz radÄ zrobiÄ z tym coÅ wiÄcej?,Until the bottom. - ¿No lo has vuelto a pensar?,- Can you do anything else with it?,0.0
+155,Na to jest juÅ¼ za pÃ³Åºno.,Takuan-sama! Please spare me! It's already too late for that.,It is too late for that.,0.263
+156,Przez ciebie o maÅo nie wysÅuchaÅem opery.,"On account of you, I nearly heard the opera.",You almost made me listen to opera.,0.0
+157,"Dobranoc, sÅodki ksiÄÅ¼Ä, i niech anioÅy ÅpiewajÄ ci do snu.","- Good - night, sweet prince, and may flights of angels sing thee to thy rest.","Good night, sweet prince, and may the angels sing you to sleep.",0.405
+158,"a ty zmarnowaÅeÅ naszÄ ostatniÄ szansÄ!""","and you've thrown away our last chance !""","and you ruined our last chance!""",0.0
+159,Wszystko mi jedno co ze mnÄ zrobicie.,I don't care what you do to me. It doesn't matter.,I don't care what you do with me.,0.48
+160,"Stara siÄ rozwaliÄ wszystko. A ostatniej nocy ona spaÅa w sypialni sama, a on spaÅ na strychu!","tryin' to bust it up An' last night, she slept in the bedroom alone 'an he slept in the loft!","She's trying to wreck everything. And last night she slept in the bedroom alone, and he slept in the attic!",0.481
+161,"""GÅÃ³wne ryzyka operacji to atak serca, udar, infekcja, masywne krwawienie...""","""Major risks of surgery include heart attack, stroke, infection, major bleeding...""","""The major risks of surgery are heart attack, stroke, infection, massive bleeding...""",0.441
+162,"- UstaliÅ pan, kto zatruÅ jedzenie Pistacji?",Have you determined - who poisoned Pistachio's food?,- Did you find out who poisoned Pistachio's food?,0.377
+163,"Oh. Kaney, ta zabawa jest niemÄdra.","Kaney, that is a silly game.","Oh. Kaney, this is fun.",0.0
+164,"Im dÅuÅ¼ej czekajÄ, tym bardziej im siÄ podoba.","The longer they wait, the better they like it.","The longer they wait, the more they like it.",0.597
+165,"Gdy go zamknÄ, jedyna pozostaÅa na Ziemi spÃ³Åka produkujÄca Metal Gear'y Nie bÄdzie mieÄ nikogo, kto mÃ³gÅby jÄ kryÄ.","Once he's nailed, the only company left on Earth producing Metal Gears will have no one to hide behind.","When it closes, the only remaining Metal Gear company on Earth will have no one to cover it.",0.255
+166,Masz na myÅli tÄ bÃ³jkÄ z sÄsiadem w zwiÄzku z halkÄ?,- You mean the one... - where he fit his neighbour into a draw over a petticoat'?,You mean the one with the seat in connection with the petticoat?,0.174
+167,Lepiej niech pani zrobi to co radzi pani ojciec.,You had better do as your father advises.,You'd better do as your father advises.,0.68
+168,"Ty rÃ³wnieÅ¼ w to wierzysz, prawda?","You believe that yourself as well, don't you?","You believe that too, don't you?",0.0
+169,"Posypanego cukrem pudrem, z pysznÄ, duÅ¼Ä czereÅniÄ na gÃ³rze?","Sprinkled with powdered sugar, with a nice big maraschino cherry on the top of it?","Sprinkled with powdered sugar, with a delicious big cherry on top?",0.385
+170,Pierwsze przypadki pojawiÅy siÄ w lecie.,The first cases appeared in early summer.,The first cases appeared in the summer.,0.643
+171,"My go nie lubimy, i to bardzo.",We don't like him very much.,"We don't like him, and we like him a lot.",0.261
+172,Ich grzechy sÄ pomiÄdzy nimi a Bogiem.,Their sins are between them and God.,Their sins are between them and Allah.,0.809
+173,Przy takiej prÄdkoÅci juÅ¼ by to do nas dotarÅo.,At that speed it would have reached us by now.,"At this speed, it would have reached us by now.",0.783
+174,"OszalaÅeÅ, czÅowieku? ! Å»eby rzucaÄ na ulicÄ skÃ³rki!","Are you crazy, throwing orange peels on the ground?","Are you crazy, man? ! To throw skips on the street!",0.0
+175,"Strzelano do niej cztery razy, upadÅa na twarz... i nie mogÅa krzyczeÄ, bo byÅa martwa.","She was shot four times, fell on her face... she couldn't have screamed, because she was killed instantly.","She was shot four times, fell on her face... and she couldn't scream because she was dead.",0.563
+176,"Po prostu... MuszÄ zaczaÄ myÅleÄ, jak to bÄdzie bez ciebie.",Now I have to start thinking of what it's gonna be like without you.,I just... I have to start thinking about what it's going to be like without you.,0.42
+177,"Ja teÅ¼, Helen, nie tylko dla siebie, dla ciebie teÅ¼.","So do I, Helen, not only for my sake, but for your own.","Me too, Helen, not just for myself, for you too.",0.0
+178,"Nie widzicie, co diabeÅ ze mnÄ czyni?""","Can't you see what the Devil forces me to do?""","Don't you see what the devil is doing to me?""",0.427
+179,"No dobra, wiÄc nadal moje sÅowo przeciwko jej",All right then. It's still my word against hers.,"All right, so still my word against hers",0.513
+180,"Wtedy nie wiedziaÅam, jak wykorzysta swojÄ wolnoÅÄ.",That was before I knew how he would use his freedom.,"At the time, I didn't know how he would use his freedom.",0.438
+181,"Richard-Walther DarrÃ©, Minister d/s Rolnictwa, Szef Biura d/s Rasy i PrzesiedleÅ.","Richard-Walther Darré, Reich Agricultural Leader, Head of Central Office of Race Resettlement","Richard-Walther DarrÃ©, Minister for Agriculture, Head of the Breed and Resettlement Office.",0.0
+182,"Ale jeÅli siÄ czegoÅ tu nauczyÅam, to tego, Å¼e nie naleÅ¼y siÄ poddawaÄ.","But if there's one thing I've learned, you can never give up.","But if I've learned anything here, it's not to give up.",0.0
+183,"ZwÅaszcza, Å¼e ostatnio posÅaÅem jednego glinÄ na trzy tygodnie do szpitala.",I put the police captain in a hospital for three weeks over an argument.,Especially since I recently sent a cop to the hospital for three weeks.,0.204
+184,Mam ci go zapakowaÄ w celofan?,"Sure, do you want me to wrap him up in cellophane?",You want me to wrap it in cellophane?,0.404
+185,"Po co mieliby to robiÄ, gdy sÄ juÅ¼ w poÅowie drogi do St.",- Why should they do that... when they're halfway through St Quentin already?,Why would they do that when they're already halfway to St. Louis?,0.367
+186,Podczas Sabatu czarownicy i wiedÅºmy najpierw bezczeÅcili ÅwiÄty krzyÅ¼ KoÅcioÅa.,At the Sabbath witches and sorcerers first desecrate the Church's holy cross.,"During the Sabbath, the sorcerers and witches first desecrated the Holy Cross of the Church.",0.0
+187,"Nie chcÄ sÅyszeÄ Å¼adnych wyjaÅnieÅ, nawet prawdy.","I will not listen to any excuses, not even the truth.","They don't want to hear any explanations, not even the truth.",0.26
+188,"Wie pan, Å¼e nie mogÄ wejÅÄ.",You know that I cannot go.,You know they can't come in.,0.0
+189,To idealne miejsce by usiÄÅÄ i napiÄ siÄ piwa.,It's a perfect place to have a beer.,It's the perfect place to sit down and have a beer.,0.0
+190,ChroÅ nasze serca... od niepokoju... i zamÄtÃ³w tego Åwiata...,Continually turn our hearts.. from wickedness.. and from worldly things..,Protect our hearts... ...from the restlessness... ...and the turmoil of this world...,0.0
+191,Dlatego zaczynam od nowa z nowym krÃ³lestwem w tym miejscu...,That's why I'm starting fresh with a new kingdom out here...,That's why I'm starting over with a new kingdom in this place...,0.428
+192,"WstaÅem wczeÅnie i jak tylko otworzyÅem dzwi, prawie wpadÅem na dzidÄ, ktÃ³ra tkwiÅa w ziemi.","I get up early, and as soon as I open the door, I practically ran into this spear that's stuck in the ground.","I got up early and as soon as I opened the door, I almost bumped into a spear that was stuck in the ground.",0.415
+193,Te dziewiÄÄ dzielnych postaci walczyÅo za ludzkoÅÄ i za sprawiedliwoÅÄ wbrew wszelkim przeciwnoÅciom i za wszelkÄ cenÄ. Tego nigdy nie zapomnÄ.,"Seeing these nine brave souls who fought for humanity, upholding justice, facing impossible odds, yet pushing forward, is something that I will never forget.",These nine brave men fought for humanity and for justice against all odds and at all costs. That will never be forgotten.,0.0
+194,Co siÄ staÅo z tym facetem z Wichita?,Go on. What happened to the fella in Wichita?,What happened to that guy from Wichita?,0.0
+195,"""BÄdÄ ci sÅuÅ¼yÄ, ja i wszystkie inne dÅ¼iny lampy!""","""I am your servant. I and all the spirits of the lamp!""","""I will serve thee, I and all the other lampstands!""",0.224
+196,"MyÅlisz, Å¼e cieszÄ siÄ, Å¼e zgnijesz w pudle.",You'd think I'd be happy you're gonna spend the rest of your life in prison.,You think they're glad you're gonna rot in jail.,0.0
+197,"Jak to usÅyszaÅeÅ, z tego co...",How did you get that from what I was...,"As I heard it, from what...",0.0
+198,Nie zakÅada siÄ takiego stroju na kolacjÄ w ciÄgu tygodnia.,You can't wear ice blue Lurex to a week night supper date.,You don't wear that to dinner during the week.,0.0
+199,"My, szlachta, jesteÅmy skÅonni poprzeÄ naszego szlachetnego dowÃ³dcÄ KsiÄcia Karola... jak jeden mÄÅ¼!",We of the nobility are willing to back our noble commander Prince Charles... to the last man!,We nobles are willing to support our noble commander Prince Charles... as one!,0.295
+200,"PrzedstawiÅam mu powody, dla ktÃ³rych nie mogÄ przyjÄÄ tej propozycji.",I have given him the reasons why I cannot accept this offer.,I told him why I couldn't accept the offer.,0.0
+201,Wasz czÅowiek w odwecie powiedziaÅ WydziaÅowi Akcji Specjalnych Å¼e macie ujawniÄ ich operacje.,Your man here retaliated by telling the Special Activities Division you were about to blow their op wide open.,Your man retaliated by telling Special Ops to expose their operations.,0.0
+202,"ChcÄ wiedzieÄ, co on zrobi z moimi pieniÄdzmi?","YOU'VE NEVER ONCE SHOWN ANY CONCERN FOR ME- - WHY SUDDENLY NOW?"" ""WHAT DO I WANT HERE?",Do you want to know what he'll do with my money?,0.0
+203,PrzyszedÅem tu w okreÅlonym celu... i postanowiÅem zachowaÄ siÄ delikatnie.,"- I came here to do a certain job... and I figured I'd better start usin' a little horse sense, you know?",I came here for a purpose... and I've decided to be gentle.,0.0
+204,UczyniÄ z niej niebiaÅskÄ boginiÄ mojej planety.,I will make her celestial goddess of my planet.,I will make her the heavenly goddess of my planet.,0.534
+205,"PrÃ³bowaÅem z caÅej mocy to zmieniÄ, ale nie mogÄ... I nadal odmawiam paciorek rano... i przed snem.","""I've tried my best to get over it -- but I can't -- and I still kneel down and say my prayers every morning -- before I go to bed.""","I tried my best to change it, but I can't... And I still say a bead in the morning... and before bed.",0.336
+206,"Istnieje tylko jedna rzecz, ktÃ³ra mogÅaby mnie zatrzymaÄ.",There's only one thing that'll stop me.,There's only one thing that could stop me.,0.424
+207,"JesteÅ jednym z goÅci, ktÃ³rzy mnie napadli.",You're one of the guys that took me for a ride.,You're one of the guys who attacked me.,0.367
+208,"Åatwo jest graÄ mÄczennicÄ i zniszczyÄ nowe Å¼ycie, ktÃ³re prÃ³bujÄ zbudowaÄ w miejsce starego, ktÃ³re zniszczyÅaÅ.",It's easy to play the martyr and destroy the new life I'm trying to build for us as you destroyed the old. And I shall not permit it.,It is easy for him to play the martyr and destroy the new life he is trying to build to replace the old one he destroyed.,0.373
+209,WolaÅabym obracaÄ kierat w przytuÅku albo drzeÄ pakuÅy... niÅ¼ spÄdziÄ przy tym zajÄciu jeszcze choÄ godzinÄ.,I would sooner pound the treadmill in the workhouse or pick oakum... .. than spend another hour engaged in labour such as this.,I'd rather spin a wheel in a shack or blow a pack... ...than spend another hour doing it.,0.12
+210,- TrzydzieÅci dolcÃ³w za twoje spodnie.,Thirty bucks against your pants. My pants?,- Thirty bucks for your pants.,0.0
+211,A od tego czasu stoi pusta i nikt o niÄ nie dba.,"Since then, the building's stood empty, and no one gives a damn about it.",And since then it has stood empty and no one has cared for it.,0.316
+212,"""Czy w koÅcu powiesz mi, ty maÅy urwisie, jak siÄ tutaj znalazÅeÅ?""","""Will you finally tell me, you little rascal, ""how did you land up here ?""","""Will you finally tell me, you little rascal, how did you get here?""",0.774
+213,- To niemoÅ¼liwe. Nie pozwalam na wyrÃ³Å¼nienie kogokolwiek z zaÅogi.,-I can have no favorites aboard my ship.,- That's impossible. I'm not letting anyone out of the habit.,0.0
+214,"To naprawdÄ dobry kapelusz, wie pan.","It's such a cursed good hat, you know.","It's a really good hat, you know.",0.383
+215,"...uczciwego traktowania przez dyrekcjÄ... oraz podwyÅ¼ki pÅac o 30%.""","""DlS-PER-SE !"" ""Comrades, help!"" ""To the forge, comrades, to the sledge hammers.""","...fair treatment by management... ...and a 30% pay rise.""",0.0
+216,Policjanci by mi nie uwierzyli podobnie jak pan.,Because they wouldn't believe me any more than you did.,The cops wouldn't believe me and neither would you.,0.0
+217,Z wyrazami szacunku od Jego WysokoÅci krÃ³la Jerzego III z Wielkiej Brytanii.,With the compliments of His Majesty King George III of Great Britain.,Compliments of His Majesty King George III of Great Britain.,0.807
+218,"Ja mogÄ pomÃ³c twojej mamie, lub twÃ³j wujek.","well,I can help your mom,or your uncle can help,","I can help your mom, or your uncle.",0.0
+219,Stary Harlan chce zarÄczyÄ swojÄ cÃ³rkÄ VeronikÄ z bogatym Wiedenbergiem. MÃ³wisz prawdÄ? NaprawdÄ Veronika Harlan ma siÄ zarÄczyÄ?,"""HAVE YOU HEARD, THE OLD HARLAN WANTS TO HAVE HIS DAUGHTER VERONIKA ENGAGED TO THE RICH WIEDENBERG!""",Old Harlan wants to marry his daughter Veronica to rich Wiedenberg. Are you telling the truth? Veronika Harlan is really getting engaged?,0.163
+220,"W porzÄdku, powiedz mojej publicznoÅci Å¼e Carl Denham, bystry chÅopak, ktÃ³ry miaÅ zarobiÄ miliony dolarÃ³w na King Kongu, jest caÅkowicie spÅukany.","All right, tell my public that Carl Denham, the bright boy... who was going to make a million dollars out of King Kong, is flat broke.","All right, tell my audience that Carl Denham, the smart kid who was supposed to make millions of dollars on King Kong, is totally screwed.",0.262
+221,"Nie omieszkam nadmieniÄ o tym zajÅciu Jego WysokoÅci, jak tylko przybÄdÄ do Ueno.",I'll report to Royal Highness in Ueno as soon as I return.,I won't fail to tell His Highness of this incident as soon as I arrive in Ueno.,0.179
+222,"Masz problem, Å¼e ktoÅ trochÄ zarobi?",What you never understood in the congress...,Do you have a problem with someone making a little money?,0.0
+223,"""Synu Niebios, miej litoÅÄ nad nÄdznÄ kreaturÄ, ktÃ³ra caÅuje proch pod twymi stopami!","""Son of Heaven, have mercy of the lurid toad who kisses the dust under your feet!","""O Son of Heaven, have mercy on the wretched creature that caresses the dust beneath your feet!",0.283
+224,"MyÅlicie, Å¼e to moja wina, bo zadzwoniÅem do tego czÅowieka od VATu.",You think it's my fault because I phoned the VAT man.,You think it's my fault because I called the VAT guy.,0.632
+225,"Musze ci powiedzieÄ, Å¼e nigdy nie widziaÅem grupy facetÃ³w poruszajÄcych siÄ tak szybko.","I gotta tell you, I never seen a group of guys move so quick.","I gotta tell you, I've never seen a group of guys move so fast.",0.7
+226,"JeÅli cenicie Å¼ycie swej pani, wzywam was abyÅcie nie robili nic i nie mÃ³wili nic o tym wydarzeniu.","I charge you, as you value your mistress' life, to do nothing and say nothing of this episode.","If you value your lady's life, I urge you to do nothing and say nothing about this event.",0.369
+227,"ListÄ rozpoczyna scenariusz Garretta Forta, ktÃ³ry pracowaÅ przy filmach Dracula i Frankenstein z Robertem FIorey'em, krytykowanym jako reÅ¼yser Niewidzialnego czÅowieka.","Garrett Fort, who had worked on the scripts for both Dracula and Frankenstein, started the parade with a screenplay dated april 9, 1932. He worked with Robert FIorey, who at that time was slated to direct The Invisible Man.","The list begins with a script by Garrett Fort, who worked on Dracula and Frankenstein with Robert FIorey, who was criticized as the director of The Invisible Man.",0.154
+228,"WyszliÅmy na kolacjÄ,_BAR_ bylismy w paru miejscach, taÅczyliÅmmy.","Oh, we went out to dinner, and we went to different places and danced and-","We went out for dinner, we went to a few places, we tailed it.",0.0
+229,"PowiedziaÅam, Å¼eby poszedÅ, ale nie chciaÅ, pÃ³ki nie speÅniÄ Å¼yczenia.","I told him to go away, but he wouldn't until I granted him a wish.","I told him to go, but he didn't want to, because he couldn't make a wish.",0.295
+230,Ale ona nie ma Å¼adnej rodziny czy krewnych.,"But she doesn't have a family, and it's not like she had relatives...",But she doesn't have any family or relatives.,0.214
+231,"Ale on wyglÄdaÅ na porzÄdnego mÅodego czÅowieka, kochanie.","But he looked like a nice, upright young fellow, Ma.","But he seems like a fine young man, darling.",0.0
+232,"Biegnij i powiedz pannie mÅodej, Å¼e wszystko jest gotowe. I jej ukochany juÅ¼ czeka.",Run over and tell the bride that all is in readyness.. and her lover is waiting.,Run and tell the bride that everything is ready. And her beloved is waiting.,0.309
+233,"Przepraszam za spÃ³Åºnienie, ale musieliÅmy wywaÅ¼yÄ drzwi.","Sorry we were late, but we had to break down the door.","Sorry for the delay, but we had to break down the door.",0.632
+234,- MoÅ¼e pan do mnie mÃ³wiÄ Anabella.,- You may call me Annabella.,- You can call me Anabella.,0.0
+235,"Wiem, Å¼e bÄdzie Wam wygodnie, miaÅem zawsze dobre opinie o nim.","I know you will be comfortable, I've always had good reports on this room.","I know you'll be comfortable, I've always had good feedback about him.",0.393
+236,Pod dachami ParyÅ¼a Nini raduje siÄ wielce biegnÄc tam gdzie jej serce.,Under the roofs of Paree What a joy for Nini To run into her old sweetie,"Under the rooftops of Paris, Nini rejoices greatly, running to where her heart is.",0.0
+237,IlekroÄ zaczyna te swoje pojÄkiwania dostajÄ gorÄczki!,I always get a fever whenever she starts singing!,"Whenever he starts talking, I get hot!",0.0
+238,To taki szczÄÅliwy okres w twoim Å¼yciu.,"Oh, it's such a happy time of your life.",This is such a happy time in your life.,0.355
+239,A potem juÅ¼ niczego nie pamiÄtam.,Then I don't remember a thing.,And then I don't remember anything.,0.508
+240,"mam przed sobÄ trudne zadanie: A teraz, z nieskrywanÄ przyjemnoÅciÄ przedstawiÄ czÅowieka, ktÃ³ry odpowiedzialny bÄdzie za przyszÅoÅÄ tej instytucji:","And so, in retiring as president of this college, it is indeed a painful task to bid you all good-bye.","I have a difficult task before me: And now, it gives me great pleasure to introduce the man who will be responsible for the future of this institution:",0.0
+241,A myÅli pan Å¼e po co tu jestem?,"Well, what do you suppose I'm here for?",Why do you think I'm here?,0.0
+242,Nie jestem dla ciebie wystarczajÄco dobry!,I'm not good enough for you!,I'm not good enough for you!,1.0
+243,PisaÅam recenzjÄ twoich szkicÃ³w dla gazetki studenckiej.,I actually - I reviewed your collection of essays for my college newspaper.,I'm writing a review of your sketches for the student newspaper.,0.0
+244,"Nie chciaÅam sÅyszeÄ, jak ktoÅ uprawia seks.",I Didn't Mean To Hear Anybody Having Sex.,I didn't want to hear anyone having sex.,0.0
+245,To juÅ¼ jest przegiÄcie wiesz o co mi chodzi?,"Now you're just being rude, you know what I mean? You're not listening, man.","That's a bit excessive, you know what I mean?",0.266
+246,- Czy wyobraÅ¼a sobie pani mieszkaÄ tu bez przymusu? - To kwestia gustu. - Nie.,"Well, there's no accounting for tastes, you know.",- Can you imagine living here without being forced? - It's a matter of taste. - No.,0.0
+247,"- Mamy naszÄ pierwszÄ podejrzanÄ, Jackson.","- We have our first suspect, Jackson.","- We have our first suspect, Jackson.",1.0
+248,"Nazywamy tÄ kartÄ ""cztery w jednej"".",We call that our four-in-one card.,We call it a four-in-one card.,0.0
+249,A jeÅli coÅ siÄ bÄdzie dziaÅo w firmie?,Thanks and goodbye. What'll I do if something comes up?,What if something happens at the company?,0.0
+250,"Mamy swoje, ale nie bÄdziemy ich sobie ÅamaÄ.","We had to drown the gat, but we saved you a little black gitten.","We have ours, but we won't break them.",0.0
+251,CostiIIo byÅ ostatnim ze starych przywÃ³dcÃ³w mafii.,Costillo was the last of the old-fashioned gang leaders.,CostiIIo was the last of the old mafia bosses.,0.446
+252,MiaÅem tam iÅÄ sam z kieszeniÄ peÅnÄ zioÅa.,"Look, I'm gonna go by myself, man.",I had to go there alone with a pocket full of herbs.,0.0
+253,"""Nie musisz siÄ martwiÄ o swoje kochanie.","""You needn't worry about your sweetie.","""You don't have to worry about your darling.",0.0
+254,"MyÅli, Å¼e jest niepokonany, bo tym razem siÄ udaÅo.",Just cause he lives now he thinks he's invincible.,He thinks he's invincible because he did it this time.,0.282
+255,w ktÃ³rym chciaÅby mieÄ juÅ¼ wnuki.,He's at an age where he likes to see grandchildren and all.,where he would like to have grandchildren.,0.0
+256,"ZarezerwowaliÅmy bilety na rejs przy zachodzie sÅoÅca, z winem.",We actually booked tickets for the sunset wine cruise.,"We booked tickets for a sunset cruise, with wine.",0.0
+257,"Å»al mi go, a tobie nie?","I feel rather sorry for him, don't you?",I got it and you didn't?,0.0
+258,Ten rytm przyprawia mnie o zawrÃ³t gÅowy,That beat gives me a wicked sensation,This rhythm makes me dizzy,0.0
+259,"MiaÅem ci powiedzieÄ, Å¼e jeÅli twe imiÄ bÄdzie kojarzone z pewnÄ damÄ, bÄdzie zmuszony prosiÄ ciÄ o rezygnacjÄ z regimentu.",He wanted me to tell you that if your name continues to be linked with a certain lady he will be forced to ask you to resign from the regiment.,"I was going to tell you that if your name is associated with a certain lady, I will be forced to ask you to resign from the regiment.",0.603
+260,"Doktorze Waldman, pan ma wpÅyw na Henry'ego.","Dr Waldman, you have influence with Henry.","Dr. Waldman, you're influencing Henry.",0.0
+261,On nosiÅ koszulÄ z metkÄ Marksa i Spencera.,"He was wearing a shirt, with a Marks and Spencer's label on.",He wears a shirt with a Marx and Spencer label.,0.244
+262,"No dobrze, ale powiedz mi, powiedz, co zrobiÅeÅ?","Well, tell me, uh, what- what did you do?","Okay, but tell me, tell me, what did I do?",0.0
+263,"W ogÃ³le przejmujesz siÄ tym, co mi zrobiÅeÅ?",On what? Do you care at all what you've done to me...,Do you even care what he did to me?,0.0
+264,Panie i panowie... za paÅstwa Åaskawym przyzwoleniem...,Ladies and gentlemen.. with your kind attention and permission..,Ladies and gentlemen... with your gracious permission...,0.467
+265,"KsiÄÅ¼Ä Persji, ktÃ³rego ojcowie walczyli pod Feyjoo 500 lat temu.",The Prince of Persia whose fathers fought at Feyjoo five hundred years ago.,"Prince of Persia, whose fathers fought at Feyjoo 500 years ago.",0.612
+266,"MuszÄ powiedzieÄ, Å¼e jestem naprawdÄ zszokowany.","I've got to say I'm really Shocked. Natalia, you shocked me more","I have to say, I'm really shocked.",0.317
+267,Jeden ze sÅuÅ¼Äcych generaÅa Carewa przyniÃ³sÅ to dziÅ.,"One of General Carew's servants brought this, sir.",One of General Carew's servants brought this on today.,0.742
+268,"To jedyny sposÃ³b, aby dowiedzieÄ siÄ co tu siÄ dzieje.",It's the only way to find out what's going on here.,It's the only way to find out what's going on here.,1.0
+269,ZbIiÅ¼a siÄ jedno z wybitnych i skomplikowanych ujÄÄ w filmie z uÅ¼yciem techniki nakÅadania obrazÃ³w.,Coming up very soon is one of the most ingenious but complicated traveIIing-matte shots in the film.,This is one of the most outstanding and complex uses of the overlay technique in film.,0.241
+270,PÃ³Å¼niej Rains zastÄpowaÅ Diggesa na scenie w dwÃ³ch sztukach.,"Later, Rains relieved Digges the actor in two plays with extended runs and tours.","Later, Rains replaced Digges on stage in two plays.",0.0
+271,"Nie wydaje mi siÄ, abyÅ robiÅ postÄpy z paniÄ Teasdale?","You don't seem to be making much progress with Mrs. Teasdale, huh?",I don't think I've made any progress with Mrs Teasdale?,0.224
+272,"- Super, ale pamiÄtaj o obietnicy,","Hey, that's all good and all, but you made a promise with God, though, you remember that, right?","- Great, but remember your promise,",0.0
+273,"PojadÄ w gÃ³ry! WÅaÅnie to powiedziaÅam, Å¼e nie pojedziesz w gÃ³ry, pojedziesz na konw...","That's just what I said: that you're not going to the mountains, that you're going to the...","You're going to the mountains! That's what I said, you're not going to the mountains, you're going to the convention...",0.429
+274,"Ale zwaÅ¼ajÄc na to, Å¼e byÅeÅ z ta nauczycielkÄ paniÄ Coombs... KtÃ³ra byÅa dziewczynÄ Lucas'a tak dÅugo.","I know, just on account of you being with that school teacher, Miss Coombs... and her being Lucas' girl for so long.",But given that he was with that teacher Mrs Coombs... Who was Lucas' girlfriend for so long.,0.0
+275,"JeÅli zobaczysz Rico, daj nam znaÄ.","Well, listen, Ma. If you see Rico, you'd better let us know, quick.","If you see Rico, let us know.",0.28
+276,"Ja pÃ³jdÄ, z 006 i 007.","I'll go, with 006 and 007.",I'll go with 006 and 007.,1.0
+277,Z pewnoÅciÄ rÃ³Å¼ni siÄ od innych mÄÅ¼czyzn... jakich siÄ spotyka w tych okolicach.,Certainly different from the rest of the men you meet out in this country.,He's certainly different from other men... you meet around these parts.,0.0
+278,"ChciaÅbym, ale pamiÄtacie spiÄcie z Vicem kilka lat temu.","- the Compton cable hookup king, man. - Look, I'd love to, but you guys remember the whole situation between him and Vic that went down a couple years ago, right?","I would, but you remember sleeping with Vic a few years ago.",0.0
+279,W ostatnim dniu pobytu tutaj naplujÄ straÅ¼nikowi w japÄ.,"The last day of my year here, I'll spit it right in the warden's kisser.","On their last day here, they spit in the guard's face.",0.0
+280,KtÃ³Å¼ u licha daÅby 10 ryo za tak pospolity nÃ³Å¼?,Who on earth would pay ten ryos for such trivial small knife?,Who on earth would give 10 ryo for such a common knife?,0.262
+281,"Wtedy zobaczyÅam parÄ czerwonych oczu patrzÄcych na mnie... i biaÅa, sina twarz wyÅoniÅa siÄ z mgÅy.","And then I saw two red eyes staring at me, and a white livid face came down out of the mist.","Then I saw a pair of red eyes looking at me... and a white, blue face came out of the mist.",0.385
+282,"MÃ³wiÅam, Å¼ebyÅcie nie ÅpiewaÅy tej diabelnej wyliczanki!",I told you to stop singing that awful song!,I told you not to sing that diabolical rhyme!,0.0
+283,Sama niemal rzuciÅam mu siÄ w ramiona.,I practically threw myself at him.,I almost threw myself into his arms.,0.0
+284,"Kwestie, ktÃ³re poruszyÅ pan w swoim przemÃ³wieniu, sÄ bardzo interesujÄce.",And the things you said in your lecture were very interesting.,The points you raised in your speech are very interesting.,0.0
+285,003. Musisz mnie zabraÄ na zewnÄtrz.,"003, I need you to take me outside.",003. You have to take me outside.,0.383
+286,Nie musi nigdzie iÅÄ bez nas.,She doesn't need to go anywhere where we can't go too.,He doesn't have to go anywhere without us.,0.0
+287,Powiedz mi ile pokojÃ³wek ma puÅkownik?,Tell me. How many maids does the colonel keep?,"Tell me, how many maids does the Colonel have?",0.863
+288,MoÅ¼ecie teraz wraz ze swym porywczym przywÃ³dcÄ zakoÅczyÄ tu Å¼ycie!,[Pyunma groans] -[grunts] -[Emperor] Good. You can join your rash leader and throw all of your lives away.,Now you and your impetuous leader can end your lives here!,0.0
+289,"SzczotkowaÅyÅmy sobie wÅosy i gawÄdziÅyÅmy o ""Idolu.""",And then we brushed each other's hair and gabbed about American Idol.,"We brushed our hair and talked about ""Idol.""",0.0
+290,"Powiedz jej, Å¼e nie jest potrzebna.","Well, tell her I don't want a manicurist.",Tell her you don't need her.,0.0
+291,Wpakujcie go z powrotem do pudeÅka i wynoÅcie siÄ stÄd. /-,Put it back in the box and get out of here.,Put him back in the box and get out of here. /-,0.807
+292,Hrabia Dracula wÅaÅnie przejÄÅ opactwo Carfax.,Count Dracula's just taken Carfax Abbey.,Count Dracula has just taken over Carfax Abbey.,0.0
+293,"W Åredniowieczu wierzono, Å¼e podczas sabatu czarownic DiabeÅ zostawia kilka niewidzialnych znakÃ³w na ciele wiedÅºmy, gdzie zanika caÅa wraÅ¼liwoÅÄ.","In the Middle Ages it was believed that during the Sabbath the Devil put some invisible marks on the witch's body, where all sensitivity vanished.","In the Middle Ages it was believed that during the Witches' Sabbath the Devil left some invisible marks on the witch's body, where all sensitivity disappeared.",0.745
+294,Niech ten epizod bÄdzie tylko lukÄ... wymazanÄ z waszej pamiÄci.,Let this episode here be just a hiatus... to be obliterated from your memory.,Let this episode be just a gap... erased from your memory.,0.0
+295,/Oblicze w oknie /nie wyglÄdaÅo na ducha.,The face at the window had more substance than a ghost.,/The count in the window didn't look like a ghost.,0.0
+296,"ByÅem na tyle naiwny, Å¼e snuÅem plany.",I've even been sucker enough to make plans.,I was naive enough to make plans.,0.346
+297,"""Na miÅoÅÄ BoskÄ, proszÄ pani, ktoÅ tam musi podnieÅÄ sÅuchawkÄ.","""""After all, Miss, somebody should pick up the phone.","""For God's sake, ma'am, someone has to pick up the phone.",0.239
+298,Dostanie jÄ ktoÅ w wielkiej potrzebie.,It's going to somebody who desperately needs it.,It will be given to someone in great need.,0.0
+299,"Nie mogÄ pana puÅciÄ wolno, poniewaÅ¼... jestem wÅaÅnie w trakcie wywoÅ¼enia pewnej kluczowej informacji z kraju.",Making it doubly important that I shouldn't let you go is.. I'm about to convey some very vital information out of the country.,I can't let you go because... ...I'm in the process of taking some key information out of the country.,0.223
+300,Mam dla pani wiadomoÅÄ od Erika.,But I have a message for you from Erik.,I have a message for you from Erik.,0.863
+301,"KaÅ¼de zaroÅla, kaÅ¼dy krzak, kaÅ¼dy kawaÅek poszycia zostanÄ przeszukane.","Every piece of undergrowth is scoured, every thicket searched.","Every thicket, every bush, every patch of cover will be searched.",0.0
+302,CÃ³Å¼ takiego jest w tych gÅÄbinach?,"""What is down there that interests the workers?""",What's so great about these gibbons?,0.0
+303,"MiÄdzy mÃ³zgiem, ktÃ³ry wymyÅla plany, a dÅoÅmi, ktÃ³re budujÄ, musi zaistnieÄ poÅrednik.","""Between the brain that plans and the hands that build there must be a mediator.""",There must be a mediator between the brain which makes up the plans and the hands which build.,0.412
+304,Na pewno nie byÅa to krew zmarÅego.,This was not the blood of a dead man.,It certainly wasn't the dead man's blood.,0.0
+305,Wszystko na czym spoczywajÄ jest wyrobem robotnikÃ³w.,"""Flush out"" the ringleaders! ""You scum ! Your own people...""",Everything they rest on is the product of the workers.,0.0
+306,Nie wygaduj bzdur kiedy przyjdzie policja.,I hope you won't talk like that when the police get here.,Don't talk nonsense when the police come.,0.0
+307,"JeÅli ofiara zostanie pogrzebana Å¼ywcem, sprawca podlega karze za zabÃ³jstwo bez wzglÄdu na konsekwencje.","If the person has been buried alive, the act should be considered murder no matter what result follows.","If the victim is buried alive, the offender shall be punished for murder regardless of the consequences.",0.0
+308,"- Zmaga siÄ z bagaÅ¼ami. Hotel jest przepeÅniony, wiÄc dziÅ bÄdziecie spali w jednym pokoju.",The hotel's crowded and both of you will have to bunk together tonight.,"- He's struggling with the luggage. The hotel is overcrowded, so you'll sleep in one room today.",0.0
+309,"PoÅwiÄcam caÅy mÃ³j czas obowiÄzkom, a co dostajÄ?",I give all my time and energy to my duties and what do I get?,"I devote all my time to my duties, and what do I get?",0.583
+310,"Tak miÄdzy nami... wprowadzam ciÄ w mojÄ ustawÄ, bo wydajesz mi siÄ czÅowiekiem, ktÃ³ry wie jak dobrze zaczÄÄ. Tak, proszÄ pana.",I love you in that bill because you seem me the type class that he/she knows how to make the cossa.,"Between you and me... I'm introducing you to my act because you seem like a man who knows how to start well. Yes, sir.",0.0
+311,"To doprawdy godne politowania. Panno Patty Lowell. Jako spadkobierca, wypertraktujÄ oddalenie twoich praw do 18:00 jutro.","As a lawyer I must consider, that you gave up your inheritance and succession as of 6pm today, even if you were just a second late.","That's very pitying. Miss Patty Lowell. As heir, I'll have your rights dismissed by 6:00 p.m. tomorrow.",0.0
+312,"CzÄsto zastanawiam siÄ, co by siÄ staÅo z portierem, gdyby ktoÅ skoczyÅ stÄd na niego.",I've often wondered what would happen to that porter... if somebody jumped on him from here.,I often wonder what would happen to the doorman if someone jumped on him.,0.236
+313,"Zdaje siÄ, Å¼e wiÄkszoÅÄ wieczoru zajmuje mi zmienianie pani butÃ³w.","I seem to've spent most of the evening changing your shoes. You ought to be a nursery maid. Yes, except that the best nursery maids don't drink whiskey out of the bottle.",I seem to be changing your shoes most of the evening.,0.128
+314,"Wiem, nawet sobie nie wyobraÅ¼asz, jak mnie to cieszy.","I know, and I can't tell you what comfort that thought gives me.","I know, you can't even imagine how happy that makes me.",0.0
+315,Pierwszym priorytetem jest cel inwestycji. moÅ¼e woleÄ tam odpoczywaÄ niÅ¼ w willi w Angpyeong.,"Investment purpose is the first priority. When someone came back, she might prefer to rest there than Yangpyeong villa.",The first priority is the purpose of the investment. maybe you'd rather rest there than in a villa in Angpyeong.,0.0
+316,"Kapitanie, nie powtÃ³rzyÅ pan caÅej mojej rozmowy z Fletcherem Christianem.","Captain Bligh, you've not repeated my whole talk with Fletcher Christian.","Captain, you didn't repeat my entire conversation with Fletcher Christian.",0.0
+317,"Brzmisz, jakbyÅ siÄ z tego cieszyÅ.",You sound almost happy about that.,You sound happy about it.,0.0
+318,"AleÅ¼ staruszku, ona dla mnie nic nie znaczy.",My dear old boy! She's nothing to me at all!,"But, old man, she means nothing to me.",0.0
+319,"To tylko moja rekomendacja, jako lekarza.",That's just my recommendation as a doctor.,This is just my recommendation as a doctor.,0.701
+320,ObawiaÅam siÄ o paÅskie spotkanie z nowym liderem naszego kraju.,I'm anxious for you to meet the new leader of our country.,I was worried about your meeting with our country's new leader.,0.0
+321,- PomÃ³Å¼ mi odpokutowaÄ za me grzechy.,-Help me atone for my sins.,- Help me to repent of my sins.,0.0
+322,"Gdybym miaÅ takÄ celÄ, sam bym w niej spaÅ.","- Say, if I had a cell like that, I'd sleep in it myself.","If I had a cell like that, I'd sleep in it myself.",0.912
+323,"PoniewaÅ¼ oboje czujemy, Å¼e przyjazna rozmowa zaÅatwiÅaby wszystko pokojowo.",Because we both felt that a friendly conference would settle everything peacefully.,Because we both feel that a friendly conversation would solve everything peacefully.,0.0
+324,A jeÅli ktoÅ siÄ tam zaczaiÅ? Co wtedy?,"Who hit him,that's what I can't make out",What if someone's lurking there? What then?,0.0
+325,Nareszcie spotykamy siÄ twarzÄ w twarz.,"""At last we meet face to face.""",At last we meet face to face.,1.0
+326,"On stara siÄ o rÄkÄ Kriemhild, twojej siostry.","He seeks the hand of Kriemhild, your sister, in marriage.","He seeks the hand of Kriemhild, your sister.",0.76
+327,"WycieÅczeni, dotarli w koÅcu do chaty.","Exhausted and footweary, they arrived at the cabin.","Exhausted, they finally reached the cottage.",0.0
+328,"- MyÅlaÅam, Å¼e zostaÅyÅmy we dwie.",I thought Clara and I were the only ones.,- I thought it was just the two of us.,0.0
+329,"Otwieraj, przystojniaczku. Nikomu nic nie powiemy.","Listen, handsome, open up, or you'll tell nobody nothing no more.","Open up, handsome. We won't tell anyone.",0.0
+330,WidziaÅ pan co napisali w gazetach?,Did you read what it said in the papers?,Did you see what they wrote in the papers?,0.0
+331,"JednakÅ¼e, to siÄ zmieniÅo, od kiedy jest u nas brat mojego ojca, Hakim.","However, things have changed since my father's brother, Hakim is staying with us.","However, that has changed since my father's brother Hakim is with us.",0.534
+332,"MiaÅem nadziejÄ, Å¼e zobaczÄ twoje moce.",I was hoping to be able to see your powers.,I was hoping to see your powers.,0.508
+333,nie musisz mi pÅaciÄ za kawÄ.,"When you figure it out, I won't ask for money for coffee.",you don't have to pay for my coffee.,0.0
+334,Z najbliÅ¼szego miasta powinnaÅ zatelegrafowaÄ do ojca.,"The next town we come to, you better wire your father.",She should telegram her father from the nearest town.,0.0
+335,MiaÅem nadziejÄ na coÅ takiego przez caÅy rok.,I've been hoping for this for a year.,I've been hoping for something like this all year.,0.338
+336,"KochaÅeÅ jÄ, ale pozwoliÅeÅ ApostoÅowi zabraÄ jÄ i zabiÄ.",You loved her but you let the Apostle take her away and kill her.,"He loved her, but he let the Apostle take her and kill her.",0.437
+337,Charlie mi wiele o tobie opowiadaÅ.,Charlie's told me a lot about you.,Charlie's told me a lot about you.,1.0
+338,"Powiedz, jak to jest, kiedy przyspieszasz?","Tell me, when you accelerate, what does it look like to you?","Tell me, what's it like when you speed up?",0.0
+339,Nie chce pan chyba pieniÄdzy za niemowlÄ?,You don't charge for a baby in arms ?,"You don't want money for the baby, do you?",0.0
+340,"Organizujemy aukcjÄ w Cocoanut Manor, w tym okropnym... uroczym zakÄtku.","Look. In a little while we're gonna hold an auction sale at Cocoanut Manor, the suburb terrible... uh, beautiful.","We're holding the auction at Cocoanut Manor, this horrible... lovely place.",0.0
+341,"Czy nie widzi pani, Å¼e staram siÄ powiedzieÄ, Å¼e paniÄ kocham!",Can't you see what I'm trying to tell you?,Can't you see I'm trying to say I love you!,0.0
+342,"Co ma znaczyÄ ""tak do mnie mÃ³wisz""?","What do you mean, ""talking to me like that""?","What do you mean, ""you call me that""?",0.33
+343,Miliony daÅyby siÄ zabiÄ o tÄ posadÄ.,Miranda Priestly is a huge deal. I bet a million girls would kill for that job.,Millions would kill for this job.,0.0
+344,JakbyÅmy przenieÅli siÄ za granicÄ i nie dostali mapy.,It's like we've moved to a foreign country and nobody gave us a map.,It's like we moved across the border and didn't get a map.,0.0
+345,To plany staroÅ¼ytnych tuneli - gÅÄbszych niÅ¼ najniÅ¼sze gÅÄbiny miasta robotnikÃ³w.,"""These are the plans of the ancient catacombs -- far below the lowest levels of the workers' city.""",These are plans for ancient tunnels - deeper than the lowest depths of the workers' city.,0.205
+346,Charlie Rose wysÅaÅ go Mirandzie na urodziny.,Charlie Rose sent it to Miranda for her birthday.,Charlie Rose sent it to Miranda for her birthday.,1.0
+347,W Å¼yciu wolnoÅÄ jest wszystkim co siÄ liczy,In life liberty is all that counts,"In life, freedom is all that matters",0.0
+348,Ale nie widzÄ nigdzie wystarczajÄco dÅugiej dla naszego towarzysza Tjadena.,But I don't see any long enough for our comrade Tjaden.,But I don't see anywhere long enough for our comrade Tjaden.,0.702
+349,I byÄ moÅ¼e do zobaczenia szybciej niÅ¼ myÅlisz!,And maybe see you sooner than you think!,And maybe I'll see you sooner than you think!,0.675
+350,Lecz wrÄcz przeciwnie bÄdzie nas ÅÄczyÄ nigdy juÅ¼ w Niemczech nie bÄdzie przypadku Å¼e praca fizyczna bÄdzie uwaÅ¼ana za gorszÄ od kaÅ¼dej innej.,"But it will instead bind us together and, furthermore... no longer will it be the case in Germany... that physical labor will be seen as anything less... than any other work.","But on the contrary, we will never again have a case in Germany where manual labour is considered inferior to any other.",0.0
+351,"Wracam w lata 60, odzyskujÄ mojÄ moc... unieszkodliwiam ZÅego i wracam na herbatÄ.","I go back to the Sixties, recharge my mojo... defeat Dr Evil, and be back in time for tea.","I go back to the '60s, get my power back... disable the bad guy, and go back for tea.",0.238
+352,"Znasz powiedzenie. ""Wchodzi jak lew, wychodzi jak jagniÄ""?","You know the saying. ""In like a lion, out like a lamb""?","You know the saying. ""In like a lion, out like a lamb""?",1.0
+353,Kabina 58. Nie przekraczaj 30 km na godzinÄ.,"Suite 58, and don't go over 20 miles an hour.",Cab 58. Do not exceed 30 km per hour.,0.0
+354,WysyÅaÅem do niej e-mail raz na miesiÄc. wiÄc nie chciaÅem zerwaÄ tych wiÄzi z siostrzenicÄ.,"I emailed her every month to let her know what I was doing. I was pretty sure she was reading them, so I never severed ties with my niece.",I emailed her once a month so I didn't want to break up with my niece.,0.0
+355,- Chyba bÄdÄ tu przychodziÅ i ÄwiczyÅ czÄÅciej.,-Then I guess I should come here more often.,- I think I'm going to come here and practice more.,0.0
+356,"Chcemy bezpieczeÅstwa dla naszych siÃ³str, Å¼on i ukochanych.","We want safety for our sisters, our wives, and our sweethearts.","We want safety for our sisters, wives and loved ones.",0.519
+357,KrzesÅa i stoÅy oprzyjcie o okna!,"Chairs, tables, up against the windows!",Put the chairs and tables against the windows!,0.0
+358,Gdzie moÅ¼e byÄ ta elegancka wÅoska zastawa?,Where might the Italian china be?,Where could this elegant wax tableware be?,0.0
+359,"""CaÅy uniwersytet czeka, a ty wybraÅeÅ ten wÅasnie dzieÅ na swoje zawroty gÅowy !""","""With the whole college waiting, you pick out a day like this for dizzy spells !""","""The whole university is waiting, and you've chosen this day for your vertigo!""",0.0
+360,"MyÅlÄ, Å¼e brat waszej lordowskiej moÅci miaÅ na myÅli muzykÄ.",I think your lordship's brother was referring to the music.,I think your lordship's brother had music in mind.,0.411
+361,"- Tak jest, kapitanie. Kapelusz zaraz bÄdzie.",The hat will be here in one moment.,"- Yes, sir, Captain. The hat will be here soon.",0.456
+362,"MuszÄ zaczÄÄ robiÄ interesy, jak ty i Mark Turner.","""I've got to go into business like you and Mark Turner.""","I need to start doing business, like you and Mark Turner.",0.48
+363,"MogÄ to wziÄÄ, jestem juÅ¼ duÅ¼y.",I can't take it; I'm a big boy.,"I can take it, I'm big.",0.0
+364,"Nic takiego nie byÅo w Nowym Orleanie, prawda?","We never got anything like ""that"" in New Orleans.","There was nothing like that in New Orleans, right?",0.446
+365,Niebo zmieniÅo kolor i wyglÄdaÅo jak ogieÅ. Producenci programu nie byli w stanie tego zrobiÄ.,"The sky changing color and looking like fire-- the producers, the show can't do that.",The sky changed color and looked like fire. The producers of the show couldn't do it.,0.236
+366,"DziÄkujemy za to cudowne miejsce, w ktÃ³rym moÅ¼emy odpoczÄÄ, i w ktÃ³rym nasze zwierzÄta mogÄ siÄ najeÅÄ i napoiÄ.","Thank you for this beautiful place for us to rest, and for the animals to feed and drink.",Thank you for this wonderful place where we can rest and where our pets can eat and drink.,0.187
+367,Chyba nie wyjdziesz w tÄ zimnÄ i ciemnÄ noc?,"You're not going out in the cold, dark night, are you?","You're not going out on this cold, dark night, are you?",0.588
+368,"- RadzÄ ci byÄ bardzo ostroÅ¼nym, Laing.","- I advise you to be very careful, Laing.","- I advise you to be very careful, Laing.",1.0
+369,Podobno dla was ÅwiÄta siÄ zaczÄÅy pechowo.,- Good morning. I'm afraid this isn't a very merry Christmas for you.,I hear Christmas started badly for you.,0.0
+370,"PomiÄdzy bielÄ i czerniÄ, jest szaroÅÄ.",Between white and black there is gray... It's what lies there that's important.,"Between black and white, there's gray.",0.0
+371,"KaÅ¼dy lokator mieszkania, kaÅ¼dy wÅaÅciciel domu, kaÅ¼dy posiadacz parceli musi siÄ zgodziÄ na gruntowne, dokÅadne przeszukanie swojej posesji! AbyÅmy mogli znaleÅºÄ choÄby najdrobniejszy Ålad!","Every resident, every landlord, every property owner must be forced to consent to meticulous searches of his property for the slightest of clues.","Every occupant of an apartment, every homeowner, every plot of land must agree to a thorough, accurate search of their property! So that we can find even the smallest trace!",0.0
+372,"Czy zaglÄdam w Å¼ycie moich poddanych... i narzucam im, kogo bÄdÄ kochali?",Do I peer into the lives of my subjects... and dictate to them whom they shall love?,Do I look into the lives of my subjects... and dictate to them who they will love?,0.609
+373,OdprowadzÄ konia. Ty wejdÅº do Årodka odpoczÄÄ.,"I'll go tell them, so stay in the room and don't go anywhere.",Take the horse away. You go inside and rest.,0.0
+374,"Gdybym mÃ³gÅ je odpowiednio wykorzystaÄ, zarobiÅbym fortunÄ.",Had I been able to exploit it properly I could have made a fortune.,"If I could use them properly, I could make a fortune.",0.0
+375,- JesteÅ tak samo szczÄÅliwy jak ja?,"- Are you as happy as I am, Matt?",- Are you as happy as I am?,0.841
+376,-Co jest tak waÅ¼nego by wyciÄgnÄÄ...,- What the hell is so urgent that you had to...,-What's so important to pull out? -What's so important to pull out?,0.0
+377,"Jak twoje oczy, roztaÅczone, Åagodne, roziskrzone.","- Like your eyes. Dancing, gay, like bubbles.","Like your eyes, bright, gentle, sparkling.",0.0
+378,"SÅyszaÅam, jak dokuczaÅa ojcu, _BAR_aÅ¼ znienawidziÅ powrotÃ³w do domu.",I heard her nagging my father until he hated to come home.,"I heard her teasing my father, he hated coming home.",0.0
+379,"Chcesz mnie trochÄ zraniÄ... Ale czasami nie Åpisz po nocach... ZastanawiajÄc siÄ, jakby nam razem byÅo...",You want to hurt me a little bit... but sometimes you might just stay awake at night... thinking about what it might be like...,You want to hurt me a little... But sometimes you don't sleep at night... Wondering what it would be like for us together...,0.359
+380,"i wychowawca, ktÃ³rzy siÄ w sobie zakochali.",I used to tutor. We fell in love.,and a tutor who fell in love with each other.,0.0
+381,"GraÄ rolÄ dÅ¼entelmena, bez milionera, nie byÅo Åatwo, lecz uczyniÅ, co mÃ³gÅ.","""To play the part of a gentleman without the millionaire was difficult, but he did his best.""","Playing the role of a gentleman, without a millionaire, was not easy, but he did what he could.",0.223
+382,PamiÄtajcie o tym przy robieniu koktajli.,You should always have rhythm in your shaking.,Keep this in mind when making cocktails.,0.0
+383,"Nie, tak dÅugo, jak mam choÄ jeden grosz!","As long as I've a penny to my name, they will not be sold!","No, as long as I have one penny!",0.0
+384,"Konstantin Hierl, Reichsleiter i przywÃ³dca RAD.","Konstantin Hierl, Reichsleiter and Reichsarbeitsführer (Reich Labor Service Leader","Konstantin Hierl, Reichsleiter and leader of the RAD.",0.316
+385,"Tak, miaÅaÅ ciÄÅ¼ki dzieÅ, tylu goÅci i w ogÃ³le.","You know, you had a hard day, all those people here and everything.","Yeah, he had a busy day, so many guests and everything.",0.0
+386,"PomyÅl o tym, jak o prezencie od taty, ktÃ³ry powstawaÅ przez niemal 40 lat.",Think of it as a gift from Daddy almost 40 years in the making.,Think of it as a gift from your dad that's been almost 40 years in the making.,0.632
+387,- Czy nie ma juÅ¼ na tym Åwiecie uczciwych ludzi?,- ls there no honesty in this world?,- Are there no more honest people in this world?,0.0
+388,"""I gÅodne pokolenia nie zdepczÄ drzewa, na ktÃ³rym siedzisz...""","""No hungry generations tread thee down...""","""And hungry generations will not trample the tree on which you sit...""",0.0
+389,"Przyjemniej niÅ¼ w starej spedycji, prawda?","This is a lot nicer than the old shipping room, isn't it?","Nicer than the old shipping company, right?",0.317
+390,"Georgia usÅyszaÅa jak mÃ³wiÄ, o pasaÅ¼erze na gapÄ.",Georgia overheard the officer say there was a stowaway aboard.,Georgia heard him talking about a stowaway.,0.0
+391,Podwozi ludzi i ucieka z ich bagaÅ¼ami.,"Picks people up, runs off with their things.",He picks people up and runs off with their luggage.,0.389
+392,Chwila. Z czego jedenastu poza zasiÄgiem tego helikoptera.,"Of those, 11 are outside of the fuel range of this chopper.",Wait a minute. Eleven of them out of range of this helicopter.,0.0
+393,"Na mojÄ gÅowÄ, krÃ³lowo - ktokolwiek oÅmieli siÄ zniewaÅ¼yÄ ciÄ, zginie po stokroÄ!","By my head, o queen - whoever dares to offend you, shall die a hundred deaths!","For my sake, my king, whoever dares to insult you will die a hundredfold!",0.0
+394,"MyÅlisz, Å¼e bÄdÄ siÄ przyglÄdaÅ jak okrada mojÄ matkÄ.",- You think I'm gonna stand by and see him rob my mother?,You think they're going to watch him steal from my mother.,0.0
+395,"Nasze Å¼ony myÅlÄ, Å¼e jesteÅmy w Honolulu na leczeniu.","Our wives think that we're in Honolulu for my health. You're pulling a fast one, huh? Oh,boy!",Our parents think we're in Honolulu for treatment.,0.158
+396,"Pokornie proszÄ, mÃ³gÅbym u was dziÅ przenocowaÄ?","Excuse me, take me in tonight, please?","I humbly beg you, could I stay the night tonight?",0.0
+397,Was trzech niech siÄ bije o pozostaÅe.,You three fight for what's left.,Let the three of you fight over the others.,0.0
+398,1 nowa wiadomoÅÄ mail od kim Mi-jung.,1 new message A reserved mail from kim Mi-jung.,1 new message from kim mi-jung.,0.0
+399,To zostaÅo zrobione na wejÅciu serwisowym do klubu nocnego zwanego PaÅacem.,This was taken at the service entrance of a nightclub called the Palace.,This was taken at the service entrance to a nightclub called PaÅac.,0.578
+400,"PokonaÅeÅ doktora zÅego, ocaliÅeÅ Åwiat... i wierz mi...","You defeated Dr Evil, you saved the world... and believe me, you're gonna get the girl.","He defeated Dr. Evil, he saved the world... and believe me...",0.384
+401,ByÅaÅ w Årodku spotkania na drinka z jednym?,Were you in the middle of having one [drink] with one?,Was she in the middle of meeting for a drink with one?,0.31
+402,ByÅem ciekaw wiÄc przyszedÅem CiÄ zobaczyÄ. dzieciak wydawaÅ siÄ zbyt bardzo cierpieÄ.,I came to you because I was curious about the boy who was involved in my niece's death. But... I saw that the boy's scar ran very deep.,"I was curious, so I came to see you. The kid seemed to be in too much pain.",0.0
+403,"MuszÄ powiedzieÄ panu komplement posiada pan Åwietny gust, co do muszek.","It's merely that we feel impelled to compliment you, sir... upon your excellent taste in ties.",I have to compliment you on your great taste in bow ties.,0.0
+404,"Sanitariusze wiozÄ dwÃ³jkÄ cyrkowcÃ³w, ktÃ³rzy spadli z szeÅciu metrÃ³w.",Medics are coming in hot with two cirque performers who just fell 20 feet.,Paramedics are carrying two circus performers who have fallen six feet.,0.0
+405,"- CieszÄ siÄ, Å¼e pan jest, sÄdzio Zinnowitz.","- I'm glad you're here, Justice Zinnowitz.","- I'm glad you're here, Judge Zinnowitz.",0.537
+406,- Ten czÅowiek nie ma wÄsÃ³w.,- This man has no moustache.,- This man has no words.,0.669
+407,Przy prysznicach spotkaÅam bardzo interesujÄce panie.,I met some very interesting women at the showers.,I met some very interesting ladies in the showers.,0.513
+408,"A teraz, jeÅ¼eli paÅstwo pozwolÄ, mam przyjemnoÅÄ przedstawiÄ sÅawnÄ grupÄ,...","And now, with your kind permission... I take infinite pleasure in presenting that ever-popular team...","And now, if you'll allow me, it's my pleasure to introduce to you a famous group,...",0.0
+409,"To straszne budziÄ siÄ o Åwicie, ÅniÄc o burzy.",It's terrible to wake up at dawn dreaming of thunder.,"It's terrible to wake up at dawn, thinking about the storm.",0.578
+410,"Jest bezpieczny, Wasza WysokoÅÄ, gdyby nie moja interwencjÄ... mÃ³gÅby nie byÄ.","He is safe, Your Majesty, which but for my intervention... he might not have been.","He's safe, Your Highness, if it weren't for my intervention... he might not have been.",0.52
+411,"LiczyliÅmy na to, Å¼e kupimy tu zapasy, wodÄ i poÅ¼ywienie dla naszych zwierzÄt.",We were hoping to buy provisions and water and graze our livestock.,"We hoped to buy supplies, water and food for our animals here.",0.0
+412,"ByÅ czas, kiedy chciaÅem uratowaÄ gÅupich ludzi. Takich peÅnych dumy i zapaÅu, jak ty.","There was a time when I tried to save foolish humans, those full of pride and spirit like you, but then.... [grunts]",There was a time when I wanted to save stupid people. People with pride and enthusiasm like you.,0.285
+413,"Kiedy ci ludzie zrozumiejÄ, Å¼eby przestaÄ siÄ obÅ¼eraÄ na miÅoÅÄ BoskÄ?","When will these people learn to stop eatin', for Christ's sake?",When will these people understand to stop insulting the love of God?,0.255
+414,Czy mieszka tutaj niejaki pan Beckert? !,Does a Mr Beckert live here?,Does a Mr. Beckert live here? !,1.0
+415,"PoÅwiÄciliÅmy ci najlepsze lata, a ty teraz chcesz oficera.","We gave you our best years, now you want an officer.","We gave you our best years, and now you want an officer.",0.743
+416,"To nie brzmi strasznie, ale trochÄ mnie to zszokowaÅo. - Tak, rozumiem.",Somebody slammed the door in my face.,"It doesn't sound terrible, but it shocked me a little. - Yes, I understand.",0.0
+417,JeÅli sprawa wyjdzie na jaw grozi mu powaÅ¼ne niebezpieczeÅstwo.,"If this matter becomes known to the public, his life will be dangerous.",He will be in grave danger if the matter comes to light.,0.0
+418,Uzbrojeni Å¼oÅnierze zbiÅ¼ajÄ siÄ do kompleksu.,We've got armed men approaching the complex.,Armed soldiers are gathering at the compound.,0.0
+419,Czy naprawdÄ mam powtÃ³rzyÄ to jeszcze dwa razy?,Do I really have to ask you two more times?,Do I really have to repeat it twice more?,0.411
+420,"ÅpiÄ zarÃ³wno ludzie, jak i zwierzÄta.",People and animals alike sleep on the leaves.,Both humans and animals drink.,0.0
+421,"ProszÄ porozmawiaÄ z kapitanem Rileyem, pokÃ³j 68, trzecie drzwi.","See Capt. Riley, room 68, down the hall, third door on your right.","Please speak to Captain Riley, room 68, third door.",0.0
+422,"Nie serduszkuj mi tu, ty torbo tÅuszczu!","Don't honey me, you big bag of suet!","Don't heart me here, you bag of tÅush!",0.0
+423,Znajdziemy sposÃ³b na odzyskanie waszego rancza.,We'll get this ranch back for ya. That's just what Keogh said... but we're still a-losin 'it.,We'll find a way to get your ranch back.,0.0
+424,"Nie mÃ³w tego, Å¼e nie moÅ¼e juÅ¼ zasnÄÄ, gdy budzi siÄ z koszmaru, Å¼e nawet w tym wieku boi siÄ duchÃ³w.","Like not being able to sleep after a scary dream, like how he's afraid of ghosts at his age.","Don't say that he can't fall asleep anymore when he wakes up from a nightmare, that he is afraid of ghosts even at this age.",0.0
+425,"Tu posadzimy tego Å¼igolaka, mÄÅ¼a Mimi.",I'll put that slick gigolo husband of Mimi's here.,"This is where we plant the gigolo, Mimi.",0.0
+426,"CÃ³Å¼ uczynimy, jeÅli pewnego dnia zwrÃ³cÄ siÄ przeciw nam?","""What will you do if they turn against you some day?""",What will we do if one day they turn against us?,0.0
+427,JuÅ¼ wybraÅem dla ciebie twoje specjalne PiekÅo.,I will pick the perfect hell for you before you come.,I've already chosen your special Hell for you.,0.0
+428,"Larry nie ma czasu dla wielu ludzi, ale dla swojej siostry ma.","Larry doesn't have time for a lot of people, but his big sister's one of them.","Larry doesn't have time for many people, but he does for his sister.",0.272
+429,IdÅº i przedostaÅ siÄ przez linie wroga.,Go and break through the lines!,Go and get through the enemy lines.,0.0
+430,"Chce, byÅ odwiedziÅ jÄ w jej loÅ¼y.",She would like you to visit her in her box.,She wants you to visit her in her room.,0.537
+431,"- MÃ³wi, Å¼e powinienem zatrudniÄ kogoÅ innego.",She says I should hire someone else.,- He says I should hire someone else.,0.809
+432,KoleÅ¼anki z fabryki dajÄ jej zÅy przykÅad.,You see what bad examples these factory girls are!,Her colleagues at the factory set her a bad example.,0.0
+433,"PamiÄtam, Å¼e nagle poczuÅem potrzebÄ, by prosiÄ o wybaczenie.",I remember I felt suddenly I must ask her forgiveness.,I remember suddenly feeling the need to ask for forgiveness.,0.0
+434,"To Jezus siÄ zmieniÅ, nie ja.",I haven't changed. Jesus changed. Shoot.,"Jesus has changed, not me.",0.0
+435,To ich naturalny kolor czy moÅ¼e sÄ pomalowane?,"Is that their real color, do you suppose, or have they painted themselves?",Is it their natural colour or are they painted?,0.0
+436,Przyjdzie tu spotkaÄ siÄ z Tae Yang.,"Rather, he's coming here to see Tae Yang.",He'll come here to meet Tae Yang.,0.0
+437,"SpeÅniamy je, gdy nam siÄ uda, a gdy nie, radzimy sobie z wydarzeniami na bieÅ¼Äco, walczÄc z rozczarowaniem, opatrujÄc w miarÄ moÅ¼liwoÅci rany.","'If we're lucky, they're met, 'if they're not, we must deal with events as they unfold, 'making good the disappointments, looking to bind what wounds we can.'","We fulfil them when we succeed and when we fail, we deal with the events on the fly, fighting the disappointment, dressing the wounds as much as possible.",0.0
+438,"Czy chcesz iÂ¶Ä do kina dziÂ¶ wieczorem?""","Do you want to go to the cinema tonight?""","Do you want to go to the movies tonight?""",0.751
+439,"To kup jeszcze Loopsy z mlekiem, papierowe rÄczniki, sos Tabasco, Spam.","Oh, okay. Well, yeah, in that case, um, I-I'll take some Loops with-with some milk, paper towels, Tabasco sauce, some Spam.","Then get some Milk Loops, paper towels, Tabasco sauce, Spam.",0.145
+440,"WciÄÅ¼ siÄ modlÄ, Å¼eby byÅo zdrowe.",I've never stopped praying for a healthy baby.,They still pray that it's healthy.,0.0
+441,"MusieliÅcie chociaÅ¼ widzieÄ jakiego koloru czapkÄ miaÅa ta zaginiona dziewczynka, ktÃ³rÄ dzisiaj rano widzieliÅcie z nieznajomym.",You must at least know the colour of the cap the little girl wore whom you say you saw with the stranger!,You must have at least seen what colour hat the missing girl you saw with the stranger this morning was wearing.,0.223
+442,"NaprawÄ mi przykro, Å¼e tak wyszÅo.",I'm real sorry about what happened.,I'm really sorry about that.,0.0
+443,"MÃ³j brat, biedny Joseph za duÅ¼o wiedziaÅ o Upiorze.","My brother - - poor Joseph, he knew too much about the Phantom!","My brother, poor Joseph, knew too much about the Phantom.",0.702
+444,"Nie pozwoliÅabyÅ mi dziÅ wyjechaÄ, tak?","You wouldn't have me go tonight, would you?","You wouldn't let me leave today, would you?",0.0
+445,"JeÅli zostaÅo coÅ do roboty, sam siÄ tym zajmÄ.","Any drinking to be done, I'll do it myself.","If there's anything left to do, I'll take care of it myself.",0.0
+446,W filmie owca teÅ¼ kochaÅa wilka.,"In the movie, the goat also likes the wolf.","In the movie, the sheep also loved the wolf.",0.369
+447,CzyÅ¼ nie widzieliÅmy siÄ od bardzo dawna?,"We've not met for so long, aren't we?",Have we not seen each other for a very long time?,0.0
+448,"- Po godzinie nauki nadszedÅ czas, zataÅczyÄ dla jurorÃ³w.","Instruction, it's time to dance For the judges.","- After an hour of studying, it was time to stagger the jury.",0.0
+449,Przykro mi. Ona teraz pasie owce.,"Sorry, but she's out tending her sheep.",I'm sorry. She's herding sheep now.,0.0
+450,"Ach, monsieur, musi byÄ jakieÅ prawo we Francji Å¼eby dusiÄ takie rzeczy przy urodzeniu, ...albo je zamykaÄ","Monsieur, there must be a law in France to smother such things at birth... - or lock them up.","Ah, monsieur, there must be some law in France to strangle such things at birth, ...or lock them up.",0.631
+451,Skoro taka ma byÄ nasza rola.,"Well, that is the role we were destined to play.",If that's our role.,0.0
+452,"ObiecaÅem ci pokazaÄ, jak naprawdÄ ohydnym moÅ¼e byÄ ten Åwiat.","Now, I promised to show you how vile this world can really be.",I promised to show you how hideous this world really is.,0.441
+453,Nasi znajomi wydajÄ siÄ bardzo poruszeni.,Our friends seem very eager to see us.,Our friends seem very moved.,0.346
+454,"Ale zaprawdÄ, nie ma grzesznika miÄdzy wami, ktÃ³rego nie mogÄ nazwaÄ bratem.","But, yea, verily, there's no sinner among you what I can't call ""brudder.""","But truly, there is not a sinner among you whom you cannot call brother.",0.0
+455,"Dasz dupy, a zaÅatwiÄ ciÄ na cacy.","You don't do this exactly right, they gonna rip your ass off.","You give a shit, I'll make it right.",0.0
+456,"Kto chce siÄ ÅmiaÄ, niech siÄ Åmieje.","- Well, them that wants to hoot, let 'em hoot.","Whoever wants to laugh, let him laugh.",0.0
+457,Mam doÅÄ tych wiadomoÅci z frontu.,"Oh, I'm sick of messages from the front.",I'm getting this news from the front.,0.0
+458,"ZabiÅeÅ jÄ, wiÄc ja zabijÄ ciebie!",You killed her as I am about to kill you!,"You killed her, so I'll kill you!",0.0
+459,"Jest dÅugie, gÅadkie i ma na koÅcu... dwie piÅki!","It is a long, smooth shaft, complete with--","It's long, smooth and has... two feathers!",0.0
+460,PoÅlij po starego wieprza. Jego brodÄ doÅlÄ pÃ³Åºniej.,"Why not send for the old swine, let his beard come later?",Go get the old hog. I'll finish his beard later.,0.0
+461,"Spotykamy siÄ z tymi ludÅºmi po raz pierwszy, Rebecca.","We're meeting these people for the first time, Rebecca.","We're meeting these people for the first time, Rebecca.",1.0
+462,"PozwoliÅ mi pan ochrypnÄÄ, a miaÅ pan w zanadrzu ukÅad z Manchesterem.",You let me talk myself hoarse... and you had Manchester signed up all the time. Why?,"Let me get this straight, you had a deal with Manchester in mind.",0.0
+463,Niech to bÄdzie nauczka dla was wszystkich.,"And let that be a lesson to every one of you. This school was here before you came, and it'll be here before you go.",Let that be a lesson to you all.,0.193
+464,Musi pan zobaczyÄ Sauchiohall Street z tymi wszystkimi sklepikami... i Argyll Street w sobotni wieczÃ³r... z tramwajami i wszystkimi tymi ÅwiatÅami... kinami i caÅym tym tÅumem.,You should see Sauchiohall Street with all its fine shops.. and Argyll Street on a Saturday night.. with the trams and the lights..,You must see Sauchiohall Street with all the shops... and Argyll Street on a Saturday night... with the trams and all those lights... ...and the cinemas and all that crowd.,0.502
+465,"Czy nie rozumiesz, Å¼e zrobiÅam to tylko po to, byÅ zdaÅ sobie sprawÄ, Å¼e mnie zaniedbujesz?",Don't you understand I merely did it to make you realise you've been neglecting me?,Don't you understand that I only did it to make you realize that you're neglecting me?,0.346
+466,ty musisz nauczyÄ siÄ broniÄ siebie.,It is not better to be pacific? More of 30 barons of the drug died.,you must learn to defend yourself.,0.0
+467,Jak Åmie publikowaÄ o mnie takie kÅamstwa?,"Trying to put that kind of stuff about me in the papers, huh?",How can you publish such lies about me?,0.0
+468,"PozwÃ³lcie, Å¼e przedstawiÄ - St. Louis and Company",Allow me to present St. Louis and Company.,Sue me-- St. Louis and Company,0.366
+469,"{C:$d89070}Wydaje siÄ, Å¼e jest coÅ w PoÅudniowej Azji, co przyciÄga tu mÄÅ¼czyzn.",Southeast Asia must have something that lures grown men...,{There seems to be something about South Asia that attracts men here.,0.0
+470,"Ale znajdÄ twojego kochasia, nawet jeÅli miaÅaby to byÄ ostatnia rzecz jakÄ zrobiÄ!",- Naturally. But I'll find your lover.,"But they'll find your lover, even if it's the last thing they do!",0.0
+471,"WyglÄda na to, Å¼e twÃ³j ojciec zawsze szuka drzazg w oczach innych ludzi.",It sounds as though your father is always looking for the motes in other people's eyes.,It seems like your father is always looking for splinters in other people's eyes.,0.469
+472,"Tylko trudno mi zrozumieÄ, dlaczego kryjesz bandÄ, ktÃ³ra ciÄ tam na dole zostawiÅa.",There's just one thing I don't get: Why you're covering up for the gang who left you in the lurch.,I just find it hard to understand why you're covering for the gang that left you down there.,0.0
+473,Przez caÅy nastÄpny dzieÅ Margaret drÄczyÅy wspomnienia poprzedniego wieczoru.,"All the next day, Margaret was haunted by memories of the previous evening.",Throughout the next day Margaret was tormented by memories of the previous evening.,0.67
+474,"Panie Beddini, co pan robi w pokoju tej mÅodej damy?","Well, Mr. Beddini... what are you doing in this young lady's room?","Mr. Beddini, what are you doing in that young lady's room?",0.634
+475,"Jak ci siÄ wydaje, kto siÄ zwrÃ³ciÅ o pomoc do miejscowych grubych ryb?",Who do you think asked the big shots in town for help?,Who do you think turned to the local big shots for help?,0.295
+476,"""PiÄciu poÅrÃ³d najbardziej bogatych i uczonych ludzi chce kontrolowaÄ zapas zÅota na Ziemi.""","""Five people among the wealthiest and the most erudite ""want to controle the stock of gold of the Earth.""","""Five of the world's wealthiest and most learned people want to control the Earth's supply of gold.""",0.0
+477,Kiedy podkÅadano ogieÅ pod biednÄ ofiarÄ -,When a fire bowl was put under the poor victim -,When a poor victim was set on fire -,0.0
+478,DaÅ mi ten naszyjnik w prezencie dla ciebie!,"""He gave me this necklace as a gift for you!""",Give me that necklace as a gift for you!,0.537
+479,- MiÅy byÅ z niego czÅowiek.,- He was a nice fellow.,- He was a nice man.,0.669
+480,"Nie mam pojÄcia, nie zwrÃ³ciÅem uwagi","I don't know, baby. I never looked. Oh, Austin!","I have no idea, I wasn't paying attention",0.0
+481,"- JeÅli przyjmiesz nastÄpny, zwolniÄ ciÄ.","- If you accept another one, you're fired.","- If you take the next one, I'll fire you.",0.0
+482,"Musimy znaleÅºÄ przewodnika, ktÃ³ry zaprowadzi nas do Imeret.",I need you to find the guide that will lead us to Imeret.,We have to find a guide who will take us to Imeret.,0.0
+483,Powinien wiÄc przynajmniej wiedzieÄ jak uzbroiÄ hamak.,And a man who's been two years at sea should know how to lash his hammock.,So he should at least know how to arm the hammock.,0.0
+484,Z ciaÅem Å¼yjÄcej istoty i martwym sercem.,"In a living body, she has a dead heart.",With the body of a living being and a dead heart.,0.0
+485,"Samoloty nie byÅy kiedyÅ takie bezpieczne, _BAR_jak teraz.",Airplanes weren't as safe then as they are now.,Planes weren't as safe as they are now.,0.432
+486,Jak schwytaÅeÅ najwiÄksze zwierzÄ na ziemi i zabraÅeÅ je do Nowego Jorku.,How you'd captured the biggest animal on earth and taken him back to New York.,How he captured the largest animal on earth and took it to New York.,0.272
+487,"Chcesz mu pÅaciÄ 1000 $ dziennie tylko za to, Å¼e Åpiewa?","You're willing to pay him $1,000 a night just for singing?","You want to pay him $1,000 a day just for singing?",0.469
+488,"- Milordzie, on nie uÅ¼ywaÅ bagnetu.","-Milord, he didn't use the bayonet.","- Milord, he didn't use a bayonet.",0.537
+489,"Musisz siÄ nauczyÄ, Å¼e kaÅ¼dy mÄÅ¼czyzna moÅ¼e wziÄÄ Å¼onÄ.",You got to learn any man can get a wife!,You must learn that any man can take his wife.,0.0
+490,"Co znaczy, ""nie zrobi nic wiÄcej, niÅ¼ ty""?","- What do you mean, put something over on you?","What do you mean, ""he won't do anything more than you""?",0.253
+491,"Musisz mnie kryÄ. Nie chcÄ, Å¼eby ktoÅ...","You have to cover, they should not see me.",You have to cover for me. I don't want anyone...,0.282
+492,"JeÅli bÄdziesz siÄ zachowywaÅ, moÅ¼esz zostaÄ.","If you're on your best behavior, you may stay.","If you behave, you can stay.",0.0
+493,Nasze dusze sÄ rozdarte jak przeÅcieradÅa.,Our souls were ripped out to shreds.,Our souls are torn asunder.,0.0
+494,Co jeÅli krÃ³lowa ciÄ tam zatrzyma?,What if the Queen keeps you there?,What if the queen stops you there?,0.489
+495,"Kochana pani Barlow, moÅ¼e im pani powiedzieÄ, Å¼e zawsze byÅem obecny tam, gdzie ktoÅ o coÅ walczyÅ.","Mrs. Barlow, my darling, you can tell them, if you like... that I've been most anywhere that fighting was in evidence.","Dear Mrs. Barlow, can you tell them that I've always been there when someone was fighting for something.",0.0
+496,"- Tego nie umiesz, chodziÄ na uszach.","- Here's one you can't do. Walk on your ear, Jean.","- You can't do that, you walk on your ears.",0.0
+497,Madame Grusinskaja nie bÄdzie potrzebowaÄ wozu.,Mme. Grusinskaya will not require her car.,Madame Grusinskaya will not need a carriage.,0.0
+498,"Znawcy filmu pamiÄtajÄ jego roIÄ jako narzeczonego CIaudette CoIbert, zanim ta ucieka z CIarkiem GabIe, w filmie lt Happened One Night.","film buffs may recall his role as CIaudette CoIbert's fiance, until she ran off with clark gable, in lt Happened One Night.","Film buffs will remember his role as CIaudette CoIbert's fiancé before she runs off with CIarque Gabe, in lt Happened One Night.",0.378
+499,RozrzucÄ jego szczÄtki po caÅym polu trzcinowym.,I'll scatter his innards all over the sugarcane field.,Scatter his remains all over the cane field.,0.0
+500,- On mnie ganiaÅ po parku.,- He chased me in the park. - Really?,- He's chasing me around the park.,0.0
+501,"W obecnej sytuacji Freedonia potrzebuje nowego lidera... postÄpujÄcego naprzÃ³d, nieustraszonego wojownika.","In a crisis like this, I feel Freedonia needs a new leader, a progressive, fearless fighter!","As things stand, Freedonia needs a new leader... a forward-thinking, fearless warrior.",0.313
+502,"ZapomniaÅem, Å¼e nie widziaÅ pan jeszcze swoich klientÃ³w.",I forgot you didn't know your clients by sight.,"I forgot, you haven't seen your clients yet.",0.0
+503,"CranIey nazywa monokainÄ ,strasznym narkotykiem"", ktÃ³ry","CranIey refers to monocane as ""a terrible drug""","Cranley calls monocaine a ""terrible drug"" that",0.0
+504,"""PodnieÅ albo poÅlÄ ciÄ do kostnicy!""","""Pick it up or I'll send you to the morgue!""","""Pick you up or put you in the morgue!""",0.0
+505,"Ty idziesz do swojej szafy i wyciÄgasz... na przykÅad ten niebieski, grudkowaty sweter, bo chcesz przekazaÄ Åwiatu, Å¼e jesteÅ zbyt powaÅ¼nÄ osobÄ, by zwracaÄ uwagÄ na to, co na siebie zakÅadasz.","You go to your closet... and you select - I don't know- that lumpy blue sweater, for instance... because you're trying to tell the world that you take yourself too seriously... to care about what you put on your back.","You go to your closet and you pull out... like that blue lumpy sweater, because you want to tell the world that you're too serious to care what you put on.",0.337
+506,/przejeÅ¼dÅ¼aÅy przez nasze /paÅstwo bez przeszkÃ³d.,"-Ready. ,to pass through the country unmolested,",/to pass through our country unhindered.,0.0
+507,"""WiÄc jesteÅ facetem, ktÃ³ry uratowaÅ mi Å¼ycie?""","""So you're the guy that saved my life?""","""So you're the guy who saved my life?""",0.5
+508,"JesteÅÅ¼e poganinem, Å¼e nie znasz Wielkanocy?","""Are you heathen born that you have never heard of Holy Easter?""","Are you a pagan, that you do not know Easter?",0.0
+509,Szef policji czÄsto przychodzi po pomoc do Coke'ego Ennyday'a.,The police chief often came to Coke Ennyday for help.,The chief of police often comes to Coke Ennyday for help.,0.412
+510,Å»e teÅ¼ mi to siÄ przydarza.,This had to happen to me!,That it happens to me too.,0.0
+511,"UmrÄ z Giselher, moim wÅasnym dzieckiem!",With Giselher my own child will die!,"I'll die with Giselher, my own child!",0.643
+512,"Ale nic nie da, jeÅli nie masz odpowiednio smutnej miny.","But it's no good, if you haven't got a long face to go with it.",But it's no use if you don't have the right sad face.,0.0
+513,Jestem tam coÅ o przytÅumieniu iskry?,Anything in there about how to extinguish a spark?,I'm there. What about the spark?,0.0
+514,"MogÄ wyznaÄ to, bez ujmy dla mojego dobrego imienia.",listen to me. I can say this without shaming my reputation.,"I can confess that, without disparaging my good name.",0.0
+515,"PowiedziaÅeÅ, Å¼e zabito twojÄ duszÄ... i przez te wszystkie lata byÅeÅ martwy.","You say your soul was killed, that you have been dead all these years.",He said your soul was killed... and all these years you've been dead.,0.287
+516,PrÄdzej moÅ¼esz mieÄ w niej kulkÄ.,You might find a bullet through that head.,You'd sooner have a bullet in it.,0.0
+517,"Panie James albo panie Allen, czy jak siÄ tam pan nazywasz...",Mr. James or Mr. Allen or whatever your name is...,Mr. James or Mr. Allen or whatever your name is...,1.0
+518,Widzicie? Zapomnij kim byliÅcie i co zamierzaliÅcie.,Forget what you've been and what you think you're going to be.,You see? Forget who you were and what you intended.,0.0
+519,WysÅaÅem do ciebie lekarza wiÄc zostaÅ w domu i odpocznij.,"I'm going to send over the doctor, so just stay home and don't go anywhere. What about dinner?","I sent a doctor to you, so stay home and rest.",0.0
+520,"SÅyszaÅeÅ wyraÅ¼enie ""tnÄcy wiatr""? gdzie ciaÅo jest ciÄte przez latajÄce noÅ¼e.","You've heard of the piercing wind, right? There's even a hell where knives are being blown at you.","Did you hear the expression ""cutting wind""? where the body is cut by flying knives.",0.0
+521,Czemu ciÄ to obchodzi czy stÄd wyjadÄ czy zostanÄ?,Why should you care whether I stay or I go?,Why do you care if they leave or stay?,0.0
+522,Teraz teÅ¼ nikt o mnie nie plotkuje.,But no one speaks ill of me now.,No one's gossiping about me now either.,0.0
+523,"OgrodÃ³w juÅ¼ niema, lecz mapa wciÄÅ¼ tu jest.","The guns are gone, but the charts are still here.","The gardens are gone, but the map is still here.",0.325
+524,"I zaprawdÄ, powiadam wam, nawet zdeprawowanÄ wszÄ, ktÃ³ra przywiodÅa mnie do grzechu, nawet jego, kocham i wybaczam.","And verily, I say to you... even the depraved wr- louse... what led me into sin... even him I love and forgive.","And verily, I say unto you, even the depraved louse that brought me into sin, even him, I love and forgive.",0.596
+525,"MyÅlÄ, Å¼e mÃ³gÅbym ci daÄ 30, 40 dolarÃ³w.","I guess, maybe I can get you $30 or $40.","They think I could give you 30, 40 bucks.",0.0
+526,"MoÅ¼e mi pan powiedzieÄ, jak dÅugo to jeszcze potrwa?",Would you mind telling me how long this is going to keep up?,Can you tell me how much longer this is going to take?,0.239
+527,Tony sÄ dlatego w policyjnym... albo to sam pod spodem. - kto to? - PÃ³jdÅº za mnÄ.,They are therefore in the police... or same underneath.,Tony is therefore in the police... or it's himself underneath. - Who is it? - Follow me.,0.24
+528,PodpisaÅ pan kontrakt z pannÄ Jones?,Do you happen to have a contract with Miss Jones?,You signed a contract with Miss Jones?,0.411
+529,"- Nie ma za co, panie Driftwood.","- That's all right, Mr. Driftwood.","- You're welcome, Mr. Driftwood.",0.0
+530,Tak. To mogÅoby zmieniÄ wszystko co wiemy o medycynie.,It could change everything we know about medicine.,Yes. It could change everything we know about medicine.,0.882
+531,"ChodÅº do wujka, zaraz ciÄ zjem!",Come here! I'm gonna eat you!,"Come to your uncle, I'll eat you!",0.0
+532,"SzaleÅstwo polowaÅ na czarownice, jak duchowa plaga, niszczy wszystko, co stanie na drodze sÄdziÃ³w.","The witch madness, like a spiritual plague, ravages wherever these judges go.","The madness of the witch-hunt, like a spiritual plague, destroys all that stands in the way of the judges.",0.136
+533,Nie jest jeszcze taki sÅynny jak jego ojciec... ale zrobiÅ porzÄdek w Tombstone.,"He ain't got as big a name as his pa, but he cleaned up Tombstone.",He's not yet as famous as his father... but he's done a good job in Tombstone.,0.0
+534,"DaÅam jej pieniÄdze i powiedziaÅam, Å¼eby nie krzyczaÅa.",I gave her some money and told her to scram.,I gave her money and told her not to scream.,0.393
+535,"Rozumiem, Å¼e w fabryce zgÅosiÅ pan chorobÄ, a tymczasem tu, w Berlinie, oddaje siÄ pan rozrywkom... znacznie ponad paÅski stan?",I understood you to say that you reported to our plant ill... and you're here in Berlin indulging in diversions... which are very much beyond your means?,I understand you reported sick at the factory and here in Berlin you're enjoying yourself... ...far beyond your means?,0.0
+536,Nie byÅoby proÅciej wsadziÄ tÄ kabinÄ do kufra?,Wouldn't it be simpler if you just put the stateroom in the trunk?,Wouldn't it be easier to put this cabin in a trunk?,0.0
+537,- Lepiej staÄ niÅ¼ zjechaÄ gÅadko w przepaÅÄ.,"Well, it won't help things losing your temper.",- It's better to stand than to slide smoothly into the abyss.,0.0
+538,Nawet my jako cyborgi nie mamy takich mocy!,But even cyborgs like us don't have power to do something like that.,Even we as cyborgs don't have such powers!,0.0
+539,Nie jestem szczÄÅliwa z moim mÄÅ¼em.,"You see, I'm not happy with my husband.",I'm not happy with my husband.,0.68
+540,Ale... a ja ofiarÄ. poniewaÅ¼ nie mogÄ ich zobaczyÄ ani usÅyszeÄ.,"But... She was the criminal and I was the victim. I said that I'm letting it go, and just accept things for what they are.",But... and I'm the victim. Because they can't see or hear them.,0.0
+541,Kiedy ostatni raz przekazaÅ jej pan pieniÄdze?,When was the last time you gave her money for Wynant?,When was the last time you gave her money?,0.786
+542,"Powiedz, Å¼e jutro wrÃ³cimy by siÄ zaprzyjaÅºniÄ.",But tell him we'll be back tomorrow to make friends.,Tell him we'll come back tomorrow to be friends.,0.0
+543,Daj mi 24 godziny na wyjaÅnienie sprawy.,Give me 24 hours for the case.,Give me 24 hours to figure it out.,0.356
+544,"- PowiedziaÅ mi, Å¼e nazywa siÄ Hannay.",- He told me his name was Hannay.,- He told me his name was Hannay.,1.0
+545,- Nigdy wczeÅniej nie widziaÅem takich koni.,-I've never seen horses like this before.,- I've never seen horses like this before.,1.0
+546,"Å»ywy brontosaurus, prawie 60-stopowy od nosa do koÅca ogona!",A living Brontosaurus - nearly sixty feet long from the nose to the tip of the tail!,"A live brontosaurus, nearly 60 feet long from nose to tail!",0.0
+547,"CÃ³Å¼, nawet jeÅli utyka na jednÄ nogÄ, coÅ dÅugo mu schodzi.","Well, even though he's a limp, he's little too late.","Well, even if he's got a limp in one leg, it takes him a long time.",0.0
+548,"What you think Columbo do, when he's coming here in 1492 He says to Pocahontas, atch-a catchy coo, which means I love you!","And then he get himself a great, big boat","What you think Columbo do, when he's coming here in 1492 He says to Pocahontas, atch-a catchy coo, which means I love you!",0.0
+549,MÃ³zg skradziony z mojego laboratorium byÅ mÃ³zgiem kryminalisty.,The brain that was stolen from my laboratory was a criminal brain.,The mÃ³g stolen from my lab was a criminal's mÃ³g.,0.0
+550,"Nie tylko mnie zrujnowaÅa Å¼ycie, innym teÅ¼.","Not only did she wreck my life, there were others as well.","It didn't just ruin my life, it ruined the lives of others.",0.0
+551,"ChciaÅeÅ zyskaÄ sÅawÄ, jako czÅowiek ktÃ³ry zmiÃ³tÅ z powierzchni ziemi caÅy klan Yoshioka?",you consider yourself a human being?,Did he want to be known as the man who wiped out the entire Yoshioka clan?,0.0
+552,Nie kaÅ¼ mi rzuciÄ ciÄ na poÅ¼arcie modelkom.,- Don't make me feed you to one of the models. - I'm sorry.,Don't make me throw you to the models.,0.0
+553,"MiaÅem tylko ten pieniÄÅ¼ek, ktÃ³ry ci daÅem.","""I CAN'T GIVE YOU MORE, CHILD...",I only had the money I gave you.,0.0
+554,"- TeÅ¼ ciÄ witam, Mel. Brian.","- Good morning to you too, Mel.","- TeÅ¼ ciÄ witam, Mel. Brian.",0.0
+555,ByÅbyÅ dobrym materiaÅem na postaÄ gry wideo.,You'd make a good videogame character.,He would have been good material for a video game character.,0.0
+556,"Skoro tylko dostanie ten zÅoty ÅaÅcuszek, poczuje diabelskÄ moc!","""Once she has this little golden chain in the house she will begin to feel the devil's power!""","As soon as he gets that golden ring, he'll feel the devil's power!",0.142
+557,"No wiesz, ptaszki ÅpiewajÄ i... i kwiatki i pewne rzeczne...","You know, the birds are singin'... and the- and the flowers... and the river's kind of-","You know, the birds are singing and... and the flowers and some river...",0.394
+558,/Matka chciaÅa mnie zamordowaÄ... /ale owÅadnÄÅa niÄ miÅoÅÄ.,My mother tried to murder me but love confounded her.,/My mother wanted to murder me... /...but she was possessed by her love.,0.249
+559,"OczywiÅcie, zdaje pan sobie sprawÄ... Å¼e to wbrew radzie doktora Werdegasta.","Now, you realize, of course, that this is against the advice of Dr. Werdegast.","Of course, you realize... that this is against Dr. Werdegast's advice.",0.254
+560,"PonoÄ zamierza go ofiarowaÄ swemu teÅciowi z dojo Shiba, w dowÃ³d wdziÄcznoÅci za przyjÄcie do rodziny.",He said he wanted to give it to Shiba Dojo as a gift for being adopted as a son-in-law.,He intends to give it to his father from the Shiba dojo as a token of his gratitude for being accepted into the family.,0.219
+561,"- Zac Posen ma rzeÅºbiarskie garnitury, wiÄc zasugerowaÅem sesjÄ Testino w Noguchi Garden.","Where are we on that? Zac Posen's doing some very sculptural suits. So I suggested that, uh, Testino shoot them at the Noguchi Garden.","- Zac Posen has sculptural suits, so I suggested the Testino shoot at Noguchi Garden.",0.203
+562,"ByÄ moÅ¼e, ale wciÄÅ¼ myÅlÄ o panu jako o jednym z Whitehead'Ã³w.","It is, but somehow I still think of you as one of the Whiteheads.","Maybe, but I still think of you as one of the Whiteheads.",0.693
+563,"- Tak, ale ta jest najwiÄksza.","I do not have any. I want to say, you mark. You have not had any.","- Yes, but this is the biggest.",0.0
+564,"Gadali na ciebie, ale im nie uwierzyÅem.","They've been saying it, only I didn't believe them.","They were talking at you, but I didn't believe them.",0.267
+565,"Wiem, Å¼e jest za pÃ³Åºno dla nas, ale nie chcÄ widzieÄ, Å¼e cierpisz.","I know it's too late for us, but I don't want to see you get hurt.","I know it's too late for us, but I don't want to see you suffer.",0.861
+566,"Szkoda, Å¼e nie mogÄ filmowaÄ w nocy!",Wish I could take pictures by firelight.,Too bad they can't film at night!,0.0
+567,Czy niedÅugo nie przedawni siÄ sprawa Hee Joo? ale wszystko siÄ teraz poplÄtaÅo.,Isn't the statue of limitation for Hee Joo's accident ending soon? I was going to give Hee Joo a proper goodbye when it ends. But everything turned into such a mess.,Isn't the statute of limitations on Hee Joo's case going to expire soon? But everything's broken now.,0.0
+568,"DostaÅem, ale jeÅli uciekniesz, stracÄ pracÄ.","Sure, I got orders... that if you get away from here this time, I lose my job.","I got it, but if you run, I'll lose my job.",0.0
+569,"... i Åmiej siÄ, jak robiÄ to mÅodzi i piÄkni kiedy Å¼ycie wciÄÅ¼ obiecuje, bawi i uszczÄÅliwia.","And laugh, like youth and beauty do when life still promises joy and happiness.","... and laugh, as the young and beautiful do when life still promises, entertains and satisfies.",0.303
+570,WkrÃ³tce bÄdzie taki jak inni ludzie.,He'll be like a great many other people soon.,Soon he'll be like other people.,0.0
+571,WysmagaÅbym ciÄ batem jak konia - gdybym miaÅ konia.,"Then you're crazy to fool around with her. Oh, but you don't know... I don't wanna talk to you about this again, you snob.",I'd whip you like a horse if I had a horse.,0.0
+572,Gdyby siÄ jakaÅ znalazÅa - jesteÅcie zainteresowani?,"First, we want a football. I don't know if we've got a football.","If I found one, would you be interested?",0.0
+573,"Wszyscy myÅleli Å¼e to Å¼art, kiedy powiedziaÅem, Å¼e bÄdÄ dawcÄ.",Everyone thought it was a joke when I said I would donate.,Everyone thought it was a joke when I said I was going to be a donor.,0.578
+574,Å¼eby poszli przodem! jeÅli ciebie tam nie bÄdzie?,Tell them to go ahead. What will they do if they went ahead without the magistrate?,They should go first! If you're not there?,0.0
+575,Dogadzajmy sobie w tej nieskoÅczonej dumie,Let's indulge in this infinite elation,Let's indulge ourselves in this infinite pride,0.0
+576,"ByÅoby nie w porzÄdku, gdybym powstrzymaÅ miÅoÅÄ od pierwszego wejrzenia.","And it wouldn't be fair for me to stop love at first sight, now would it?",It wouldn't be right if I stopped love at first sight.,0.221
+577,zrÃ³b to dla mnie i zaopiekuj siÄ Page.,"""I've decided to stay here a bit longer, so please take care of Page!""",take this for me and take care of Page.,0.178
+578,"RobiÅaÅ, co chciaÅaÅ i takie sÄ efekty.",You see what's come of your way.,"He did what he wanted to do, and this is the result.",0.0
+579,Ale chyba powinienem pana teraz nazywaÄ sÄdziÄ?,"But I'd better call you Judge now, hadn't I?",But I suppose I should call you judge now?,0.33
+580,Jest na maratonie H.G. Wellsa grajÄ to w kinie Gabrielle.,There's an H.G. Wells marathon playing at the Gabrielle Cinema.,It's at the H.G. Wells marathon playing at the Gabrielle Cinema.,0.688
+581,"Gdy mojÄ siostrÄ ukÄsiÅy szerszenie, nasmarowaliÅmy jÄ masÅem.","My sister got into a hornets' nest and we rubbed her with butter, sir.","When my sister was stung by hornets, we put butter on her.",0.0
+582,To... ktÃ³rzy mnie ÅledzÄ... sÄ duchy.,Well... the things that are following me around... are ghosts.,It's... who are following me... are ghosts.,0.0
+583,"ProszÄ paÅstwa, nasz burmistrz ma waÅ¼ny komunikat. Szanowny pan Hiram J. Slade.","Folks, an important announcement by our mayor... the honorable Hiram J. Slade.","Ladies and gentlemen, our mayor has an important announcement. The Honorable Hiram J. Slade.",0.394
+584,"ZmarÅ w 1967 roku, w wieku 77 lat.",Rains died in 1967 at the age of 77.,"Died in 1967, at the age of 77.",0.863
+585,"MoÅ¼e mi pan powiedzieÄ, ktÃ³ra jest godzina?",Can you please tell me what time it is?,Can you tell me what time it is?,0.661
+586,"Teraz Volker, bard, ÅpiewaÅ o Siegfriedzie przed Kriemhild, i jak Siegfried przybyÅ to Worms.","Now Volker, the bard, sang of Siegfried in front of Kriemhild, and how Siegfried came to Worms.","Now Volker, the bard, sang about Siegfried before Kriemhild, and as Siegfried arrived it was Worms.",0.269
+587,"Ale wiem, Å¼e mnie nie skrzywdziÅeÅ.",But I know you didn't hurt me.,But I know he didn't hurt me.,0.0
+588,"Musisz jÄ rozebraÄ do 22 wrzeÅnia, albo oni to zrobiÄ i na dodatek ciÄ aresztujÄ. 22 wrzeÅnia...",They have said that you have to remove it or if they didn't arrest you,"You have to undress her by September 22, or they will do it and arrest you. On 22 September...",0.0
+589,"Powiem ci, jak to powinno wszystko byÄ zrobione.",I'll tell you how it should all be done.,I'll tell you how it should all be done.,1.0
+590,"Jest pewna dziewczyna, nie umiem siÄ do tego zabraÄ.",There's a girl and I can't get anywhere with her.,"There's a girl, I don't know how to do this.",0.0
+591,"Wiem, Å¼e to odrobinÄ nieroztropne z mojej strony ale nie mogÅam siÄ juÅ¼ doczekaÄ, by siÄ z tobÄ zobaczyÄ.",I know you'll think this is a little unconventional of me... but I just couldn't wait to see you alone.,"I know it's a little inconsiderate of me, but I couldn't wait to see you.",0.351
+592,A wiÄc Stan nigdy by ciÄ nie okÅamaÅ?,- So Stan wouldn't dare lie to you? Don't you worry about it. - Can you imagine them going to that convention?,So Stan would never lie to you?,0.0
+593,- Powiem kierowcy o pani walizce.,- I'll tell the driver about your bag.,- I'll tell the driver about your suitcase.,0.809
+594,- A jeÅli bÄdÄ musiaÅa... - Co?,"- Well, what if I need to-",- And if I have to... - What?,0.0
+595,Towarzysze zabici przez Czerwony Front i ReakcjonistÃ³w...,Comrades shot by the Red Front and the Reactionaries,Comrades killed by Red Front and Reactionaries...,0.0
+596,"GorÄcy rytm voodoo, czarny jak noc","Hot voodoo, black as mud Hot voodoo, in my blood","Hot voodoo rhythm, black as night",0.0
+597,W takim razie sumienny z pana czÅowiek.,I see you're a man of rank.,Then you're a conscientious man.,0.0
+598,Na szczÄÅcie twÃ³j stryj jest z flotÄ w Port Royal.,But your uncle's with the fleet at Port Royal. That much is fortunate.,"Fortunately, your uncle is with the fleet at Port Royal.",0.409
+599,"A jeÅ¼eli nie gramy, pieniÄÅ¼ki same wpadajÄ do rÄczki.","And if we don't play, that runs into money.","And if we don't play, the money just falls into our hands.",0.348
+600,"MyÅlaÅem, Å¼e ÅwieÅ¼e powietrze zaostrzy nam apetyt przed obiadem.",I thought a stroll in the fresh air might perk up our appetites before dinner.,I thought the fresh air would whet our appetites before dinner.,0.265
+601,"BÃ³g widzi, Å¼e nie zarabiasz tyle, by sobie na nie pozwoliÄ!","""LORD KNOWS YOU DON'T EARN ENOUGH MONEY TO AFFORD THEM!""",God sees that you don't earn enough to afford them!,0.38
+602,"Panno Bishop, Irlandczykowi nie jest Åatwo przepraszaÄ.","Miss Bishop, it's difficult for an Irishman to apologize.","Miss Bishop, it's not easy for an Irishman to apologize.",0.534
+603,"WidziaÅem wielu wchodzÄcych do umieralnika, ale nigdy nikogo wracajÄcego.",I've seen a lot of'em go in that dying room... but nobody ever comes back.,"I've seen many go into the dying room, but never anyone come back.",0.0
+604,"Jeszcze przed wieczorem, KrÃ³lu Guntherze, twÃ³j orÄÅ¼ ozdobi mojÄ salÄ.","Before it is evening, King Gunther, your smothered weapons will adorn my hall.","Before tonight, King Gunther, your ornament will adorn my hall.",0.289
+605,"PamiÄtasz ten testament, ktÃ³ry napisaÅem przed operacjÄ?",You know that will I made before I had my operation?,Do you remember the will I wrote before the operation?,0.0
+606,"Gdyby nie zÅy wpÅyw twojego mÄÅ¼a, nigdy by to nie miaÅo miejsca.","It's the first time he ever did, and if it wasn't for your husband's bad influence this wouldn't have happened.","If it weren't for your husband's influence, this would never have happened.",0.0
+607,"Sandy... Mam teraz sprawy do zaÅatwienia, Brian.","- I actually have things to do today, Brian.","Sandy... I have things to do now, Brian.",0.383
+608,Raczej krÃ³lewski. A pan nie jest godny dowodziÄ nim.,"The king's ship, you mean, and you're not fit to command it.",More like a king. And you are not worthy to command him.,0.0
+609,"Wiesz, czasami gdy siÄ budzÄ rano i spoglÄdam na niego jego twarz mnie rÃ³wnieÅ¼ przeraÅ¼a.","You know, sometimes I get up in the morning... and I take a good look at him and he frightens me, too.","You know, sometimes when I wake up in the morning and I look at him his face scares me too.",0.352
+610,"Marie, doceniam wszystko co dla mnie zrobiÅaÅ, ale nie mogÄ zmieniÄ moich uczuÄ, tak jak nie mogÄ zmieniÄ koloru swoich oczu.","Marie, I appreciate all you've done for me, but I couldn't love you. I can't change my feeling towards you any more than... I can change the color of my eyes.","Marie, I appreciate everything she's done for me, but they can't change my feelings any more than they can change the color of their eyes.",0.298
+611,- WiÄc to nie pani baronowa?,- Then this isn't the Baroness?,- So it's not the Baroness?,0.0
+612,"Rozumiesz, Å¼e to podwaja twojÄ karÄ, prawda?","You know that this doubles your sentences, don't you?","You understand that this doubles your punishment, right?",0.316
+613,"Kongresmenie, twoje nazwisko zostaje usuniÄte z tej ustawy. NajwyraÅºniej stres zwiÄzany z tÄ posadÄ jest dla ciebie zbyt wielki.",Their name will be erased of the bill obviously the estres is a lot for you.,"Congressman, your name is removed from this bill. Apparently the stress of this job is too much for you.",0.0
+614,"- Telegram? Powiedz im, Å¼e jutro wyÅlÄ pieniÄdze.",Just tell them I'll send them the money in the morning.,- Telegram? Tell them to send the money tomorrow.,0.0
+615,"PrzeczesaliÅmy teren w promieniu dwÃ³ch kilometrÃ³w. SzukaliÅmy w kaÅ¼dej ciastkarni, w nawet najmniejszym sklepiku ze sÅodyczami, aby dowiedzieÄ siÄ, skÄd pochodzi ta torebka. Ale na prÃ³Å¼no.","We've tried to trace the origin of this wrapper in every candy shop and grocery store within a radius of a mile and a half, but all to no avail.","We scoured the area for a two-kilometre radius. We looked in every cake shop, even the smallest sweet shop to find out where the bag came from. But no luck.",0.0
+616,/Ale szeryf dorwaÅ go wczeÅniej /,- â™ª But the sheriff got him quicker â™ª,/But the sheriff got him sooner.,0.517
+617,"""PozwolÄ sobie zapytaÄ, jak siÄ pani hrabina siÄ czuje?""","""May I ask, how does the Countess feel today?""","""May I ask how you are, Countess?""",0.316
+618,Z Batesem nigdy nic nie wiadomo.,There's never any telling with Bates.,You never know with Bates.,0.0
+619,"I boisz siÄ, boisz siÄ, boisz siÄ. Gdzie teraz twoja odwaga?",You don't believe in God and yet you're afraid to die.,"And you're afraid, afraid, afraid. Where is your courage now?",0.0
+620,To jest klucz od tylnego wejÅcia do laboratorium.,"It's the key to the back door of the laboratory, sir.",This is the key to the back entrance to the lab.,0.367
+621,ZerwÄ ze sobÄ jeÅli nic nie zrobiÄ. Niech zerwÄ.,They'll end up breaking up if I just leave them alone.,Break up with me if I don't do anything. Let her break up.,0.0
+622,"Skoro tak twierdzisz, Horace, to pozostaÅ przy tej wersji.","If that's your story, Horace, you stick to it.","If you say so, Horace, I'll stick with that.",0.0
+623,"DÅugo nam nie zajmie podrÃ³Å¼ za kanaÅ, co, chÅopcy?","Well. it won't take us long to get across the channel. Will it, boys?","Won't take us long to cross the channel, will it, boys?",0.532
+624,Nic siÄ ze mnÄ nie stanie.,- Nothing's gonna happen to me.,Nothing will happen to me.,0.0
+625,"Problem w tym, Å¼e Vic od razu jÄ rozgoni.","Yeah, but the only thing is, man, y'all know Vic gonna be trying to shut it down ASAP.","The problem is, Vic will chase her right away.",0.0
+626,Syntetyczne wirusy nie dziaÅajÄ na cyborgi.,[Catalina] Keep in mind that synthetic viruses have no effect on cyborgs.,Synthetic viruses don't work on cyborgs.,0.0
+627,Åwiat przestÄpczy skÅada hoÅd Pete'owi Montanie.,"""Underworld pays respects to Diamond Pete Montana.""",The criminal world is paying tribute to Pete Montana.,0.0
+628,"Ale z caÅÄ pewnoÅciÄ jego sklepu nie moÅ¼na nazwaÄ ""wielkim"".",But his store isn't big at all.,"But I'm sure his shop can't be called ""great"".",0.0
+629,"JeÅli to zrobicie, dyrektor doprowadzi was do porzÄdku.",The warden's gonna fix you. Huh?,"If you do, the director will bring you to order.",0.0
+630,"Mleko masz jeszcze pod wÄsem, co z ciebie za mÄÅ¼czyzna!","You're still green, you've never been a man!","You still have milk in you, what a man you are!",0.0
+631,MogÅaÅ jÄ milej o to zapytaÄ.,"You could have just asked her nicely,",He could have asked her nicer.,0.0
+632,"Nie. A no daj, ja sprÃ³bujÄ.","Give it to me, I'll try.","No. Oh, come on, I'm gonna sprinkle.",0.0
+633,"Ale jestem pewien, Å¼e mnie pocaÅowaÅa.",But I'm sure she kissed me good night.,But I'm pretty sure she kissed me.,0.411
+634,"JeÅli chce mi akompaniowaÄ ktoÅ z tej sali, uderzÄ w jego klawisze i nadepnÄ na pedaÅ.","If any of you louts try to get tοo near, I'll punch you in the ribs and bang yοu on the ear.","If someone in this room wants to accompany me, I'll hit their keys and step on the pedal.",0.0
+635,"Powiedz, jest czÄstka prawdy, w tych plotkach?","Tell me, is there any truth to all these rumors?","Tell me, is there any truth in these rumors?",0.581
+636,"Jak ci siÄ nie podoba, to zostaw to.","If you don't like it, go.","If you don't like it, leave it.",0.643
+637,"Czujesz siÄ na tyle dobrze, byÅmy ruszali, kochanie?","Do you feel well enough to leave, darling?","Are you feeling well enough for us to move on, honey?",0.0
+638,"Armand, wiem po prostu, Å¼e... najwiÄkszy bÅazen w Anglii... zupeÅnie pogardza swojÄ Å¼onÄ.","Armand, I have the satisfaction of knowing that the biggest fool in England has the most complete contempt for his wife.","Armand, I just know that... the biggest bastard in England... is utterly contemptuous of his wife.",0.0
+639,Jak taki mÅody duch jak ty zmarÅ?,How did someone as young as you die?,How did a young ghost like you die?,0.0
+640,"Jestem pewna, Å¼e tamta droga prowadziÅa do Inverary.",Surely that's the way to Inverary.,I'm sure that road led to Inverara.,0.0
+641,"Powiedz, dlaczego jesteÅ gotÃ³w podjÄÄ takie ryzyko dla nÄdznych ludzi?","So tell me, why would you be willing to risk your own existence for those miserable humans?","Tell me, why are you willing to take such a risk for poor people?",0.0
+642,"""Mistrzu, przyjrzyj siÄ uwaÅ¼nie, czy nie ukryÅa gdzieÅ proszku we wÅosach.""","""Master, look carefully, there might be witch powder hidden in the sorceress' hair.""","""Master, look closely to see if she has hidden any powder in her hair.""",0.0
+643,"Å»eby temu zapobiec, trzeba wprowadziÄ fundamentalne zmiany w ich rodzaju.","To prevent that from occurring, fundamental changes to their kind need to be made.","In order to prevent this, fundamental changes need to be made to their nature.",0.266
+644,"Jestem zachwycony, Å¼e poznaÅem takÄ wybitnÄ miejskÄ osobistoÅÄ.",I'm delighted to welcome a local dignitary into our midst.,I'm delighted to have met such an outstanding city personality.,0.0
+645,"Zapominasz Scott, Å¼e jesteÅmy w wulkanie!","You forget, Scott, we're in a volcano.","You forget, Scott, we're in a volcano!",1.0
+646,Ale moÅ¼emy to omÃ³wiÄ innym razem.,But we can discuss that another time.,But we can discuss that another time.,1.0
+647,BÄdzie pani miaÅa spokÃ³j i prywatnoÅÄ.,You'd have some privacy and a bit of peace and quiet.,You'll have peace and privacy.,0.0
+648,"Jam jest Daizen Kitamura, szambelan tego domu.","I'm Daizen Kitamura, chief retainer of this family.","I am Daizen Kitamura, chamberlain of this house.",0.0
+649,racja. Ta kobieta moÅ¼e coÅ wiedzieÄ.,"Oh yeah, maybe if it's that woman, then she'll know.",Right. This woman might know something.,0.0
+650,"A zresztÄ, co to za rÃ³Å¼nica?","Anyway, what difference does it make?","And anyway, what's the difference?",0.0
+651,"Jak dÅugo waluty Europejskie idÄ w dÃ³Å, bÄdziecie robiÄ wyÅÄcznie dolary.","""As long as the European currencies maintain their downward trend, you will make exclusively dollar bills!""","As long as European currencies go down, you will only make dollars.",0.0
+652,"Innymi sÅowy, wierzÄ, Å¼e stan umysÅu, z jakim ludzie powinni iÅÄ przez Å¼ycie, powinien byÄ podobny, do tej biwa. JesteÅ silny.",I believe the mental readiness with which we humans should live should be similar to that of this biwa.,"In other words, I believe that the state of mind with which people should go through life should be similar to this battle. You are strong.",0.134
+653,"Sprawy przechodziÅy ze zÅych w gorsze, ale udaÅo siÄ nam pozbieraÄ jak tylko znowu zaczÄÅem kÅaÅÄ laskÄ.","The last college I presided over, things were slightly different. I was flat on my back. Things kept going from bad to worse, but we all put our shoulders to the wheel, and it wasn't long before I was flat on my back again.","Things went from bad to worse, but we managed to pull ourselves together once I started walking again.",0.116
+654,Ten pÅaszcz oficerski pasuje jak ulaÅ.,- It might've been made for me. - An officer's coat.,This officer's coat fits like a glove.,0.0
+655,Sny? - Co masz na myÅli?,"- What do you mean ""dreams""?",Dreams? - What do you mean?,0.707
+656,"Panie i panowie, proszÄ. Te zwierzÄta sÄ wytresowane.",Ladies and gentlemen porfavor these animals are trained.,"Ladies and gentlemen, please. These animals are trained.",0.5
+657,Kiedy wpadnie mÃ³j brat doÅÄczÄ do niego.,"When my brother comes, I'll fetch him.","When my brother comes over, I'll talk to him.",0.342
+658,Twoja ukochana sama oÅwietliÅa ci drogÄ!,"Your sweetheart herself lights the way for you!""",Your beloved has lighted the way for you herself!,0.338
+659,Horace chce przez to powiedzieÄ Å¼e chciaÅby wyznaÄ caÅÄ prawdÄ.,What Horace means to say is... that he'd like to make a clean breast of the whole thing.,Horace means he wants to tell the whole truth.,0.0
+660,W rzeczy samej to bardzo przykra sytuacja!,"As a matter of fact, it's a big deal.","Indeed, it is a very unfortunate situation!",0.0
+661,"Nie, nigdy bym na to nie pozwoliÅ.","No, I never would have permitted that.","No, I would never allow that.",0.0
+662,Szycie butÃ³w rÃ³wnieÅ¼ nie jest najgorszym zajÄciem.,And there's worse things than cobbling too.,Sewing shoes is not the worst job either.,0.0
+663,CzujÄ ciÄ w Årodku. CzujÄ siÄ silniejszy niÅ¼ kiedykolwiek.,I can feel you inside of me.,I feel you inside. You feel stronger than ever.,0.0
+664,CaÅy mÃ³j wysiÅek zostaÅ nagrodzony policzkiem!,All my effort is rewarded with a slap!,All my efforts have been rewarded with a slap!,0.363
+665,"NadszedÅ wÅaÅciwy moment, aby wezwaÄ Astarota, strasznego ducha i zmusiÄ goby wyjawiÅ magiczne sÅowo.","The auspicious hour has come to summon the dread spirit Astaroth, and compel him to reveal the magic word.","Now is the right time to summon Astarot, the terrible spirit, and force him to reveal the magic word.",0.31
+666,"""Nic nie utrzymuje bardziej przy Å¼yciu niÅ¼ myÅli o Åmierci...","""Nothing keeps one awake more than thoughts of death...","""Nothing keeps you more alive than the thought of death...",0.0
+667,"PrzejÅcie do nastÄpnej sceny - rozmowy flory i Kempa whale uzyskaÅ dziÄki bocznemu ruchowi kamery, dziÄki ktÃ³remu przemieszczamy siÄ z jednego pokoju do drugiego.","It's necessary to get flora and Kemp to another area, via whale's use of the lateral camera move, which, as in the theatre, breaks away walls and leads us to another room.",The transition to the next scene - the conversation between Flora and Kempa Whale - is achieved by a lateral camera movement which moves us from one room to another.,0.0
+668,"ZauwaÅ¼my, jak przytomnie ta nieÅwiadoma kobieta trzyma siÄ ÅÃ³Å¼ka.",Notice how consciously this unconscious woman holds onto her bed.,Let's notice how self-consciously this unknowing woman is holding herself.,0.0
+669,"Ducha, ktÃ³ry spadÅ z trzy piÄtrowego budynku?",The ghost who died falling down from a three story building?,A ghost that fell from a three-story building?,0.0
+670,To wyglÄda na przyznanie siÄ do winy.,"I guess this changes the whole story, doesn't it? That looks like an admission of guilt.",It looks like a confession.,0.0
+671,"""Ty, twÃ³j czas siÄ koÅczy wpuÅÄ rezerwowego !""","""You've had enough time out, send in your substitute !""","""You, your time is up!""",0.0
+672,"Ale oni nie zasÅugujÄ na ucztÄ tak, jak ty.","They don't deserve a feast, much as you do.",But they don't deserve a feast like you do.,0.513
+673,OdpowiedÅº zabiorÄ ze sobÄ do grobu.,I will take it to the grave with me.,They will take the answer with them to the grave.,0.0
+674,"Ale czy to wystarczy, by zostawiÅ nas w spokoju?",But will he leave if you tell him that?,But is that enough to leave us alone?,0.0
+675,"Tom i Matt dopilnujÄ, Å¼eby od nas kupowali.",Tom and Matt here is the official signers and sealers.,Tom and Matt will make sure they buy from us.,0.0
+676,Musi byÄ w tym jakiÅ podstÄp.,There's a catch in this somewhere.,There must be an undertone to this.,0.0
+677,"UczyniÅ mnie pan bardzo szczÄÅliwÄ, Å¼e daÅ pan Neil'owi odpowiedzialnÄ pracÄ. Neil?",giving Neil a position in The States.,You've made me very happy that you've given Neil a responsible job. Neil?,0.0
+678,Nie szkodzi. I tak nie ma atramentu.,"That's all right, there's no ink in the pen.",That's okay. There's no ink anyway.,0.0
+679,nie jestem pewna... Å¼e jesteÅmy idealnymi bratnimi duszami.,"Well, I don't know... I told you we're perfect soul mates. Can't you tell?",I'm not sure... that we're perfect soul mates.,0.178
+680,- Lloyd wydaje imprezkÄ w Tate Hotel w Beverly Hills.,"Look, Vic, Lloyd throwing this function tonight at the Tate Hotel in Beverly Hills.",- Lloyd is throwing a party at the Tate Hotel in Beverly Hills.,0.46
+681,ChciaÅabym byÄ teraz w domu w ÅÃ³Å¼ku.,I wish I was back home in bed.,I'd like to be home in bed right now.,0.0
+682,"Doktorze, jakie ma pan plany wzglÄdem Powersa?","Dr Evil, what are our plans regarding Austin Powers?","Doctor, what are your plans for Powers?",0.0
+683,"MoÅ¼e pan juÅ¼ iÅÄ, panie Townsend?","Do you mind going now, Mr. Townsend?","Can you go now, Mr Townsend?",0.0
+684,"A co, znalazÅaÅ podkowÄ w metrze?",Did you find a horseshoe in the subway?,"What, did he find a horseshoe in the subway?",0.624
+685,Powodem przez ktÃ³ry nie czytam... ale tutaj.,"The reason why I can't read... The problem isn't here, but rather, the problem is over here.",The reason I don't read... but here.,0.0
+686,Wszyscy sztywni a nad nimi cicha poÅwiata.,"Wouldn't it be dramatic? Supposing the people inside were dead, all stretched out with the lights quietly burning about them. I'm sure it would be very amusing.",All stiff and above them a silent world.,0.0
+687,SÅodkie KrÃ³lestwo byÅo kiedyÅ takie maÅe i Åatwo siÄ nim rzÄdziÅo.,"The Candy Kingdom used to be so small, so manageable.",The Sweet Kingdom used to be so small and easy to rule.,0.44
+688,I David poczuÅ jego obecnoÅÄ dwa razy.,"And David appointed out of his presence twice. Twice, my friend.",And David felt his presence twice.,0.0
+689,MoÅ¼e sklepy sÄ jeszcze otwarte. Kupimy ci jakieÅ ciuchy.,"If the shops are still open, I can get clothes for you.",Maybe the stores are still open. We'll get you some clothes.,0.0
+690,- Ten chlew na Diadem Court?,- That pigsty of yours in Diadem Court.,- That pigsty on Diadem Court?,0.0
+691,Na nastÄpnym przystanku kup coÅ do jedzenia.,"The next time we come to, you buy some food.",Get something to eat at the next stop.,0.0
+692,"- MoÅ¼esz mi go przynieÅÄ, jak siÄ czymÅ wypeÅni.",- Bring it back to me when it's filled.,- You can bring it to me when it's filled with something.,0.409
+693,"PosÅuchaj mnie, sÅodka Lily, nie mogÄ chodziÄ bez spodni.","Now listen, Lily ""Bellichka""... I can't keep goin' around without pants.","Listen to me, sweet Lily, they can't go without pants.",0.0
+694,Beddini nie chce widzieÄ ciÄ nieszczÄÅliwÄ.,Beddini does not like to see you so sad.,Beddini doesn't want to see you unhappy.,0.0
+695,- Ja nie bÄdÄ pisaÄ wcale.,- I won't write at all.,- I won't write at all.,1.0
+696,"Pewnie myÅlisz, Å¼e powinienem iÅÄ w twoje Ålady?","I suppose you think I ought to go, too.",You probably think I should follow in your footsteps?,0.0
+697,- Nie moÅ¼emy tu siedzieÄ caÅÄ noc.,We are not going to sit up all night.,- We can't sit here all night.,0.0
+698,ZdziwiÅby siÄ pan ile zÅoÅci moÅ¼na siÄ pozbyÄ... rzeÅºbiÄc w takim kawaÅku drewna.,You'd be surprised the genuine rage you can work off... just by carving a little piece of wood.,You'd be amazed how much of the beauty you can get rid of... by carving a piece of wood like this.,0.0
+699,"Brak pieniÄdzy i zwierzÄt domowych powoduje, Å¼e Hurdanos nie majÄ ÅºrÃ³deÅ pozyskiwania nawozu.",With no money or domestic animals .the Hurdanos have no fertiliser.,"Due to a lack of money and pets, the Hurdanos have no means of acquiring manure.",0.157
+700,"CÃ³Å¼, 7 i 8 brzmiÄ podobnie.","Well, 7:00 and 8:00 sound kind of alike.","Well, 7 and 8 sound alike.",0.0
+701,"Ja nie widzÄ, a ty nie moÅ¼esz mÃ³wiÄ.",I cannot see and you cannot speak.,"I can't see, and you can't talk.",0.0
+702,JadÅo na Sabacie czÄsto byÅo przygotowywane ze zwÅok ÅciÄgniÄtych z szubienic.,The Sabbath food was often prepared from corpses from the gallows.,The food on Sabbath was often prepared from corpses cut from gallows.,0.381
+703,"Wykorzystujesz go jako psychicznego przewodnika? Wiem, co robiÄ.",You're using him as some sort of a psychic tour guide?,Are you using him as a psychic guide? I know what I'm doing.,0.0
+704,"JeÅli jesteÅ w tym taka dobra, to zaÅÃ³Å¼ jej piÅ¼amÄ.","If you're so good at this, you get her into pajamas.","If she's so good at it, then I'll take her beer.",0.0
+705,To mu dobrze zrobi. Ale twarz ma ciÄgle tÄ samÄ.,A lot of good that'll do him.,It'll do him good. But his face is still the same.,0.0
+706,"JeÅli chcecie zagraÄ w brydÅ¼a, nie przejmujcie siÄ mnÄ.","If you four people want to play bridge, don't mind me, go right ahead.","If you want to play bridge, don't mind me.",0.479
+707,"NacisnÄÄ przycisk, nastÄpnie czekaÄ na przybycie straÅ¼akÃ³w.",The Owl sees by day as well.,Press the button and then wait for the firemen to arrive.,0.0
+708,"Nie pokazaÅ nam pan, Å¼e ta Å¼mija jest jadowita.",You have not shown us that the snake was poisonous.,You didn't show us that this viper is venomous.,0.0
+709,"DokÅadnie, ponoÄ twÃ³j brat kaÅ¼dej nocy odwiedza moje piÄterko.","Exactly, I've heard your brother comes every night to my upstairs;","Exactly, because your brother visits my bedroom every night.",0.0
+710,Jak on mÃ³gÅby pracowaÄ z kimÅ innym?,How could he hire anyone else?,How could he work with someone else?,0.0
+711,ByÅa wiosna w Niemczech i byÅeÅ na spacerze.,It was springtime in Germany and you were out on a walking trip.,It was spring in Germany and he was on a walk.,0.0
+712,"I zostaje mi jeszcze trochÄ, by troszczyÄ siÄ o ciebie.",And with some left over to take care of you.,And I have a little left over to take care of you.,0.541
+713,"Kiedy wrÃ³ci do domu, do wszystkiego siÄ przyzna.","- Ha, ha, ha. - That's more than that blimp of yours will do. Just wait 'til I get back home and I'll show youwho the truthful one is.","When he gets home, he'll confess to everything.",0.0
+714,"Nie wiem jeszcze, jak opÅaciÄ czynsz. MoÅ¼e sprzedam mikroskop.",I haven't yet figured out a way of paying the rent... unless I part with the microscope.,I don't know how to pay the rent yet. I might sell the microscope.,0.0
+715,"- Nie przyszedÅem tu, by byÄ obraÅ¼any!",I did not come here to be insulted!,- I didn't come here to be insulted!,0.541
+716,To jest bardzo paskudny szczep MRSA bakterie gronkowca.,This happens to be a very nasty strain of MRSA... A staph bacterium.,This is a very nasty strain of MRSA staph bacteria.,0.409
+717,Oto jest! Najstarszy syn morza i dziedzic oceanu.,The elder son of the sea and heir to all its oceans.,Here he is! The eldest son of the sea and heir to the ocean.,0.451
+718,"Tego Å¼aÅujÄ, ale nie przejÄcia statku. Za kaÅ¼dym razem, kiedy myÅlÄ o kapitanie Blighu, zrobiÅbym to jeszcze raz.",I regret that but not the taking of the ship.,"That's what they want, but not to take over the ship. Every time I think of Captain Bligh, I'd do it again.",0.0
+719,Heinrich wykonaÅ swe ostatnie zadanie i zakoÅczyÅ misjÄ.,Heinrich accomplished his final task and completed the mission.,Heinrich has completed his final task and completed the mission.,0.672
+720,"- SÅyszaÅem Å¼e jest w nim Jayne Mansfield. - No, widziaÅem jÄ.",I listened what They say one he feels.,"- I heard Jayne Mansfield was in it. - Yeah, I saw her.",0.0
+721,Powinienem zostawiÄ go na jego wyspie.,I wish I'd left him on his island.,I should have left him on his island.,0.541
+722,"Czy oni sÄ tacy fajni, bo sÄ bogaci?",Are they great because they are rich?,Are they so cool because they're rich?,0.0
+723,"CÃ³Å¼, rok temu byÅ sam w Europie.","Well, he was alone on the Continent last year.","Well, he was in Europe a year ago.",0.0
+724,"UwaÅ¼asz, Å¼e jest Bogiem na ziemi?",So you think he's God on Earth?,Do you think he is God on earth?,0.0
+725,ByÅy koleÅ¼ankami z Åawki w ParyÅ¼u.,They were schoolfellows in the convent in Paris.,They were friends from a bench in Paris.,0.0
+726,Nasze spotkania sÄ tak krÃ³tkie. Taniec rÃ³wnieÅ¼.,"Our meetings are so brief, the dance also.",Our meetings are so short. Dancing too.,0.346
+727,"To mnie strasznie mÄczy. Nie bÄdziesz miaÅ Å¼alu, Å¼e przestanÄ ?","""I'm awfully tired of this -- would you mind very much if I stop?""",It's really bothering me. You won't mind if they stop?,0.0
+728,"Umrzesz w mÄczarniach, jeÅli przez ciebie poleje siÄ niewinna krew.",You will die in torment if you die with innocent blood on your soul.,You will die in the blackhouses if innocent blood is spilled because of you.,0.227
+729,"To nie jest miejsce dla damy!""","That's no place to take a lady!""","This is no place for a lady!""",0.0
+730,"Franco wszedÅ do Årodka, Å¼eby mu pomÃ³c, ale Sully zÅapaÅ go w ostatniej chwili... i wyciÄgnÄÅ go z powrotem.","Franco goes in to help him, but Sully grabs him at the last moment... and pulls him back out.","Franco went inside to help him, but Sully caught him at the last minute... and pulled him back.",0.36
+731,"- CaÅy czas mÃ³wiÄ do ciebie ""cukiereczku"". - Wiem.",I Call You Sweet All The Time.,"- I call you ""sweetie"" all the time. - I know.",0.0
+732,"Lizzy, co do Toma... Nie chcÄ o nim z tobÄ rozmawiaÄ.",I don't want to talk about Tom with you.,"Lizzy, about Tom... I don't want to talk to you about him.",0.38
+733,* Bo idÄ poprzez gÃ³ry z bandÅ¼o na kolanie,'Cause I'm coming 'round the mountain with a banjo on my knee,* 'Cause they go through games with a band-aid on their knee,0.0
+734,"Tak, cÃ³Å¼, chciaÅbym, Å¼eby to coÅ zmieniaÅo.","Yeah, well, I wish that could change.","Yeah, well, I wish it would change something.",0.377
+735,"""Teraz, mÅoda panno, weÅº porcjÄ kaÅu kota i serca goÅÄbicy, gotuj to w Åwietle ksiÄÅ¼yca.""","""Here, young maiden, take a potion of cat feces and dove hearts, boiled in the moonlight.""","""Now, young maiden, take a portion of every cat and the heart of a dove, cook it in the light of the moon.""",0.134
+736,Czy macie jeszcze jakieÅ pytania do Åwiadka?,Have you any more questions to ask the witness?,Do you have any more questions for the witness?,0.0
+737,"NiewaÅ¼ne jak, ale sprowadzÄ go z powrotem.","No matter what happens, I'll bring him back.","No matter how, but bring him back.",0.0
+738,"600 pokojÃ³w, a ty Åpisz w recepcji. - DzieÅ dobry.",600 rooms in the hotel and you have to sleep here.,"600 rooms, and you're sleeping at the front desk. - Good morning.",0.0
+739,Mam ci naÅoÅ¼yÄ lejce jak konikowi?,"Do you want me to put reins on you, like a pony?",You want me to put the reins on you like a horse?,0.634
+740,ktÃ³re siÄ jeszcze nie narodziÅo ktÃ³re musi to wszystko zawieraÄ tak sÄdzÄ.,"The heart that hasn't been born yet, and the heart that has already left as well, a person's heart that has to embrace all these is the most difficult, I think.","that hasn't been born yet that has to contain all this, so I think.",0.169
+741,"Nie mogÄ siÄ pokazaÄ ludziom, bÄdÄc uwaÅ¼anym za zÅodzieja.",The eight hour work day is completely illegal and does not depend upon the administration.,They can't show themselves to people by being considered a thief.,0.0
+742,"Na tej gÃ³rze mieszkaÅa peÅna mocy magicznej, najwiÄksza przeciwniczka czarownika:",In this mountain dwelt the Sorcerer's greatest enemy: the Fire Mountain Witch.,"On this mountain lived the full magical power, the greatest enemy of the sorcerer:",0.0
+743,"Nie udawaj, Å¼e ich nie masz Ty wiesz lepiej?","-Come on, Sheldrake, ... No use pretending you left them behind --You know it damn well,don't you?",Don't pretend you don't have them. You know better?,0.0
+744,/A potem dotarÅa do tych ruin...,"And she made her way to where, to this ruin?",/And then she came to these ruins...,0.0
+745,-BÄdzie to miÅa niespodzianka dla Peter'a?,- Won't that be a nice surprise for Peter?,-Will this be a nice surprise for Peter? -Yes.,0.6
+746,"PowiedziaÅem bez jedzenia i wody, pÃ³ki nie rozkaÅ¼Ä.",I said he was to have no food nor drink till I ordered.,"I said no food and no water, no order.",0.0
+747,"MoÅ¼e jak ci siÄ juÅ¼ we Åbie rozjaÅni... To zapoznasz siÄ z tutejszym, obowiÄzkowym programem.",Maybe if you'd have just lightened up... you might have gotten with the program around here.,Maybe when you get a bit more clearheaded... ...then you can check out the mandatory program here.,0.0
+748,ja pomogÄ ci rozszerzyÄ dziaÅalnoÅÄ Kingdom na Shanghai Å¼ebyÅ mÃ³gÅ polecieÄ.,"If you help me, I will help you expand Kingdom's business in Shanghai by providing you with Sejin's support. I will give you the wings so that you can fly.",I'll help you expand Kingdom operations to Shanghai so you can fly.,0.0
+749,Czy mogÄ panu zaoferowaÄ jakieÅ szelki?,May I offer you something? Some suspenders?,Can I offer you some suspenders?,0.0
+750,"- CieszÄ siÄ, Å¼e jest inaczej!","- Oh, I'm so glad you didn't.",- Glad to hear it's different!,0.0
+751,"Wiem, co moÅ¼e ci zrobiÄ miÅoÅÄ. _BAR_",I know what love can get you into.,I know what love can do to you. _BAR_,0.478
+752,"""ByÅy szef gangu mdleje na szafocie.","""Former gang chief faints on scaffold.","""Former gang leader faints at the gallows.",0.0
+753,"Tam mieszka mÃ³j wujek Dallas, Teksas. [dollars/Dallas]","That's where my uncle lives, Dallas, Texas!","That's where my uncle Dallas, Texas lives. [dollars/Dallas]",0.44
+754,"Kapitanie Bligh, niech pan nas wyciÄgnie!",Captain Bligh! Let us out of here!,"Captain Bligh, get us out!",0.0
+755,"Oto skarb, ktÃ³ry znalazÅem na plaÅ¼y.",Here's a treasure I found on the beach.,Here's a treasure I found on the beach.,1.0
+756,"Sukinsyn, ktÃ³ry zabraÅ Ivana, wleciaÅ do parku stanowego!",[Jet] The bastard who took Iva n just flew into the state park to the north.,The son of a bitch who took Ivan flew into a state park!,0.0
+757,JuÅ¼ nigdy nie pokocham innego mÄÅ¼czyzny.,"You know, I will never love another man. Yes, that's true.",I will never love another man again.,0.462
+758,Wkroczymy do Bagdadu jako konkurenci do rÄki KsiÄÅ¼niczki.,We shall enter Bagdad as a suitor.,We will enter Baghdad as competitors for the hand of the Princess.,0.0
+759,To nie bÄdzie duÅ¼o gorsze niÅ¼ odsiadka z tobÄ.,It's no worse than serving out my time with you.,It won't be much worse than serving time with you.,0.0
+760,"ZaprosiÅbym ciÄ, ale straszny mam tu syf.","I'd invite you in, but it's a mess.","I'd invite you in, but this place is a mess.",0.463
+761,"PostanowiÅ zatrudniÄ ciÄ, jako instruktora walki mieczem.",I haven't gotten any news about him since Sagarimatsu.,He decided to hire you as a sword fighting instructor.,0.0
+762,Nie tu. Gdzie w St Moritz jest Brytyjski konsulat?,"Listen, i-is he here in St Moritz?",Not here. Where in St Moritz is the British consulate?,0.0
+763,To takie formalne w tych dziwnych okolicznoÅciach.,This seems so formal under these peculiar circumstances.,It's so formal in these strange circumstances.,0.0
+764,Å¼e nie bÄdziesz w stanie oddychaÄ.,You should only touch me when absolutely necessary. Calculate well.,you won't be able to breathe.,0.0
+765,"NajwyraÅºniej rozerwaÅo jelenia, gdy staÅ w tym miejscu.","I mean, it, obviously, it ripped the deer while it was standing here.","Apparently, the deer got torn apart while he was standing there.",0.0
+766,"ChciaÅbym, Å¼eby to byÅo dobrze zrozumiane!",I want this understood once and for all!,I want this to be understood!,0.0
+767,To twÃ³j pokÃ³j a to mÃ³j.,This is your room. This is mine.,This is your room and this is mine.,0.515
+768,"O, Frieda, kochanie, moje oczy widzÄ tylko jednÄ kobietÄ kobietÄ, ktÃ³rÄ poprosiÅem o rÄkÄ.","Frieda, my dear... I have eyes for only one woman... the woman I asked to be my wife.","Oh, Frieda, darling, my eyes only see one woman, the woman I asked for your hand.",0.308
+769,GERMAN FILM LIBRARY MUSEUM OF FILM AND TV,GERMAN FILM LIBRARY MUSEUM OF FILM AND TV,GERMAN FILM LIBRARY MUSEUM OF FILM AND TV,1.0
+770,"Hej, ten, kto ich zabije, dostanie ten dÅugi miecz!",I'll gives 'em dat long sword!,"Hey, whoever kills them gets the long sword!",0.0
+771,"Tato, Iguana moÅ¼e przebywaÄ pod wodÄ przez 28 minut. - Co takiego? - Tlen utrzymuje siÄ w gÅowie.","Pope, we have been looking the water for 45 minutes.","Dad, an Iguana can stay underwater for 28 minutes. - What's that? - The oxygen stays in the head.",0.0
+772,"WkÅadajÄ Å¼ony i dom do jednej przegrÃ³dki, a te inne kobiety do drugiej.",They put their wives and homes in one compartment and these other women into another.,They put the wife and the house in one compartment and those other women in another.,0.22
+773,"Tak, ale nie nazywaÅaÅ siÄ wtedy Dale Tremont.","Yes, but you weren't calling yourself Dale Tremont.","Yeah, but his name wasn't Dale Tremont then.",0.0
+774,"SÅuchaj, przeszÅy Austinie... moÅ¼esz siÄ zajÄÄ ocalaniem Åwiata podczas kiedy ja zajmÄ siÄ Felicity?","Listen, past Austin... can you save the world while I go get the girl?","Listen, past Austin... can you go save the world while I take care of Felicity?",0.507
+775,"Nie, ja naprawdÄ nie mam z tym nic wspÃ³lnego.","No, really, Mr. Charles, I had nothing to do with this.","No, I really have nothing to do with that.",0.27
+776,"Tato, moÅ¼emy to zrobiÄ, ale bÄdziemy potrzebowaÄ pomocy.",If we will make this we will need help.,"Dad, we can do this, but we're gonna need help.",0.0
+777,DziÄkujÄ bardzo za podarowanie nam tego jedzenia.,Thank you for giving away these crop.,Thank you so much for giving us this food.,0.0
+778,"""ZrobiÅoby mi siÄ lepiej gdybym mÃ³gÅ strzeliÄ maÅego drinka. ""","""I'd be all right if I could only get a little drink. ""","""It would make me feel better if I could have a little drink. """,0.0
+779,"PrzyjrzeÄ siÄ kobiecie, ktÃ³ra zÅamaÅa serce mojemu przyjacielowi.",I wanted to take a good look at the woman who broke the heart of my best friend.,I'll take a look at the woman who broke my friend's heart.,0.315
+780,SprÃ³bujÄ dostaÄ siÄ do tamtego miejsca.,I'm going to try and get into this place.,Try to get to that place.,0.0
+781,"Niemy film ""Janosik"" nakrÄcono w dwÃ³ch wersjach.",The silent film Jánošík was produced in two versions.,"The silent film ""Janosik"" was made in two versions.",0.0
+782,Nigdy nie lubiÅem siedzieÄ na gazetach.,I never did like the idea of sitting on newspapers.,I never liked sitting on newspapers.,0.0
+783,"Siegfriedzie, synu KrÃ³la Siegmunda, witam ciÄ serdecznie!","Siegfried, son of King Siegmund, has my welcome!","Siegfried, son of King Siegmund, I greet you warmly!",0.456
+784,- CaÅowaÅaÅ siÄ kiedyÅ z chÅopakiem?,"I gave the truth now. ¿You have kissed sometimes To a boy? Not, but you if.",- Did you ever have sex with your boyfriend?,0.0
+785,"Jest siÄ przez nie na haju, ale nie dziaÅajÄ.","They get you high, but they don't... work.","They get you high, but they don't work.",1.0
+786,ZemÅcimy siÄ na tych krwioÅ¼erczych wampirach!,Lying before you is the body of the brutally killed sailor Grigory Vakulinchuk... killed by a senior officer of the squadron battleship Prince Tavrichesky. Let's take revenge on the bloodthirsty vampires!,We will take revenge on those bloodthirsty vampires!,0.0
+787,W naszej rodzinie nie bÄdziemy juÅ¼ przepraszaÄ.,Nobody in our family ever apologises again.,"In our family, we will no longer apologize.",0.0
+788,"A teraz, kochany, myÅlÄ, Å¼e powinnam wrÃ³ciÄ.","And now, dear, I think I ought to go back.","And now, dear, they think I should come back.",0.0
+789,- kiedy jestem oskarÅ¼ony o morderstwo.,- with a murder charge hanging over me.,- when I'm accused of murder.,0.0
+790,nie przypraw o zawaÅ naszego Joong Wong.,"So, stop with all that needless talk of leaving just to make things harder for my Joong Won right now.",don't give our Joong Wong a heart attack.,0.0
+791,"MoÅ¼e pan iÅÄ, jak pan chce.",Go phone if you want to.,You can go as you please.,0.0
+792,"Takie, ktÃ³re zabrania broni tak samo jak narkotykÃ³w i biaÅego niewolnictwa.",A law that puts the gun in the same class as drugs and white slavery.,One that prohibits guns as much as drugs and white slavery.,0.257
+793,Ja... czujÄ duszÄ twojego syna... jest tutaj. Å¼e bÄdzie w stanie spoczywaÄ w pokoju. bÄdziesz w stanie spoczywaÄ w pokoju?,"I can feel that Ji Woo's soul is near. If we can find a suitable match for him, he can leave peacefully. Ji Woo.",I... feel your son's soul... is here. He'll be able to rest in peace. Will you be able to rest in peace?,0.0
+794,"M.D., A.D, D.D.S, F.L.D, F.F.F and F, mam coÅ obchodziÄ? ! Zabierajcie to coÅ z mojej drogi!","M.D., A.D, D.D.S, F.L.D, F.F.F and F, should walk around?","M.D., A.D, D.D.S, F.L.D, F.F.F and F, do I care? ! Get that thing out of my way!",0.317
+795,Ojciec Merlyn uderzyÅ jÄ w gÅowÄ ÅopatÄ i to jÄ zabiÅo.,Merlyn's father hit her in the head with a shovel and she died.,Merlyn's father hit her in the head with a shovel and it killed her.,0.763
+796,"To coÅ w rodzaju tego, co czujesz do mnie.",It's kind of the way you feel about me.,It's something like how you feel about me.,0.316
+797,"JeÅli pan chce, pokaÅ¼Ä panu trzy.","If you wish, Monsieur Dupin, I will show you three.","If you want, I'll show you three.",0.0
+798,"PowiedziaÅem jedynie do niej ""kochanie"", a ona mnie uderzyÅa.",All I said was darling and she smacked me.,"I just said ""honey"" to her, and she hit me.",0.0
+799,Masz wspaniaÅy dom i wspaniaÅÄ matkÄ.,"And you got a great home here, and you got a wonderful mother.",You have a wonderful home and a wonderful mother.,0.0
+800,"""Bawi siÄ z dziewczynÄ jak kot z myszÄ","""Now he'd play with a miss like a cat with a mouse","""He plays with the girl like a cat with a mouse",0.434
+801,I proszÄ: miej go w swojej opiece!,I'll ask you to take care of him.,And please: keep him in your care!,0.0
+802,"Ma pani uroczy uÅmiech, powinna go pani czÄÅciej uÅ¼ywaÄ.","You know, you have a lovely smile. You should use it more often.","You have a lovely smile, you should use it more often.",0.824
+803,WiÄkszoÅÄ wsi tego regionu nie ma cmentarzy.,Most villages don't have a cemetery.,Most of the villages in this region do not have cemeteries.,0.0
+804,"GorÄce, gorÄce, gorÄce... Prosto z prasy. To taki Å¼art.","This hot one, presses hot it is a joke.","Hot, hot, hot... Straight from the press. It's a joke.",0.0
+805,"JeÅli wierzyÄ opublikowanym planom, nie naruszajÄc rdzenia stacji, a odÅÄczajÄc jedynie zbÄdne moduÅy, moÅ¼emy zwiÄkszyÄ jej szybkoÅÄ tak, by osiÄgnÄÅa prÄdkoÅÄ ucieczki.","[Gilmore] All right. If we can believe the public blueprints, by leaving the station's core intact, uncoupling and releasing all unnecessary modules, we can boost the thrust to maximum levels, attaining escape velocity.","If we believe the published plans, without disturbing the core of the station, but only detaching the superfluous modules, we can increase its speed to escape velocity.",0.0
+806,Gazeta mogÅaby zwrÃ³ciÄ opiniÄ publicznÄ przeciwko gangsterom.,Your paper could be an influence against gangsters.,The newspaper could turn public opinion against the gangsters.,0.0
+807,Dopiero uczÄ siÄ o tych rzeczach.,"You know, I'm still learning about this stuff and, uh-",They're just learning about these things.,0.0
+808,"Nie dbam o to co mÃ³wi prawo, ani nikt inny.",I don't care what the law says.,"I don't care what the law says, or anyone else.",0.651
+809,"Antonio Zanzi'ego i mÃ³j cygaÅski cyrk a teraz, najlepszy z najlepszych!","""...and now, the sensation of sensations!","Antonio Zanzi's and my cigar circus and now, the best of the best!",0.0
+810,ChciaÅam zamÃ³wiÄ wodÄ z lodem. Tak.,Send up some ice water right away.,I wanted to order ice water. Yes.,0.0
+811,"Ona nie traktowaÅa ciÄ z szacunkiem, a ja bardzo szybko zrozumiaÅam, co do ciebie czujÄ.",Because if she hadn't treated you so abominably it wouldn't have taken you so long to understand how I feel.,"She didn't treat you with respect, and I realized very quickly how she felt about you.",0.0
+812,Nasz Pan jest taki oziÄbÅy i niemiÅy nawet dla narzeczonej!,"Our Master is so cold and rude, even to his fiancé!",Our Lord is so mean and unkind even to his fiancée!,0.0
+813,Co dobrego mÃ³gÅ mu daÄ ten stary talizman?,What good could that old charm have done him?,What good would this old talisman do him?,0.0
+814,"NapisaÅ go przed chwilÄ. Wczoraj napisaÅ jeszcze jeden, zanim skradziono naszyjnik.","He wrote it just now, but he wrote another yesterday when a necklace was stolen.",He wrote it a while ago. He wrote another one yesterday before the necklace was stolen.,0.0
+815,"- Stawiam 100 do 50, Å¼e to nie on.",- $50 will get you $100 that he didn't do it.,- I'll bet you 100-50 it's not him.,0.0
+816,W hazardzie nikt nie wyglÄda na ÅwiÄtego!,"""When gambling, nobody looks like a saint!""","In gambling, no one looks like a saint!",0.377
+817,- BÄdziesz teÅ¼ miÅa dla Olivera?,- Are you going to be nice to Oliver too?,- Will you be nice to Oliver too?,0.467
+818,WrÃ³ci pani rano... i bÄdziemy kontynuowaÄ pisanie przed naradÄ.,You come back in the morning... and we will go on with the dictation before the conference.,You'll be back in the morning... and we'll continue writing before the meeting.,0.246
+819,"ZapomniaÅaÅ, Å¼e to mnie zawdziÄczasz ten debiut?",Have you forgotten that it was I... who brought about your debut in America?,Have you forgotten that you owe me this debut?,0.188
+820,"BÅagaÅem go z caÅych siÅ, by pozwoliÅ mi nadal uczyÄ walki wÅÃ³czniÄ w Hozoin.",Yeah. Then I earnestly begged him to allow me continue teaching the spear at Hōzōin.,I begged him with all my might to allow me to continue to teach the battle in Hozoin.,0.0
+821,"Wybaczcie, ale jestem zmuszony zastosowaÄ niezwykÅe Årodki ostroÅ¼noÅci.","Forgive me, but I'm forced to take unusual precautions.","Forgive me, but I'm forced to take extraordinary precautions.",0.751
+822,SpÄdziÅem osiem miesiÄcy w oddziale dla skazaÅcÃ³w.,I spent eight months in that condemned row.,I spent eight months in the contamination ward.,0.517
+823,"Sensei, jesteÅ samurajem, jak mÃ³j zmarÅy ojciec, prawda?",So why don't you carry a sword?,"Sensei, you're a samurai like my late father, right?",0.0
+824,JeÅli ta pan mÅoda Å¼oneczka potrzebuje kobiecego szczÄÅcia...,If that nice young wife of yours needs any help with lady luck... don't be too proud to ask.,If this young lady needs female happiness...,0.0
+825,"I wÅaÅciciele teatru, i ludzie, ktÃ³rzy wyÅoÅ¼yli pieniÄdze na reklamÄ, i...","And the theater owners, and the men who put money in advanced publicity, and...","And the theater owners, and the people who put the money into advertising, and...",0.416
+826,kiedy ciaÅo Lee Su Rim zostaÅo odkryte.,The day he found Lee Seo Rim's lost body.,when Lee Su Rim's body was discovered.,0.0
+827,"Jeszcze tydzieÅ, i bÄdziemy pana braÄ za Anglika.","Another week, and we won't know you from an Englishman.","Another week, and we'll take you for an Englishman.",0.0
+828,"W zeszÅym miesiÂ±cu, Brigitte Borchert sprzedaÅ 150 egzemplarzy tego zapisu W maÅej cukierni","Last month, Brigitte Borchert sold 150 copies of the record In a small pastry shop","Last month, Brigitte Borchert sold 150 copies of this entry In a small cake shop",0.583
+829,"Nie myÅlaÅam, Å¼e jeszcze tu bÄdziesz.",I didn't think you'd still be here.,I didn't think you'd still be here.,1.0
+830,To dlatego pana szukajÄ nasi przyjaciele.,Why our friends outside are looking for you.,That's why our friends are looking for you.,0.5
+831,"Dlaczego robisz panie to wszystko, dla kogoÅ takiego, jak ja?",But if you forced the question onto me... in a word...,Why are you doing all this for someone like me?,0.0
+832,"Ciesz siÄ wczesnymi dniami swojego zwiÄzku, kochanie.","Cherish these early days of your relationship, honey.","Enjoy the early days of your relationship, darling.",0.517
+833,Nie podoba mi siÄ taki styl.,"I don't like this kind of style,",I don't like that style.,0.0
+834,Kopalnia Henrietta - to najwiÄksze przedsiÄwziÄcie z jakim miaÅem do czynienia.,"""The Henrietta mine -- she's the all-fired biggest proposition I ever seen.""",The Henrietta Mine is the biggest project I've ever been involved with.,0.0
+835,- To nie wrÃ³Å¼y nic dobrego.,- That Sam Vettori's a no-good lug.,- It does no good.,0.0
+836,Ale nigdy siÄ tego nie dowiesz.,Even if you don't...there's no way you can prove it otherwise. Whatever the case...,But you'll never know.,0.0
+837,"JeÅli kiedykolwiek bÄdziesz w Hiszpanii, serdecznie CiÄ ugoszczÄ.","If you are ever in Spain, I'll return the hospitality.","If you are ever in Spain, you will be warmly welcomed.",0.468
+838,- A moÅ¼e zbierzemy caÅÄ energiÄ...,- Shall we be really energetic...,- How about we gather all the energy...,0.0
+839,MuszÄ dopaÅÄ Joego Heltona. Nie moÅ¼e mi siÄ wymknÄÄ.,"I'm after Joe Helton, I tell you, and he can't get away from me on this boat.",I have to get Joe Helton. He can't get away from me.,0.326
+840,"Dobrze, Å¼e ci siÄ udaÅo uciec.","Well, I'm glad you got away.",Good thing you got away.,0.0
+841,Jest w tym samym wieku co Ji Woo.,She's the same age as Ji Woo.,He's the same age as Ji Woo.,0.809
+842,Przed piÄcioma laty wracaÅem z urlopu we Francji.,I was returning from a holiday in France about five years ago.,"Five years ago, I came back from a holiday in France.",0.437
+843,czego oczekiwaÅa wiÄc wydaje siÄ trochÄ rozczarowana.,Ms. Tae seems disappointed since it wasn't what she expected.,"what she was expecting, so she seems a little disappointed.",0.0
+844,"Zamkniemy klinikÄ pÃ³Å godziny wczeÅniej, mamy tylko kilka pacjentek.",We could finish morning surgery half an hour early -- we've very few appointments in the book.,"We'll close the clinic an hour early, we only have a few patients.",0.0
+845,"- Nie, ja gram tylko z nim w parze.","- No, I only play if he's my partner.","- No, I just play along with him.",0.0
+846,WÅaÅciwie to nie mam pojÄcia o kim on mÃ³wiÅ.,I don't know what he was talking about.,I actually have no idea who he was talking about.,0.285
+847,"Wiem wszystko, co robisz i o czym myÅlisz!",I know everything you do and everything you think!,I know everything you do and think about!,0.61
+848,Ma wstrzÄÅnienie mÃ³zgu i zÅamanÄ koÅÄ udowÄ.,He has concussion and a fractured femur.,He has a concussion and a broken femur.,0.0
+849,"- I stÄd wiem, Å¼e to nie byÅ duch.",- That's why I know it was no ghost.,- And I know it wasn't a ghost.,0.0
+850,"SÄdzÄ, Å¼e po prostu nie podlizujÄ siÄ szeryfom.",My guess is they just don't cotton to their sheriffs.,They think they're just not sucking up to the sheriffs.,0.0
+851,"Ani ja, ani ty... Nawet twoi ukochani rodzice. Niech spoczywajÄ w pokoju.","Not you, not me... not even your beloved parents, may they rest in peace.","Not me, not you... Not even your beloved parents. May they rest in peace.",0.853
+852,"Znam rÃ³Å¼nych parszywych typÃ³w, lecz stajÄ siÄ lepsi, kiedy widzÄ bawiÄce siÄ dzieci.",I know a lot of toughs who get all teary-eyed just seein' the little ones at play.,"I know some scummy types, but they get better when they see kids playing.",0.0
+853,* WiÄc wszyscy razem * Lojalne damy i patriotyczni panowie,All you loyal ladies and you patriotic men,# So all together # # Loyal ladies and patriotic gentlemen #,0.0
+854,"Zrozumcie jednak, Å¼e w tej chwili jesteÅcie wyÅÄcznie podejrzanymi.","That said, understand that at this moment, you're no more than suspects to us.",But understand that at this point you are only suspects.,0.188
+855,"JeÅli pozwolisz jej, pocieszaÄ mnie przez ten czas jaki mi pozostaÅ.","If she will comfort me for the time I have left,",If you let her comfort me for the time I have left.,0.638
+856,- Nie prÃ³bowaÅaÅ chociaÅ¼ tego rozwiÄzaÄ?,- Did you even tried to figure it out?,- Didn't he at least try that solution?,0.0
+857,"Pan Stoddard odkryÅ, kto byÅ odpowiedzialny za otrucia.",Mr. Stoddard discovered who was responsible for the poisonings.,Mr. Stoddard discovered who was responsible for the poisonings.,1.0
+858,"Dwa dni wiÄcej znaczÄ tyle co tydzieÅ, chÅopcze.","Ah, two more days makes a week, kid.","Two more days means as much as a week, boy.",0.0
+859,KtoÅ musiaÅ wÅoÅ¼yÄ mi je do teczki.,Someone must have hidden them there.,Someone must have put them in my briefcase.,0.0
+860,BÄdziecie musieli tu przespaÄ jeszcze trochÄ czasu.,There you can still sleep for a long time.,You're going to have to spend some more time here.,0.0
+861,Moja cÃ³rka ostrzegÅa mnie o tym.,My daughter warned me about it.,My daughter warned me about this.,0.76
+862,Musisz byÄ stanowczy dla swojej cÃ³rki.,You need to stand up to your daughter.,You have to be firm with your daughter.,0.0
+863,"JesteÅmy tu, poniewaÅ¼ mam dla was waÅ¼nÄ wiadomoÅÄ.",We're here because I have some very important news.,We are here because I have an important message for you.,0.253
+864,"Jako specjalnÄ atrakcjÄ tego wystÄpu, chciaÅbym wam przedstawiÄ czÅowieka, ktÃ³ry jest znany wam wszystkim z pedagogicznych osiÄgniÄÄ w miejscowym gimnazjum.",As a special part of our performance it is my pleasure to introduce to you a man you all know for his long and remarkable pedagogical achievements... pedagogical achievements at the local college.,"As a special highlight of this show, I would like to introduce you to a man who is known to all of you for his teaching accomplishments at the local junior high school.",0.0
+865,"IdÅº natychmiast do La Carozz'y i weÅº od niej listÄ podziemnych klubÃ³w, a ja bÄdÄ je odwiedzaÅ kaÅ¼dego popoÅudnia.","""Please go at once to La Carrozza and get me from her a list of the secret gambling clubs, which I then will visit every evening.""",Go to La Carozza immediately and get her a list of underground clubs and I'll visit them every afternoon.,0.135
+866,MÃ³wi po chiÅsku a ÅmierÄ w koÅcu pochÅonie Å¼ycie.,'Darkness will swallow the light...' [Chinese phrase] Darkness will swallow the light and death eventually swallows life.,He speaks Chinese and death will finally claim his life.,0.0
+867,"Nie chciaÅaby pani, Å¼ebym ja coÅ pani podyktowaÅ?","I don't suppose you'd take some dictation from me sometime, would you?",Wouldn't you like me to dictate something to you?,0.0
+868,"Chyba lepiej bÄdzie, jak pÃ³jdÄ siÄ odÅwieÅ¼yÄ po podrÃ³Å¼y.","I think, after the trip I better clean up a bit.",I think it's better if they go and freshen up after the trip.,0.0
+869,"GdybyÅ Å¼yÅ z tajemnicÄ... ktÃ³ra wymaga ciÄgÅych kÅamstw i Å¼ycia w samotnoÅci, gdybyÅ zawsze tak Å¼yÅ, ale pragnÄÅ zmiany, co byÅ zrobiÅ?",If you lived with a secret and the secret meant that you must always lie or be alone and you'd always lived that way and yet you longed for change what would you do?,"If he were living with a secret ... which requires you to lie a lot and live alone, if you'd always lived like that, but you wanted to change, what would you have done?",0.144
+870,"Kiedy wychodzÄ z domu, zakÅadam zasÅonÄ na moje ciaÅo, jak przykazaÅeÅ.",When I do go out I draw my veil over my bosom as you wish.,"When I leave the house, I put the veil over my body as a commandment.",0.0
+871,No i Snake... jesteÅ naprawdÄ bardzo fajny!,And Snake... You're really pretty cute!,And Snake... He's really very cool!,0.0
+872,"MoÅ¼ecie zrobiÄ mi, co chcecie, ale uwolnijcie jÄ, proszÄ!","Do what you like with me, but let her go, please!","You can do whatever you want to me, but release her, please!",0.0
+873,",WzdÅuÅ¼ miejsca, gdzie miaÅy pojawiÄ siÄ ÅIady, wykopaIiÅmy dÃ³Å i przykryIiÅmy go pIanszÄ z wyciÄtymi ÅIadami stÃ³p"".","""We dug a trench along the line where we wanted the footprints, and covered the trench with a board in which the footprints had been cut.""","""Along the place where the footprints were supposed to appear, we dug a hole and covered it with a plaster with the footprints cut out.",0.0
+874,- Nie powinniÅmy pÅaciÄ za BoÅ¼e dary.,-One should not pay for what God provides.,- We should not pay for God's gifts.,0.346
+875,- A nie wyglÄdajÄ? - OczywiÅcie.,"- Well, they do, don't they?",- Don't they look it? - Of course.,0.0
+876,"Szkoda, Å¼e Pistacja nie bÄdzie mogÅa wziÄÄ udziaÅu w konkursie, po caÅym tym ciÄÅ¼kim treningu.","It's a shame Pistachio won't get to compete, after all her training and hard work.","It's a shame that Pistachio won't be able to compete, after all the hard training.",0.279
+877,"- Panowie, nie wiem, co powiedzieÄ.","- Gentlemen, I don't know what to say.","- Gentlemen, I don't know what to say.",1.0
+878,"Oto Siegfried, potÄÅ¼ny bohater, ktÃ³ry zdobÄdzie dla ciebie BrunhildÄ.",It is Siegfried the mighty hero who will win Brunhild for you.,"This is Siegfried, a powerful hero who will win Brunhild for you.",0.571
+879,"ÅcieÅ¼kÄ, prosto w kierunku ksiÄÅ¼yca... na szlachetnym koniu, galopujÄcym i toczÄcym pianÄ z nozdrzy... dopÃ³ki nie znajdzie siÄ u twych stÃ³p, wierny aÅ¼ do Åmierci.","Down the path of the moon... the noble animal, plunging and frothing at the nostrils... till it founders at your feet, faithful unto death.","down the path, straight towards the moon... on a noble horse, galloping and foam from the nostrils... until he is at your feet, faithful unto death.",0.275
+880,Ty nic nie rozumiesz. BÃ³g nakazaÅ mi zbudowaÄ arkÄ.,"Not he/she understands, ime said that it builds an ark",You don't understand. God commanded me to build an ark.,0.0
+881,W moim kraju oznacza to pojedynek.,"""That means fight in my country.""",In my country it means a duel.,0.0
+882,"Zanim z tobÄ skoÅczÄ, bÄdziesz miaÅa sprawÄ rozwodowÄ podobnie jak moja Å¼ona.","Madam, before I get through with you, you will have a clear case for divorce... and so will my wife.","By the time they're done with you, you'll have a divorce case like my wife.",0.0
+883,"- MyÅlaÅem, Å¼e zaczniemy od 30 dolarÃ³w.",-l was figuring on starting her at $30.,- I thought we'd start at $30.,0.0
+884,To wszystko co masz do powiedzenia?,Is that all you have to say?,Is that all you have to say?,1.0
+885,"Tak by ludzie wiedzieli, Å¼e jest kurwÄ.",I seized people you will taste That is a whore.,Just so people know he's a whore.,0.0
+886,"To, Å¼e kilka razy mu pomogÅem, nie czyni mnie ekspertem.","Okay, I mean, yeah, I helped him do it a couple of times, but that doesn't make me an expert.",Just because I helped him a few times doesn't make me an expert.,0.253
+887,- Tak jak i wielu innych artystÃ³w.,- Me and a million other artists.,- As well as many other artists.,0.0
+888,"Nie pozwolÄ, Å¼eby pijany relikt z przeszÅoÅci niszczyÅ dyscyplinÄ na moim statku!",I'll have no drunken relic holding up the discipline aboard my ship.,I will not allow a drunken relic from the past to destroy discipline on my ship!,0.0
+889,"gorzej, on jest w intensywnej terapii.",He/it is under protection 24h on 24. I hope to learn some more to his/her/its wakening.,"Worse, he's in intensive care.",0.0
+890,"A jeÅli chodzi o pieniÄdze i szacunek, mogÄ je zdobyÄ sama.","And as for the money and the respect, I can get that myself.","And when it comes to money and respect, she can get it herself.",0.0
+891,Czy to wyszÅo poza liniÄ dr. Deckera?,Has it gone past Dr. Decker's markings?,"Did it go out of line, Dr. Decker?",0.0
+892,"Wydaje mi siÄ, Å¼e ci panowie zepsujÄ paÅskie przyjÄcie.",I'm afraid these men will interfere with your beautiful dinner.,I think these gentlemen will spoil your party.,0.0
+893,"ByliÅmy razem z tobÄ od poczÄtku, Peter.","We've been with you since the first, Peter.","We've been with you from the beginning, Peter.",0.383
+894,"W zwyczajnym Å¼yciu, musimy siÄ obyÄ bez niej.","In ordinary life, one must be content with less.","In ordinary life, we have to do without it.",0.0
+895,Ale jeÅli tym czego najbardziej boi siÄ Tae Gong Shil wszystko co moÅ¼e zrobiÄ Prezes Joo to czekaÄ i obserwowaÄ jak ja.,But... if Tae Gong Shil is saying that she herself is what she's really afraid of... then the only thing President Joo can do... is to take a step back and watch her as he waits for her like I've done.,But if what Tae Gong Shil fears most is that all President Joo can do is wait and watch like me.,0.143
+896,WiÄc bez Å¼alu zajmiesz siÄ SpaÅlakiem. OczywiÅcie.,Then you won't mind tracking down Fat Bastard tonight.,So you'll take care of the Spa guy. Of course.,0.0
+897,"Nie ruszÄ siÄ, dopÃ³ki statek nie odpÅynie.",I'm not going until the ship sails.,Don't move until the ship leaves.,0.0
+898,ale nie nie bÄdziesz mÃ³gÅ tego udowodniÄ.,Perhaps you did not do the murder - but you cannot deny ....,but you won't be able to prove it.,0.0
+899,JabÅka wczeÅnie spadajÄ w tym roku.,How early the fruit is falling this season.,Apples are falling early this year.,0.0
+900,WliczajÄc w to tÄ wÅciekÅÄ kotkÄ po drugiej stronie ulicy.,Including your wildcat friend across the street.,Including that runaway cat across the street.,0.0
+901,"Peppi, Otero, Kid Bean i Bat pÃ³jdÄ ze mnÄ.","I want Killer Peppi, Otero, Kid Bean and Bat to go with me.","Peppi, Otero, Kid Bean and Bat come with me.",0.428
+902,JuÅ¼ tu nie pracujesz i nigdy nie bÄdziesz pracowaÅ.,You don't work here anymore and you never will.,You don't work here anymore and you never will.,1.0
+903,ProsiÅem go o schronienie na noc.,"You see, Morgan is dumb. Oh, I see. Of course, I didn't realize.",I asked him for shelter for the night.,0.0
+904,BÄdÄ milczaÅ jak grÃ³b - Wybaczysz mi?,I shall be silent forever - will you forgive me?,I'll be as silent as a rabbit. Can you forgive me?,0.0
+905,Co ty moÅ¼esz wiedzieÄ o miÅoÅci?,"Man, what do you know about love?",What do you know about love?,0.809
+906,"Noo too chlup, za drugieg..o uczes..tnika podwÃ³jnego samobÃ³jstwa!",For the rest part of the double suicide!,"Well, splash, for the other student of the submarine suicide!",0.0
+907,"Za 1,25 $ moÅ¼esz mieÄ dwie.","For $1.25, you can get Minnie.",For $1.25 you can have two.,0.508
+908,"Bo chce pan dowodziÄ tÄ wyprawÄ na KsiÄÅ¼yc?""","""that you wanted to undertake this trip to the Moon?""","Because you want to lead this expedition to the moon?""",0.0
+909,"PamiÄtasz pierwszÄ rodzinÄ, ktÃ³ra poszÅa na gilotynÄ?",Do you remember the first family to go to the guillotine?,Remember the first family that went to the guillotine?,0.339
+910,"Nigdy nie myÅlaÅem, Å¼e bÄdÄ takim szczÄÅciarzem.",Never before did I think I should be so lucky. Lucky?,I never thought I'd be so lucky.,0.0
+911,"Dodaje teÅ¼, Å¼e specyfik stopniowo wywoÅuje szaIeÅstwo.",He also says that the drug gradually induces madness.,He also adds that the specifics gradually induce grey matter.,0.0
+912,"- Dobra, nie to nie... - To wszystko?","Alright, if you don't want it...","- Okay, no, that's not... - Is that all?",0.0
+913,"Nie wiemy, czy stacja dysponuje uzbrojeniem.",We don't know if the station is loaded with guns.,We don't know if the station has armaments.,0.517
+914,"Nim utracÄ ciÄ na zawsze, przyjmij ode mnie ostatni dar.",One last gift before I lose you forever!,"Before I lose you forever, accept one last gift from me.",0.475
+915,"JeÅli pojedzie do Londynu, jedÅº za nim.","If he goes to London, you go too.","If he goes to London, follow him.",0.517
+916,"Co za dyrdymaÅy! ""DÅuga kobieta i ciemnowÅosa podrÃ³Å¼""!","""A long woman and a dark journey""!","What a load of rubbish! ""A long woman and a dark-haired man!""",0.301
+917,Panie profesorze! Zalatuje tu chyba Åmieciami!,"Professor, it stinks here of garbage!",Professor! This place smells like garbage!,0.0
+918,"Bardzo mi przykro, signor Lassparri, ale jestem juÅ¼ umÃ³wiona.","I'm terribly sorry, Signor Lassparri, I already have an engagement.","I'm very sorry, Signor Lassparri, but I have an appointment.",0.0
+919,"Nie wiem, czy jest inna para ludzi, _BAR_ktÃ³ra ma do tego wiÄksze prawo.",I don't know of two people who have a better right to have a drink.,I don't know if there's another couple of people _BAR_ who have more right to do that.,0.0
+920,"MÃ³wisz, Å¼e juÅ¼ raz ci uciekÅa.",You say she got away from you before.,You say she got away from you once before.,0.767
+921,MapÄ owÄ Dzban Starych MaÅp skrywa.,He painted the map on the surface of a pot of old monkeys.,This map of the Old MaÅp Pitcher hides it.,0.0
+922,"JeÅli ty jedziesz, ja teÅ¼ jadÄ.","If you go, I go, too.","If you're going, I'm going.",0.0
+923,To caÅkiem imponujÄce imiÄ jak na kucyka.,"Well, that's rather an imposing name for a pony.",That's a pretty impressive name for a pony.,0.316
+924,"Big Jim prÃ³bowaÅ przekonaÄ fachowcÃ³w, Å¼e ma gÃ³rÄ zÅota.",Big Jim tried to convince the assayers that he had a mountain of gold.,Big Jim tried to convince the professionals that he had a gold tooth.,0.545
+925,Lenny Antoine elegancko dochodzi do siebie.,Lenny Antoine is going to make a good recovery.,Lenny Antoine is recovering elegantly.,0.0
+926,"Nie odchodÅº, chcÄ z tobÄ porozmawiaÄ.","Hey, don't go away, I wanna talk to you.","Don't go away, they want to talk to you.",0.0
+927,"Panie Hammer, ten, kto to narysowaÅ, wie coÅ o kradzieÅ¼y. Patrzcie.","Mr. Hammer, whoever drew this knows something about that robbery.","Mr. Hammer, whoever drew this knows something about stealing. Look.",0.76
+928,Trzy to zÅy numer. _BAR_ On nic nie znaczy.,Three's a bad number- That doesn't mean anything.,Three is a bad number. _BAR_ He means nothing.,0.0
+929,Trzeba byÅo nie wymyÅIaÄ tak dobrego planu,"You will be smuggled... ..when, how and where I am pleased for you to be smuggled... yes?",You shouldn't have come up with such a good plan,0.0
+930,Dlatego usuniÄcie was jest Åatwym sposobem ograniczenia zniszczeÅ.,Which is why removing you is an easy piece of damage limitation.,So removing you is an easy way to limit the damage.,0.332
+931,"Cinderella, ktÃ³ra odziedziczyÅa spadek rodziny Lowell.","Pretty shabby for a Cinderella, if you ask me. That's because she's lived her life in a downtown orphanage.","Cinderella, who inherited the Lowell family inheritance.",0.0
+932,- Ale pomyÅl o jej piÄknych oczach! - Och!,"- Ahh, but think of her beautiful eyes!",- But think of her beautiful eyes! - Oh!,0.809
+933,Nie mamy zbyt duÅ¼o czasu. On jutro odpÅywa.,We won't have much time if he leaves for Apia in the morning.,We don't have much time. He's leaving tomorrow.,0.0
+934,"I zaraz wezmÄ ciÄ w ramiona i przytulÄ mocno! Tak blisko, owieczko.",And I'm going to take you in my arms now and hold you close!,"And I'll take you in my arms and hold you tight! So close, lamb.",0.376
+935,BÄdÄ tu na nie czekaÅa... jego pierwszy pocaÅunek i pierwszy uÅcisk jego ukochanych rÄk.,I will wait here ... his first kiss and the first stroke of his hands.,They will be here waiting for them... his first kiss and the first squeeze of his beloved hands.,0.32
+936,"ProszÄ usunÄÄ te gazety, bo nie mogÄ usiÄÅÄ.","If you'll be good enough to move those newspapers, I'll have a seat.",Please remove these newspapers because they can't make it.,0.0
+937,"Lady Kriemhild jest prawa, bardziej niÅ¼ samo prawo!","Lady Kriemhild is right, more than right!","Lady Kriemhild is the law, more than the law itself!",0.0
+938,"Jestem tak podekscytowana, ale nie chcÄ skrzywdziÄ ojca.","I'm so thrilled and tempted, but I don't want to hurt my father.","I'm so excited, but I don't want to hurt my father.",0.612
+939,Pan Frankenstein byÅ zainteresowany tylko ludzkim Å¼yciem.,Herr Frankenstein was interested only in human life.,Mr Frankenstein was only interested in human life.,0.0
+940,"Wiesz, Stanley, co za owocny wieczÃ³r!","Well, Stanley, a very profitable evening!","You know, Stanley, what a productive evening!",0.0
+941,Fried i August szukajÄ nadal w kotÅowni.,Two men are still going through the boiler room.,Fried and August are still looking in the boiler room.,0.0
+942,"NaprawdÄ nie pamiÄtasz ani jednej sytuacji, w ktÃ³rej pÅakaÅeÅ?",You sure you never cried since you were born?,Do you really not remember a single situation in which I was injured?,0.0
+943,"MogÄ mu najwyÅ¼ej daÄ krzyÅ¼yk na drogÄ, kiedy tylko dopÅyniemy do celu.",All I've got to say is good riddance... as soon as I can get him to his destination.,The most they can do is give him a cross on the road when we get there.,0.0
+944,Nie moÅ¼e go pan zabraÄ na tak dÅugo!,It's like forever! I can't take them and not take him.,You can't take him away for that long!,0.0
+945,"SkoczyÅ do gardÅa tamtemu, Å¼eby pomÃ³c bratu.",He jumped in the mouth of one to help his brother.,He jumped down his brother's throat to help him.,0.0
+946,"Nie przyszÅo pani do gÅowy powiedzieÄ: ""Jestem w tarapatach. Czy mÃ³gÅby mi pan pomÃ³c?""","It never occurred to you to say ""Please, Mister, I'm in trouble.","You never thought of saying: ""I'm in trouble. Can you help me?""",0.0
+947,"OtwÃ³rz oczy i zobacz, kto jest prawdziwym wrogiem!","Open your eyes, and see who your true enemy is!",Open your eyes and see who the real enemy is!,0.581
+948,Musi mi pani pomÃ³c. MuszÄ pozostaÄ na wolnoÅci jeszcze kilka dni.,You've got to help me. I've got to keep free for the next few days.,You have to help me. They have to stay free for a few more days.,0.0
+949,A gdyby tak Lorenz daÅ jej w zastaw swoje honoraria za wiersze?,"""THE ONLY PERSON WE CAN HIT UP FOR MONEY IS OLD SCHWABE, THAT'S FOR SURE!",What if Lorenz pawned his poetry royalties to her?,0.0
+950,Dlatego chcÄ ich nakierowaÄ na wÅaÅciwÄ drogÄ. Å»eby siÄ stali lepszÄ wersjÄ obecnych siebie.,"That's precisely why I want to guide them, to help them become better versions of their current selves.",So I want to set them on the right path. To become a better version of themselves.,0.0
+951,Pochopnie wziÄÅam twojÄ ostroÅ¼noÅÄ za nieuczciwoÅÄ i to moja wina.,"And if I was too quick to mistake your caution for dishonesty, then the fault's mine.","I hastily took your caution as dishonesty, and it is my fault.",0.0
+952,"005, 006 i 007, bÄdziecie robiÄ za przynÄtÄ.","005, 006, and 007, I want you as decoys.","005, 006 and 007, you will be the bait.",0.316
+953,"Jego siostra, Nedda Harrigan, takÅ¼e byÅa aktorkÄ scenicznÄ i fiImowÄ.",His sister was film and stage actress Nedda Harrigan.,"His sister, Nedda Harrigan, was also a stage and film actress.",0.0
+954,"Whatever it is, I'm against it! And I've kept yelling since I first commenced it:",Whatever it is I'm against it,"Whatever it is, I'm against it! And I've kept yelling since I first commenced it:",0.223
+955,CzÄÅÄ mnie buntowaÅa siÄ przeciwko temu... ale siÄ udaÅo.,Part of me didn't want it to work... But it did.,Part of me rebelled against it... but it worked.,0.0
+956,"Powiedz jej, Å¼e ma byÄ w domu na obiedzie.",Tell her to come home to dinner.,Tell her to be home for dinner.,0.0
+957,DziÄki ci za ten gÅos wiernoÅci.,"Well, thank you for that vote of confidence.",Thank you for that voice of loyalty.,0.366
+958,Od stÃ³p do gÅÃ³w Jestem do miÅoÅci stworzona.,"Falling in loνe again, neνer wanted to.",From feet to heads I'm made for love.,0.0
+959,"DziaÅka nr 26, przebÃ³j tej aukcji.","You get me? We're gonna take lot number 26, the star lot of the whole proceedings.","Lot 26, the hit of this auction.",0.0
+960,Nigdy nie uÅ¼yÅabym ich przy innym psie.,I would never use those things on another dog.,I would never use them on another dog.,0.432
+961,"Panie Harker, poÅwiÄciÅem swe Å¼ycie na badanie wielu dziwnych rzeczy... maÅo znanych faktÃ³w, o ktÃ³rych moÅ¼e lepiej, aby Åwiat nie wiedziaÅ.","Mr. Harker, I have devoted my lifetime to the study of many strange things, little-known facts, which the world is perhaps better off not knowing.","Mr. Harker, I have spent my life investigating many strange things... little-known facts that maybe it's better that the world doesn't know.",0.268
+962,"OczyÅÄcie ulice, pÃ³ki go nie odzyskam!","Keep off the streets, untill I recapture it!","Clear the streets, until I get him back!",0.0
+963,"Zamierzamy zorganizowaÄ wyÅcigi konne, gdy dotrzemy do Kalifornii.",We plan to start horse racing when we get to California.,We're going to have a horse race when we get to California.,0.348
+964,"Pierwszy profesjonalny film wyprodukowany przez Josefa von Sternberga byÅ wyjÄtkowo ÅmiaÅy zarÃ³wno w temacie, jak i w podejÅciu do niego.",The first professional film by Josef von Sternberg was unusually bold both subject matter and technical skill.,The first professional film produced by Josef von Sternberg was exceptionally bold in both its subject and approach.,0.371
+965,CzÅowiek o nienagannym charakterze... WstawiajÄcy siÄ w biurze reprezentujÄc... To co najlepsze dla naszego systemu sprawiedliwoÅci.,A man of unimpeachable character... occupying an office which represents... what is best about our system of justice.,A man of impeccable character... ...who stands up in the office representing... ...what's best for our system of justice.,0.201
+966,Ten niewolnik jest bÄkartem i potomkiem zdrajcÃ³w. RzeczywiÅcie zostaÅeÅ sÄdziÄ tego miasta?,"Moreover, a traitor's offspring became the town's magistrate.",This slave is a bastard and a descendant of traitors. Is he really the judge of this city?,0.0
+967,"- PomyÅlaÅem, Å¼e moÅ¼e ty mÃ³gÅbyÅ...",I thought perhaps you'd want to...,- I thought maybe you could...,0.0
+968,"Jak mogÄ byÄ twoje, skoro ja mam je na sobie?","How could they be yours, when I've got them on?",How can they be yours when I'm wearing them?,0.291
+969,Gdzie byÅaÅ w nocy 5 paÅºdziernika 1902 roku?,"What were you doing on the night of October 5, 1902?","Where was he on the night of October 5, 1902?",0.571
+970,Jakbym potrzebowaÅa znaleÅºÄ nowe miejsce do medytacji.,Like I need to find a new meditation space.,Like I need to find a new place to meditate.,0.65
+971,"Jestem wÅaÅcicielem tego dojo, zwÄ siÄ Genzaburo Yagyu.",I'm the owner of this Dojo called Genzaburo Yagyu.,"I am the owner of this dojo, my name is Genzaburo Yagyu.",0.368
+972,"MyÅlisz, Å¼e kaÅ¼dy mnie chce, bo i ty chcesz.",You think everyone wants me just because you do.,You think everybody wants me because you want me too.,0.0
+973,ZwÅoki wykradzione z grobÃ³w i co noc zmuszane do pracy na plantacjach trzciny cukrowej.,Corpses taken from their graves who are made to work in sugar mills and fields at nights. Look! Here they come!,Corpses stolen from graves and forced to work on sugar cane plantations every night.,0.0
+974,UczyÅem siÄ pod opiekÄ doktora Pearlmana.,I was there training under this Dr. Pearlman.,I studied under Dr. Pearlman.,0.0
+975,Tak. twoja ochrona... straci znaczenie dla Gong Shil.,"Yes. Whether she accepts her ability, or loses her ability... the defense shield you can offer to Gong Shil will become meaningless to her.",Yes. Your protection... will lose its meaning to Gong Shil.,0.0
+976,",A ja waIczyÅem z Theatre guild o mojÄ artystycznÄ uczciwoÅÄ"".","""And I had been fighting with the Theatre guild about my artistic integrity!""","""And I fought with the Theatre Guild over my artistic integrity.",0.312
+977,Pewnej nocy wyruszyÅ do domu pomÃ³c Å¼onie w pracy na farmie.,He started out one night to go home and help his wife with the farm.,One night he went home to help his wife work on the farm.,0.0
+978,WyjaÅnijmy to sobie do koÅca. BraÅeÅ w tym udziaÅ?,"Those Suffolk diamonds now,do you know anything about them?",Let's get this straight. Was he involved in this?,0.0
+979,Borys Aleksandrowicz Stawrogin zostaÅ gÅowÄ domu. ChodÅº tu!,Boris Palitstandovich Stavrogin... is the head of the house!,Boris Alexandrovich Stavrogin has become head of the house. Come here!,0.264
+980,Miasto robotnikÃ³w. GÅÄboko pod powierzchniÄ ziemi.,"The workers' city, far below the surface of the earth.",City of workers. Deep underground.,0.0
+981,"LubiÄ, kiedy taÅczÄ, ale nienawidzÄ, gdy ÅpiewajÄ.","I like it when they dance, but I hate it when they sing.","They like it when they dance, but they hate it when they sing.",0.67
+982,Wydaje siÄ pani podniesiona na duchu.,You seem a bit more upbeat.,You seem uplifted.,0.0
+983,"Ale, Jerry, nie moÅ¼esz tego zrobiÄ.","But, Jerry, you can't do a thing like that.","But, Jerry, you can't do that.",0.467
+984,WÅrÃ³d moich znajomych nie ma piratÃ³w.,I hardly number pirates among my acquaintances.,There are no pirates among my friends.,0.0
+985,"MuszÄ mieÄ kilka dni, Å¼eby zebraÄ chÅopakÃ³w.",I got to have a couple of days to get the boys lined up again.,They must have a few days to get the boys together.,0.283
+986,Ten pies to chodzÄca wylÄgarnia bakterii.,A great flea is that dog.,That dog is a walking cesspool of bacteria.,0.0
+987,Rok temu spotkaliÅmy siÄ po raz pierwszy w tym miejscu;,A year ago... we met for the first time on this field:,A year ago we met for the first time in this place;,0.729
+988,Jeszcze godzinÄ temu ci ludzie byli twoimi towarzyszami.,Those people were your comrades until only an hour ago.,"Until an hour ago, these men were your companions.",0.0
+989,Å»eglarz daÅ list sir Andrew Ffoulkesowi.,A sailor gave a letter to Sir Andrew Ffoulkes.,"Å""eglarz gave a letter to Sir Andrew Ffoulkes.",0.726
+990,Lepiej pÅonÄÄ ogniem... NiÅ¼ zaledwie pÅomykiem.,It's better to burn twice as bright... and half as far.,Better to catch fire... ...than a mere flame.,0.0
+991,"Wybaczcie mi, ale jestem skÅonna zgodziÄ siÄ z ludÅºmi.","I'm sorry, but I'm inclined to agree with the people.","Forgive me, but I'm inclined to agree with the people.",0.76
+992,- A jeÅli by wyszedÅ? - Saul podpaliÅby dom.,Saul quite certainly would set fire to the house.,- What if he left? - Saul would set the house on fire.,0.0
+993,"Jak bÄdziesz jadÅa te orzechy, _BAR_to nie bÄdzie miejsca na kolacjÄ.",You'll spoil your dinner if you keep on eatin' them nuts.,"If you eat those nuts, there's no room for dinner.",0.0
+994,"ZaÅamujÄ rÄce, kiedy sÅyszÄ o oszuÅcie, ktÃ³ry daÅ siÄ oszukaÄ.",I have no words when deceivers are deceived.,They close their hands when they hear about a scammer who has been fooled.,0.0
+995,To jest zÅe i bardzo nieszczÄÅliwe.,It's an unlucky and uncomfortable event.,It's bad and very unhappy.,0.0
+996,ktÃ³ra prosi o spanie i samo trzymanie siÄ za rÄce... teraz zaczyna siÄ przejmowaÄ.,The woman who asked just to sleep holding hands... now she's worrying about anything.,who asks to sleep and just hold hands... now she's starting to care.,0.0
+997,"A to ci dopiero, teÅ¼ poszukujÄ pewnego sztyleciku.","I'm searching for a small knife, too.","Now, these are the ones looking for a certain dagger.",0.0
+998,"W tych niebezpiecznych czasach waÅ¼ne jest, abyÅmy pamiÄtali o BoÅ¼ych Przykazaniach i kochali nawet tych, ktÃ³rzy nas nienawidzÄ.","In these perilous times, it's important to remember God's commandment to love even those who hate us.",In these dangerous times it is important that we remember God's commandments and love even those who hate us.,0.324
+999,"Czemu nikt mi nie powiedziaÅ, Å¼e przyszÅaÅ?",Why didn't somebody tell me you were here?,Why didn't anyone tell me she was coming?,0.0

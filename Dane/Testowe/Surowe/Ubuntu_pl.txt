@@ -1,0 +1,1000 @@
+Edytor i wprowadzanie danych eksploracji jaskiń dla programu Survex
+Znajdź i połącz z serwerami gry
+Program dla graczy, umożliwiający szybką i wysokiej jakości komunikację
+Powszechnie używane programy z ograniczonymi dla Kubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash)
+Graficzna administracja kluczami cyfrowymi, używanymi przez APT
+%s: Napotkano błędy podczas przetwarzania. Proces przerwano.
+Zebrane informacje są wysyłane do systemu śledzenia błędów. To może potrwać kilka minut.
+Wysyła pliki RAW do zewnętrznego edytora za pomocą linii poleceń
+Parametry strumienia to %iHz, %s, %i kanał/ów
+Interfejs graficzny do oszukiwania w grze Scanmen
+Aplet panelu do odnawiania list autoryzacji
+Narzędzie do eksploracji sieci i skanowania portów
+Podrzucaj klaunów i rozbijaj nimi balony tak, aby nie spadli na ziemię
+Symulator podniebnych walk za sterami wojskowego myśliwca
+Twoja misja: wygrać z obcymi. Trójwymiarowa gra wojenna
+Pozwól komputerowi przeczytać dla Ciebie tekst
+Program do edycji obrazów, oparty o VIPS
+Trójwymiarowa gra artyleryjska w stylu Scorched Earth
+-r,--real # konwertuje rzeczywisty znacznik czasowy na kolejkę
+Umożliwia swobodną organizację fotografii w urządzeniach iPod
+Rozpocznij poszukiwanie porwanej księżniczki i odkryj zbrodnicze intencje firmy Lederhosen
+-s,--source addr : odczyt z danego adresu (klient:port)
+Pozwala na przeglądanie i instalację każdego spośród tysięcy programów dla Ubuntu
+Żyłka wędkarska nie nadaje się do czyszczenia zębów
+To działanie nie może zostać cofnięte. Usunąć tę aktywność?
+Prosty w użyciu, ładny, funkcjonalny klient gry w szachy dla GNOME
+Synchronizacja plików między komputerami oraz w internecie
+%s: %s w linii %d standardowego wejścia
+Słownik, analizator użycia dysku twardego, przeglądarka plików raportów, narzędzie wyszukujące
+Umożliwia proste zarządzanie certyfikatami CA X.509, CSR, CRL w trybie graficznym
+Ustawiaj namioty na specjalnych polach według ustalonych zasad
+Należy umieścić czwórkę kier obok trójki kier.
+%s: zapisanie całego profilu nie powiodło się
+Zgłasza błąd programu wskazanego kliknięciem w okno docelowe
+Wyświetla ponownie wyśledzone ślady stosu i pyta o potwierdzenie przez wysłaniem ich do bazy błędów.
+Aplet powiadomień poczty Gmail dla KDE
+%s: analiza wiersza "%s" nie powiodła się
+Aplikacja do wyświetlania informacji o oknach i środowisku graficznym
+Należy umieścić damę kier obok waleta kier.
+Przykładowe zgłoszenie zawiera informacje o pojemności dysku komputera, podłączonych urządzeniach czy ilości aktualnie uruchomionych programów.
+Łączy aplikacje audio i MIDI w jedną sesję dźwiękową
+Uniwersalny odtwarzacz filmów i piosenek karaoke
+Roztop górę lodową na małe kawałki, aby uwięzić pingwiny!
+Przeglądaj system plików z menedżerem plików
+Program do tworzenia diagramów TikZ (z pakietu LaTeX pgf)
+Wieloplatformowy interfejs dla skanera bezpieczeństwa Nmap
+Analiza filogenezy oraz dopasowań sekwencji DNA, RNA, białek, peptydów i nukleotydów
+Rozwijany emulator terminala, bazujący na technologii konsoli KDE
+Interfejs graficzny do zarządzania aplikacjami Screenlets
+Zostań dowódcą łodzi podwodnej w środowisku głębokiego oceanu
+Trzymaj w ryzach zadania, zasoby i koszty swoich projektów
+Aplikacja do testowania wszystkich funkcji guiqwt.
+Przeglądarka biosygnałów EEG, EMG i ECG. http://sigviewer.sf.net
+Mission Pack 2 dla klasycznej strzelanki FPS
+Podłączenie do maszyn zdalnych z użyciem Secure Shell
+Ścieżka do pliku z danymi uwierzytelnienia bazy danych problemów. Opcja używana podczas podawania identyfikatora problemu w celu przesłania ponownie prześledzonego śladu stosu (tylko jeśli nie użyto -g, -o, oraz -s)
+Menedżer LAN z powłoką do zdalnego wykonywania poleceń
+Synchronizacja plików pomiędzy wieloma komputerami z systemem kontroli wersji (domyślnie z Git)
+-d, --default wyświetlenie domyślnej listy kontroli dostępu
+-m, --modify=acl zmiana aktualnego(ych) ACL(-i) pliku(ów) -M, --modify-file=plik odczyt z pliku pozycji ACL do zmodyfikowania -x, --remove=acl usunięcie wpisów z ACL(-i) pliku(ów) -X, --remove-file=plik odczyt z pliku pozycji ACL do usunięcia -b, --remove-all usunięcie wszystkich rozszerzonych pozycji ACL -k, --remove-default usunięcie domyślnego ACL
+Dodaje dodatkową etykietę do zgłoszenia. Można użyć kilkukrotnie.
+%s: nie można odczytać domyślnego ACL dla '%s': %s
+Interfejs graficzny Qt dla GNU Octave
+Wersja profilu nie jest obsługiwana przez moduł Apparmor
+Demontaż stosu kafli poprzez usuwanie pasujących par
+Procesor czasu rzeczywistego audio bazujący na manipulacji spektrum częstotliwości
+%s: przydzielenie pamięci dla punktu montowania bazy poddomeny nie powiodło się
+Administracja serwerem plików, drukowania oraz domen SAMBA
+Niewielki menedżer plików dla X Window
+Należy przenieść ~a na siódemkę trefl.
+Błąd w profilu %s. Wczytanie nie powiodło się.
+Program transferu danych dla Sony HiMD Walkman
+Odtwórz i sprawdź ślady generowane przez apitrace
+Analizator danych statystycznych - darmowa alternatywa dla SPSS
+Zagraj w oryginalną gre Quake III Arena
+Należy przenieść ~a na puste dolne miejsce.
+Edytor tagów MP3 i Ogg Vorbis
+Należy przenieść ~a na ósemkę trefl.
+Dwuwymiarowa gra w stylu kultowych platformówek
+Profesjonalne zarządzanie fotografiami dzięki potędze otwartego oprogramowania
+Należy przenieść ~a na siódemkę karo.
+Konfiguracja obsługi wielu języków w systemie
+Interfejs graficzny dla narzędzi do zarządzania dyskami
+Zobacz wszystkie znaki czcionek we wszystkich rozmiarach.
+Graj w gry z Sega Master System i Game Gear
+Chińska gra GO. Graj z drugim graczem lub komputerem
+Wyświetla i modyfikuje atrybuty ACL oraz użytkownika plików lub folderów
+Pozwala na tworzenie płyt video CD i DVD, które można później odtwarzać w domowych odtwarzaczach DVD
+Gra typu puzzle, oparta na sześciokątnych elementach
+Interfejs graficzny umożliwiający bezproblemowe zapisywanie obrazów skanowanych obiektów w formacie PDF
+Program do powolnej obsługi alfabetu Morse'a (CW QRSS) na dwóch częstotliwościach (DFCW)
+Chinese Input Method (Use Light weight UI)
+Dwuwymiarowa wojna czołgów dla kilku graczy z dzielonym ekranem
+Powiadamianie o nowych wiadomościach poczty e-mail
+Zarządzanie harmonogramem nagrań oraz przegląd EPG stacji telewizyjnych
+Pokazuje status instancji EC2 uruchomionych na określonym koncie.
+%s: wewnętrzne przepełnienie bufora; przekroczono %d znaków
+Optymalizacja prawdopodobieństwa znalezienia sex partnera na stronach randkowych
+Dodanie informacji o czasie do logów dla operacji trybu wsadowego (batch operation)
+Błąd alokacji pamięci: Nie można usunąć ^%s
+Należy przenieść ~a na puste miejsce rezerwy.
+Konfiguracja i zarządzenie kontem Ubuntu One
+Tworzy kopie zapasowe oraz synchronizuje dane
+Klon gry "Nebulus", znanej ze starych 8 i 16 bitowych komputerów
+Należy przenieść ~a na damę pik.
+Ten błąd został już zgłoszony w raporcie wyświetlonym w przeglądarce internetowej. Proszę sprawdzić, czy można dodać jakiekolwiek dalsze informacje, które mogą być pomocne twórcom programu.
+Prosta aplikacja do komunikacji przez podczerwień (port IrDA)
+Odtwarzacz wideo z funkcją synchronizacji gniazda Jack oraz MIDI
+Łap złych przeciwników w bańki i eliminuj ich. Opcja gry dla wielu zawodników z obsługą sieci.
+Należy przenieść ~a na piątkę trefl.
+Zarządzanie i konfiguracja JACK i ladish
+Aplikacja dla radioamatorów, zapisująca dane QSO dla LoTW
+Błąd: katalog bazowy %s nie jest katalogiem. Pominięto.
+Wyświetla analogowe dane wyjścia układów elektronicznych np. programu Spice
+Zestaw narzędzi graficznych do tworzenia i zarządzania bazami danych
+Symulator różnych typów liczydeł (wersja Motif)
+Narzędzie do teorii grafów dla profesorów i studentów
+Należy przenieść ~a na siódemkę kier.
+Narzędzie do śledzenia cykli menstruacyjnych i przewidywania okresów płodności
+Zanim przejdziesz przez ulicę rozejrzyj się na obie strony
+Interfejs graficzny dla serwera muzyki Ampache
+Twórz interaktywne aplety i konstrukcje matematyczne
+%s: nie można odczytać domyślnego tekstu ACL dla '%s': %s
+Konfiguracja IcedTea Web (javaws orz plugin)
+Należy przenieść ~a na czwórkę trefl.
+Symuluje proces prześwietlania promieniami rentgenowskimi za pomocą tomografu komputerowego
+Pięknie i profesjonalnie łączy zdjęcia z Twojej kolekcji
+Należy umieścić damę karo obok waleta karo.
+%s: %s w linii %d pliku %s
+Dodaje tekst i komentarze do dokumentów PDF oraz PostScript
+Dwuwymiarowa, strategiczna symulacja czasu rzeczywistego, skupiająca się na ekonomii i budowie budynków
+Sprawdź i porównaj zainstalowane profile kolorów
+Odnajdywanie energii linii spektralnych promieniowania X
+Pobiera i uruchamia obraz ISO Ubuntu w maszynie wirtualnej
+Twórz notatki, łącz pomysły, zorganizuj swoje życie!
+Bazująca na libavg multidotykowa adaptacja popularnej gry Planarity, aka Untangle
+Nie można ustawić n-cykli %u do odtwarzania: %s
+Uruchamia klienta Wicd bez ikony w obszarze powiadamiania
+Uruchomienie serwera LTSP z Live CD
+Program wizualizacji kryształów i struktur molekularnych
+Odtwarzanie pliku Creative Labs Channel '%s'...
+Należy umieścić damę pik obok waleta pik.
+Konwersja plików audio, ripowanie CD, narzędzie ReplayGain
+Usuwa zrzut pamięci ze zgłoszenia po regeneracji śladu stosu.
+Program do tworzenia i edycji projektów układów elektronicznych za pomocą xgsch2pcb
+Zagraj w Go w trybie online i z komputerem. Przeglądaj i edytuj pliki SGF
+Zapis zrzutów ekranu w postaci pojedyńczych zdjęć lub filmu
+Notatnik z segregowaniem hierarchicznym do zapisywania notatek i pomysłów
+Tryb nieprawidłowy, w regułach zabraniających znacznik "x" nie może być poprzedzony znacznikiem wykonania "i", "p" lub "u"
+Graficzny interfejs użytkownika dla zestawu mCRL2
+Pokaż wskaźnik Gnome - menu główne, klasyczne
+Brak wystarczającej ilości wolnego miejsca na dysku, aby przetworzyć to zgłoszenie.
+Przepraszamy, wystąpił błąd podczas instalowania oprogramowania.
+Narzędzie dla nauczycieli pozwalające między innymi, na kontrolę komputerów uczniów
+Proste lecz solidne narzędzie do nagrywania dźwięku
+Pełne wsparcie dla Funcube Dongle API firmware 18f lub późniejszych
+Określa program w trybie zgłaszania błędu. Dodaje do zgłoszenia większą ilość informacji (pid jest podany jako jedyny parametr).
+Wznawianie zawiesiło się bardzo blisko końca tego procesu i wygląda na ukończony poprawnie.
+Na sześciokątnej sieci dopasuj do siebie spadające bloki
+Pobieranie z sieci Usenet z pomocą plików NZB
+Odeprzyj przeciwników wypełnieniając ich sieci odpadkami.
+Graficzny kreator Unixa dla elementów pośredniczących (wrapper) z GNUstep
+Zapis C# w interaktywnym shellu oraz wstrzykiwanie Twojego kodu do działających procesów
+Opaski uciskowej należy używać wyłącznie w ostateczności
+Tworzenie i edycja napisów do filmów i nagrań wideo.
+Odbiornik audio sygnału IQ częstotliwości pośredniej
+Pozwala na błyskawiczne uruchamianie programów, odnajdywanie muzyki, kontaktów i wielu innych zawartości komputera
+Zegary dla różnych stref czasowych oraz alarmy, stoper i czasomierz
+Dostęp do historii połączeń i książki telefonicznej Fritz!Box. Aplikacja powiadamia o połączeniach przychodzących i wychodzących
+DXX-Rebirth port źródłowy gry Descent 2: Counterstrike z 1996...
+Należy umieścić karty w porządku najbardziej pasującym do obecnego układu.
+Należy umieścić trójkę pik obok dwójki pik.
+Interfejs graficzny dla CVS oraz Subversion
+Nieograniczony znacznik wykonania (%c%c) zezwala na przekazywanie niebezpiecznych zmiennych środowiska do procesu. Więcej informacji można znaleźć w podręczniku systemowym "man 5 apparmor.d".
+Dzieli obraz na wiele stron gotowych do montażu w jeden duży plakat
+Gra - układanka z rybą w roli głównej, mającej za zadanie uratowanie świata
+Odtwarzaj i zarządzaj swoją kolekcją multimediów
+Wymagane jest uwierzytelnienie, aby zmienić dane użytkownika
+nieznana długość wycinka 'fmt ' (odczyt %u, powinien być przynajmniej %u)
+Menedżer zadań i ustawień dla drukarek atramentowych Epson
+SSVNC - dostęp do pulpitów zdalnych VNC
+Należy przenieść ~a na siódemkę pik.
+Aplikacja do zarządzania telefonymi komórkowymi z S60
+Gra Sudoku i inne dla KDE
+Aplikacja do testowania wszystkich funkcji guidata.
+karta %i: %s [%s], urządzenie %i: %s [%s]
+Zagraj w trówymiarowe szachy i pokaż co potrafisz!
+Należy umieścić waleta kier obok dziesiątki kier.
+Konwersja obrazów 3D NIfTI na DICOM 2D series
+Narzędzie do rozdzielania i łączenia dokumentów PDF
+%s: %s: Nie znaleziono nazwy pliku w linii %d, przerwanie pracy
+Zbieraj drogocenne minerały, uważając na spadające odłamki bomb
+Interfejs graficzny monitora maszyn wirtualnych QEMU
+Należy przenieść ~a na króla pik.
+-n, --no-mask nie przeliczanie maski efektywnych uprawnień -d, --default wykonywanie operacji na domyślnym ACL
+Należy umieścić króla kier obok damy kier.
+Prosty pakiet do szkicowania i edycji grafiki dla GNOME (odpowiednik MS Paint)
+Dodaje dwójkę w pierwszym od lewej miejscu wiersza ~a.
+Należy przenieść ~a na trójkę pik.
+Blob Wars : Metal Blob Solid
+Program do nauki alfabetu dla KDE
+Instaluje, usuwa i aktualizuje pakiety aplikacji
+Rozpoczyna w trybie zgłaszania błędu. Wymaga opcji --package oraz opcjonalnie --pid, lub tylko opcji --pid. Jeśli żadna opcja nie zostanie użyta, wyświetlona zostanie lista symptomów.
+Front end GUI dla programu efax
+Wtyczki GStreamer dla plików aac, xvid, mpeg2, faad
+Pokoloruj każde pole jednym z czterech kolorów tak, aby każdy sąsiadujący obszar miał inną barwę
+Łatwe przetwarzanie wsadowe plików graficznych oraz edycja metadanych
+%s: nie można odczytać dostępowego tekstu ACL dla '%s': %s
+Wyszukuje, przegląda i edytuje dokumentację Monodoc
+Lubisz anagramy? Ta gra jest stworzona dla Ciebie!
+%s: nie można odczytać dostępowego ACL dla '%s': %s
+%s: %s: %s w linii %d
+Należy przenieść ~a na ósemkę pik.
+Należy umieścić piątkę kier obok czwórki kier.
+Uniwersalny panel sterowania urządzeiami V4L2 (video for Linux)
+Pozyskuje dane ze zeskanowanych obrazów wykresów
+Tworzenie i edycja prezentacji pokazów slajdów na potrzeby konferencji, wykładów czy stron internetowych
+Narzędzie do odczytywania zawartości kart smart
+Zaawansowane narzędzie pozwalające zaplanować zamknięcie lub restart systemu.
+Utworzenie aliasu %s nie powiodło się -> %s
+Gra do nauki programowania w języku Java
+nie można odtworzyć plików WAVE z %d ścieżkami
+Prosty program do obsługi urządzeń używających sterownika Linux UVC (np. kamer internetowych)
+Należy przenieść ~a na króla kier.
+Analiza awarii w terminalu za pomocą apport-retrace
+Zmiażdż robale, zanim wyssą Twoją krew!
+Należy rozmieścić karty na tableau układając je jak do pokera
+Block Attack - Rise of the Blocks
+%s: napotkano błędy w łączonym przetwarzaniu reguł. Proces przerwano.
+Daje możliwość zakrycia części pulpitu za pomocą wirtualnej zasłony
+Prosty w użyciu program do studiowania Biblii
+Zjeżdżaj pingwinem po śniegu w dół góry
+Błędny znacznik wykonania "%c". Wcześniej użyto sprzecznego znacznika.
+Prosty terminarz i kalendarz dla GNUstepa
+Klient Crossfire, wieloosobowej gry typu RPG
+Narzędzie do zarządzania dyskiem i archiwami danych
+Wyszukuje pakiety i wyświetla informacje o nich
+Należy umieścić ósemkę kier obok siódemki kier.
+Wizualizacja, edycja, konwersja i zabawa danymi z urządzeń GPS
+Monitor obciążenia systemu wyświetlający wykresy dla procesora, pamięci RAM, przestrzeni wymiany oraz ruchu sieciowego
+Gra edukacyjna typu puzzle w stylu Hi-Q
+Framework do analizy kodu źródłowego oprogramowania napisanego w języku C
+Emulator komputera ZX Spectrum z lat 80 i jego klonów
+Brak dostępu do zgłoszenia o błędzie.
+Generator kombinacji gry Su Doku z opcją rozwiązania zadania oraz wykonywaniem zrzutów do PDF
+Należy przenieść ~a na dwójkę pik.
+Powiadamia o nadejściu nowej poczty Gmail
+Narzędzie graficzne do projektowania i symulacji cyfrowych układów logicznych
+Tworzy i edytuje schematy i symbole elektryczne za pomocą gschem
+Odczyt, konwersja i manipulacja zdjęciami z aparatów cyfrowych
+Odczyt, przechwytywanie oraz nadawanie strumieni multimedialnych
+Edytor tekstu presage z funkcją przewidywania wyrazów
+Narzędzie do łączenia obrazów w panoramę
+Oblicza temperaturę topnienia dupleksów kwasów nukleinowych
+Fantazyjny, animowany program do robienia zdjęć kamerką internetową
+%s jest wolnym oprogramowaniem; można go rozprowadzać dalej i/lub modyfikować na warunkach Powszechnej Licencji Publicznej GNU, wydanej przez Fundację Wolnego Oprogramowania - według wersji %d tej Licencji lub którejś z późniejszych wersji.
+Kanał %2d: Niezapisane zdarzenie : %5d
+Framework do kontroli silników przeglądarek internetowych
+Należy przenieść ~a na dziesiątkę pik.
+Dziel się danymi za pomocą protokołu HTTP
+-i, --info : wypisuj pewne otrzymane zdarzenia
+Wirtualna Maszyna z kompilatorem JIT CPU. Maksymalna prędkość!
+Należy przenieść ~a na szóstkę pik.
+Graficzny interfejs do budowy UIMA CPE
+Integrated Development Environment (Pick Session to start with)
+Program dla dzieci do nauki obsługi myszy
+Edytor biblioteki mebli w 3D programu Sweet Home
+Aktualizacja %s z pomocą fully symbolic stack trace
+%s: błąd grupowania wyrażeń regularnych: nieprawidłowa ilość elementów pomiędzy {}
+Kontroler wyjścia Video, kart graficznych NVidia
+Pozwala na organizację i zarządzanie kolekcjami filmów, gier, książek, muzyki itp.
+Przypisy i katalogowanie w sieci cyfrowych plików wideo
+Czas na świecie oraz CW ID dla operatorów Ham Radio
+Terminal sieciowy z funkcją zapisu danych
+Bogaty, legalny, darmowy zestaw funkcji matematyczych do analizy, modelowania i przetwarzania danych
+Program wydaje polecenia dla systemu operacyjnego przy pomocy ruchów kursora myszy
+polecenie powinno mieć nazwę arecord albo aplay
+Tworzy i edytuje prezentacje slajdów na potrzeby szkoleń i stron internetowych, za pomocą serwisu internetowego Zoho
+Łatwy w użyciu system kontroli wersji oprogramowania
+Skaluj i obracaj zdjęcia kilkoma kliknięciami
+Interfejs GNOME do zarządzania Twoją kolekcją komiksów
+Pobiera wiadomości RSS, podcasty i blogi wideo
+Narzędzie do łączenia się z sieciami bezprzewodowymi
+Nie można ustawić parametrów hw dla odtwarzania: %s
+Gdy brakuje zszywacza, można użyć zszywki i linijki
+Bezpłatna i łatwa księgowość osobista dla każdego.
+Pozostawienie pliku zgłoszenia w celu późniejszego wysłania lub skopiowania
+nie można odtworzyć formatu pliku WAVE 0x%04x, który nie jest zakodowany jako PCM lub FLOAT
+Wysyła zdjęcia i pliki wideo do galerii
+Pozwala zarządzać obrazami dysków w formatach ISO, IMG, BIN, MDF oraz NRG
+Wizualizuje dane naukowe, inżynierskie i analizy
+Narzędzie graficzne do analizy danych elektrofizjologicznych
+Sugeruje nowe pakiety, kiedy urządzenia są podłączane
+Przeglądanie usług Zeroconf dostępnych w sieci
+Administracja i tworzenie baz danych Sqlite3
+Nie można ustawić parametrów sw dla odtwarzania: %s
+Interaktywne narzędzie do nauki i symulacji zjawisk optycznych
+Graj na 39 tangramach ponad 18 000 figur
+Ubuntu może zbierać anonimowe informacje, które pomagają programistom w jego ulepszaniu. Wszystkie zbierane informacje podlegają naszej polityce prywatności.
+Narzędzie KDE do masowej zmiany nazw plików i katalogów
+Nazwa pliku zawierającego grafikę dla kart.
+Wyświetla i modyfikuje konfigurację lokalnego serwera dźwięku
+nieznana długość rozszerzenia fragmentu 'fmt ' (przeczytano %u, powinno być co najmniej %u)
+Zapisywanie obrazów wektorowych z okna aplikacji
+Należy umieścić coś w pustym miejscu tableau.
+Monitory nie dadzą ci witaminy D - w przeciwieństwie do słońca...
+Narzędzie do ekstremalnego przeciągania dźwięku (np. 50x)
+Pozwala na wykonywanie obliczeń arytmetycznych, naukowych czy finansowych
+Należy umieścić dziesiątkę pik obok dziewiątki pik.
+Konflikt - "a" i "w" wykluczają się wzajemnie.
+Telefon (Softphone) obsługujący protokoły SIP oraz IAX 2
+Planszowa, sieciowa gra strategiczna, obsługująca nawet do czterech graczy
+Graj w gry z Nintendo Game Boy Advance
+Rozproszony klient IRC z centralnym rdzeniem
+Binarny sterownik nVidia X.Org (wersja 96)
+Sensor barw do pobierania próbek koloru
+Spraw by twoje zdjęcia lśniły - automatyczne poziomy gamma, kontrastu, nasycenia
+Należy przenieść ~a na asa karo.
+Zestaw gier, będących wyzwaniem dla Twoich zdolności werbalnych, logicznego myślenia, liczenia czy zapamiętywania
+Bardziej zaawansowany edytor tekstu z setkami funkcji
+Filtr spamu oparty o analizę tekstową (działa z programem Evolution Mail)
+Nie dodaje nowych śladów do zgłoszenia tylko wypisuje je na standardowe wyjście.
+Narzędzie do przeglądania i obróbki "surowych" zdjęć z aparatów cyfrowych
+W pełni funkcjonalny odtwarzacz muzyki, wideo, klient podcast i bittorrent
+Gra typu puzzle, zawierająca zawikłane grafy planarne
+Należy umieścić coś w pustym miejscu po prawej stronie tableau
+Oprogramowanie do trójwymiarowej topologii, rozmaitości i teorii powierzchni normalnej
+Niewielka gra zręcznościowa typu shoot-'em-up dla jednego lub dwóch graczy
+Formuj linie, usuwając kolorowe piłeczki z tablicy
+Tworzy i kopiuje płyty CD i DVD
+Prosty w obsłudze interfejs do tworzenia kopii zapasowych
+Należy umieścić czwórkę pik obok trójki pik.
+Wyświetla informacje i powiadomienia o nowo wykrytych urządzeniach Bluetooth
+Programiści zostali już poinformowani o tym problemie. Dziękujemy!
+Nie ma oczekujących zgłoszeń awarii. Proszę użyć opcji --help, aby uzyskać więcej informacji.
+Przeszukuje bazy danych i pobiera z nich dokumenty
+Klient wymiany plików sieci Direct Connect
+Użytkownik nie jest autorem tego zgłoszenia o błędzie. O wiele łatwiej oznaczyć błąd jako duplikat innego, niż przenieść swoje komentarze i załączniki do nowego błędu. Z tego powodu zaleca się wysłanie nowego zgłoszenia błędu używając narzędzia "apport-bug" i dodanie komentarza do tego zgłoszenia na temat błędu już zgłoszonego. Kontynuować?
+Należy umieścić dziesiątkę trefl obok dziewiątki trefl.
+Instalacja nowych motywów kart z pakietów w repozytoriach dystrybucji
+Gra o manii, melancholii i procesach twórczych
+Tworzy pakiety serwisowe do współdzielenia z innymi komputerami
+Określony proces nie jest własnością bieżącego użytkownika. Proszę uruchomić ten program jako właściciel procesu lub jako administrator.
+Blob Wars : Blob And Conquer
+Niesamowity pogłos przez kokkinizita - więcej huku na bajt
+Należy umieścić waleta pik obok dziesiątki pik.
+Należy umieścić siódemkę kier obok szóstki kier.
+Wykonuj obliczenia, analizuj informacje lub zarządzaj listami danych w arkuszach kalkulacyjnych za pomocą Calc.
+Nie można ustalić bieżących parametrów swparams dla odtwarzania: %s
+Użytkownik nie jest autorem lub subskrybentem tego zgłoszenia o błędzie lub zgłoszenie jest duplikatem albo zostało już zamknięte. Proszę zgłosić błąd używając narzędzia "apport-bug".
+Sprawdza tłumaczenia słów w angielskim słowniku catalan
+Nie można ustawić trybu progowego dla odtwarzania: %s
+Zmiana głośności dźwięku i zdarzeń dźwiękowych
+Archiwizacja danych na płytach DVD z weryfikacją poprawności
+Serwer plików audio dla sieci lokalnych. Dziel się muzyką z bliskimi przyjaciółmi
+Prosty frontend do łączenia się ze zdalnymi systemami plików
+Błąd: profil %s zawiera elementy zasad, które nie są używane w bieżącym \t jądrze systemu: zakresy znaków "*", "?" oraz zmiany nie są dozwolone. \t znak "**" może być użyty tylko na końcu reguły.
+Tłumaczy oraz lokalizuje aplikacje i biblioteki
+Należy umieścić siódemkę karo obok szóstki karo.
+Aplikacja do pobierania i wysyłania napisów do filmów
+Wskocz na swoich przeciwników, aby eksplodowali!
+Edytor napisów do filmów dla GNOME
+Nie można ustawić dostępnego minimum odtwarzania: %s
+Zmiana ustawień aktualizacji oprogramowania oraz aktywacja i wyłączanie jego źródeł
+Multimedialny program wspomagający rozwój intelektualny dzieci
+Binarny sterownik nVidia X.Org (wersja 173)
+Kolorowa, oryginalna gra logiczna, wciągająca na długie godziny
+Wykres spektralny i demodulator danych radia IQ
+Błąd: nie można wykonać %s. Zatrzymywanie.
+Należy przenieść ~a na dziesiątkę trefl.
+Tworzenie, modyfikacja i kasowanie udziałów serwerowych Samby
+Zestaw programów do identyfikacji różnic w API i pracy z bibliotekami Mono
+Najlepszy program do szybkiego uruchamiania aplikacji, jakiego nie kupisz za żadne pieniądze.
+Zgłoszenie błędu dotyczy programu, który nie jest już zainstalowany.
+Proszę wprowadzić dane swojego konta w systemie śledzenia błędów %s
+Pozwala zapobiegać urazom na skutek chronicznego przeciążenia organizmu ( RSI ), u osób pracujących przy komputerze
+X Terminal z obsługą Thai (TIS-620 encoding)
+Należy przenieść ~a na puste narożne miejsce.
+zmiana formatu przechwytywania strumienia? próba naprawy...
+Należy umieścić piątkę trefl obok czwórki trefl.
+Przeglądarka archiwów komiksów (cbz, cbr, cbt), wyposażona w wiele specyficznych funkcji
+Interfejs użytkownika multimedialnego centrum Plasma framework
+Komputer nie posiada wystarczającej ilości wolnej pamięci, aby automatycznie przeanalizować problem i zgłosić błąd do twórców programu.
+Aby uzyskać dostęp do raportów o błędach systemowych, należy wprowadzić hasło
+Program do ćwiczenia pamięci i pomocy z zapamiętywaniu (nauce)
+%s: Nie znaleziono nazwy pliku w linii %d standardowego wejścia, przerwanie pracy
+Otwarcie %s nie powiodło się - %s
+Gra Puzzle w stylu solomon's key
+SDL-Port of Wolfenstein 3-D and Spear of Destiny
+Należy przenieść ~a na króla karo.
+Można teraz uruchomić przeglądarkę internetową, albo wkleić ten adres URL do przeglądarki na innym komputerze.
+Nauka programowania w języku BASIC w środowisku zaprojektowanym dla małych dzieci
+Open Cubic Player 0.1.20 dla systemu UNIX
+Animator sieci oparty na Qt4 z ns-3
+Trójwymiarowy FPS (strzelanka) z wysokiej jakości efektami graficznymi
+Gra w Puzzle inspirowana puzzlami Einsteina
+36 rodzajów puzzli dla całej rodziny
+Zarządzanie uruchomionymi procesami i zasobami systemu oraz sieci
+Tworzenie dysków startowych za pomocą obrazu płyty CD
+Nagrywa dźwięk z wejścia audio i zapisuje go w postaci nut
+Należy przenieść ~a na damę kier.
+Nieobsługiwany format WAV %d dla %s
+Edytor napisów do filmów oparty o GStreamera i GTK+
+Ignorowanie przyszłych błędów tej wersji programu
+Gra w stylu Yahtzee z otwartym kodem źródłowym, napisana w C#
+Szybkie i lekkie zintegrowane środowisko programistyczne GTK2
+Słownik StarDict oparty o bibliotekę Qt
+Zarządzanie bazą danych nośników wymiennych bez potrzeby łączenia ich z komputerem.
+%s: błąd przy usuwaniu dostępowego acl dla "%s": %s
+Zarządzaj muzyką, filmami i obrazami na iPodzie
+Tworzy proste wykresy danych w dwuwymiarowym układzie współrzędnych
+Pomoc w debugowaniu, modyfikacji i tworzeniu kodów, dzięki możliwości jego podświetlania
+Nagrywaj, miksuj i obrabiaj wielościeżkowe pliki dźwiękowe
+Trójwymiarowy interfejs graficzny do analizy danych naukowych
+Gra Drill do nauki japońskich znaków Kana
+Wysyłanie i odbieranie poczty z Thunderbird
+%s: Usunięcie wiodącego '/' ze ścieżek bezwzględnych
+Klient komunikatora MSN, Gtalk oraz Facebook
+Cofa, aż będzie jest wystarczająco dużo kart, aby zapełnić wszystkie stosy na tableau
+Należy przenieść ~a na dwójkę kier.
+Podaj nazwę pliku logów, generowanych przez valgrind
+Kodeki do otwarzaniaplików mpeg, divx, mpeg4, ac3, wmv i asf
+Interfejs GTK dla narzędzia synchronizacji plików unison 2.40.102
+Lista napisów zawierających pięć elementów: nazwa, zwycięstwa, liczba rozegranych gier, najlepszy czas (w sekundach) i najgorszy czas (również w sekundach). Gry nierozegrane nie są przedstawiane.
+Edytor dopasowań sekwencji wielokrotnych DNA, białek i drzew filogenetycznych z zapisem w formacie PostScript
+Klient połączenia z MUD ( Multi User Dungeons RPG )
+Zarządzanie i zmiana ustawienia połączeń L2TP IPsec VPN
+Strategiczna gra turowa zainspirowana historią ludzkiej cywilizacji
+Wysokiej jakości, brutalna, trójwymiarowa gra akcji FPP
+Uruchamia aplikacje EMBOSS Explorer w Twojej domyślnej przeglądarce internetowej
+To, że przejście dla pieszych wygląda jak pole do gry w klasy, nie znaczy że nim jest
+Pozwala na badanie i oglądanie cząsteczek białek oraz niektórych objektów geometrycznych
+Gra typu puzzle w 2D, gdzie poruszasz się małym, puszystym kotkiem pomiędzy strugami deszczu
+Środowisko graficzne IDE dla mikrokontrolerów opartych o MCS-51
+Gra typu puzzle, w której należy doprowadzić wodę do zbiornika
+%s: %s: Nie można zmienić właściciela/grupy: %s
+Znaczniki zapisane wielkimi literami "RWLIMX" nie są już aktualne. Proszę używać małych liter. Więcej informacji można znaleźć w podręczniku systemowym apparmor.d(5).
+Wyświetla, zmienia i zapisuje obrazy z kamery internetowej
+Stwórz własny show radiowy lub podcast!
+Symulator kolei, kompatybilny z trasami 'BVE Trainsim'
+Odtwarzacz telewizji cyfrowej (DVB) dla GNOME
+Pozwala na tłumaczenie tekstów oraz zawartości stron internetowych
+Kreator interfejsów użytkownika w oparciu o biblioteki wxWidgets/wxPython
+Należy przenieść ~a na puste górne miejsce.
+Pobieraj i dziel się plikami, używając sieci P2P BitTorrent
+Tworzenie szkiców, schematów blokowych oraz logo w programie Draw
+Należy umieścić dziewiątkę karo obok ósemki karo.
+Przeglądarka plików PDF z zakładkami, wykorzystująca bibliotekę poppler
+Aktualizuje i zarządza dziennikami online (blogami)
+Aplikacja do wykonywania obliczeń i działań na wyrażeniach algebraicznych
+Należy umieścić dziewiątkę trefl obok ósemki trefl.
+Program %s rozpowszechniany jest z nadzieją, iż będzie on użyteczny - jednak BEZ JAKIEJKOLWIEK GWARANCJI, nawet domyślnej gwarancji PRZYDATNOŚCI HANDLOWEJ albo PRZYDATNOŚCI DO OKREŚLONYCH ZASTOSOWAŃ. W celu uzyskania bliższych informacji należy zapoznać się z Powszechną Licencją Publiczną GNU.
+Błąd podczas dodawania reguły dostępu hat dla profilu %s
+Uruchomia w trybie aktualizacji zgłoszenia błędu. Można użyć z opcją --package.
+Zintegrowany edytor MIDI piano roll oraz silnik sekwencera
+Gra retro multitouch: użyj dwóch pokręteł aby narysować obraz
+Rozświetl puste miejsca, wkręcając żarówki. Kolekcja gier - układanek
+Edytuje treść ebooków, zapisanych w formacie PDF
+Spektroskopiczna tabela okresowa absorpcji promieniowania X
+Powszechnie używane programy z ograniczonymi dla Xubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash)
+Należy umieścić waleta trefl obok dziesiątki trefl.
+Interaktywny interpreter wielojęzykowy obsługujący większość formatów IF
+Nastąpiło to podczas poprzedniej hibernacji systemu i uniemożliwiło poprawne wznowienie.
+Twórzy i edytuje grafikę wektorową w formacie Scalable Vector Graphics(SVG)
+Program do analizy przemówień i transkrypcji za pomocą zintegrowanego edytora
+Prosty selektor i pipeta kolorów GTK2
+Prosty interfejs graficzny GTK do interaktywnej konfiguracji Liquidsoap
+Znajdź problemy zarządzania pamięcią za pomocą narzędzia Valgrind
+Klon klasycznej gry arkadowej "Breakout" dla GNOME
+Wielowymiarowa grafika interaktywna do eksploracyjnej analizy danych
+Wysyła ed2k://, magnet: or *.emulecollection do silnika
+Należy przenieść ~a na szóstkę kier.
+Gra o interakcjach w społeczności ogrodników
+Metronom MIDI KDE dla sekwencerów ALSA
+Klasyczna dwuwymiarowa gra przygodowa typu wskaż i kliknij
+Klasyczna gra w szachy dla dwóch osób
+Pomaga zarządzać finansami, kontami i inwestycjami
+Administracja dla kont pocztowych z serwerów IMAP Cyrus
+Zarządzanie rezerwacjami dla hoteli, hosteli oraz BB
+Należy przenieść ~a na asa pik.
+Zarządzanie urządzeniami BlackBerry za pomocą graficznego interfejsu użytkownika
+Należy umieścić dziewiątkę kier obok ósemki kier.
+Usuwa, rozpakowuje i obraca strony dokumentów PDF
+Frontend do odtwarzania strumieni multimedialnych video w czasie rzeczywistym
+Trójwymiarowa Szalka Petriego do demonstracji rozwoju sztucznego życia
+Zapis, odtwarzanie, edycja i konwersja plików audio
+Wieloplatformowe środowisko języka BASIC do tworzenia gier, opartych o biblioteki SDL
+Łap gemy i odrzucaj je, zanim Cię przygniotą
+Wskaźnik głośności zgodny z wytycznymi EBU-R128 dla JACK
+Organizacja i obróbka zdjęć z aparatów cyfrowych
+Gra w kości w stylu pokera
+Transmisja strumieni multimedialnych przez system Icecast
+Należy umieścić szóstkę kier obok piątki kier.
+Pokazuje i zapisuje w dzienniku dane transmisji dla programów Altus Metrum
+Narzędzie dla sędziów do analizy nagrań imprez sportowych
+Tworzy płytę instalacyjną LiveCD lub jej obraz ISO według własnych preferencji językowych i zawartości pakietów
+Należy umieścić szóstkę pik obok piątki pik.
+Element wykonalny uruchamiany poprzez narzędzie memcheck programu Valgrind, mające za zadanie detekcję wycieków pamięci
+Narzędzie filtrujące sygnał i obraz (program demo bazujący na guidata oraz guiqwt)
+Program do obróbki i przetwarzana zeskanowanych dokumentów tekstowych
+Generator zadań z matematyki dla szkół francuskich
+Automatycznie zmieniaj nazwy plików i sortuj je w wybranym porządku
+Desktopowa aplikacja organizera dla Palm Pilot
+Program do udostępniania widoku pulpitu zdalnym komputerom
+Określa nazwę pakietu w trybie zgłaszania błędu. Opcjonalne, jeśli użyto opcję --pid (wymuszone, jeśli podano nazwę pakietu jako parametr).
+błąd odczytu (wywołanie z linii %i)
+Umieszcza ikony aplikacji w panelu pulpitu
+Pustą kartę przenosi do pustego tymczasowego miejsca
+Proste środowisko GTK do testowania i wyświetlania danych wiimote
+Wykonuje zdjęcia przy pomocy kamery internetowej (webcam)
+-l,--list wypisuje bieżące połączenia każdego z portów
+Zakres rozmiaru okresu od %lu do %lu
+Należy umieścić króla karo obok damy karo.
+Odblokowanie dostępu do haseł oraz innych sekretów
+-d,--dest addr : zapis pod podany adres (klient:port)
+Należy umieścić dwójkę kier obok asa kier.
+Należy przenieść ~a na waleta trefl.
+Należy przenieść ~a na piątkę karo.
+Należy umieścić ósemkę pik obok siódemki pik.
+Aplikacja błyskawicznego otwierania programów i dokumentów
+Tłumaczy słowa lub zdania przy użyciu internetowego serwisu translacyjnego
+Programowa analiza i wizualizacja danych symulacji badań atomów
+Sparc Audio nie obsługuje formatu %s
+Należy przenieść ~a na puste prawe miejsce.
+bufor za mały, nie można go użyć
+Narzędzie graficzne do przetwarzania i klasyfikacji retrotranspozonów LTR
+Interfejs graficzny do wyświetlania strumieni wideo oraz radiowych Shoutcast lub Icecast
+Aplikacja do pobierania i zarządzania aplikacjami
+Zakres rozmiaru bufora od %lu do %lu
+Należy przenieść ~a na waleta karo.
+Konfigurator demona serwera TCOS oraz użytkowników
+%s nie jest strumieniem mono (%d kanaly/ów)
+Usuń informacje o używanych plikach i aplikacjach
+Zintegrowane środowisko programistyczne dla Pythona (IDE dla python-3.3)
+Zjadaj pyszne warzywa w ogrodzie (gra przeznaczona dla małych dzieci)
+Program do edycji zdjęć i tworzenia grafik rastrowych
+Należy umieścić siódemkę trefl obok szóstki trefl.
+Kreator atlasów offline dla aplikacji komórkowych i GPS
+Rozwijaj oprogramowanie w zintegrowanym środowisku programistycznym
+Nieustawiona zmienna logiczna %s użyta w wyrażeniu if.
+Program do odtwarzania fragmentów plików dźwiękowych ze zmienną prędkością
+Należy przenieść ~a na szóstkę karo.
+Zgłoszenia błędów zawierają informacje o działaniu programu podczas awarii. Użytkownik może w dowolnej chwili wysłać lub anulować raport.
+Applikacja ułatwiająca zarówno granie jak i zarządzanie modułami gry Dink
+Narzędzie programistyczne RAD dla języka Python i WxWindows
+Wewnętrzny błąd spowodował utworzenie nieprawidłowego uprawnienia 0x%llx
+Udostępnij klawiaturę i mysz przez sieć
+Modeluje struktury molekuł, tworząc ich wysokiej jakości obrazy
+Dwuwymiarowa gra platformowa o komunistach i kapitalistach
+Określa katalog podręczny pakietów pobieranych do piaskownicy
+Należy umieścić dwójkę pik obok asa pik.
+podzbiór może być użyty tylko z regułami łączy.
+Programowy renderer dźwięku (sekwencer MIDI oraz odtwarzacz MOD)
+nie można odtworzyć plików WAVE z próbkowaniem o rozmiarze %d bitów
+Wyszukiwarka GNOME do odnajdywania wyrazów w zbiorach plików
+Należy przenieść ~a na asa kier.
+Kontroler wyrzutni rakiet USB Marks and Spencer
+Wyświetla aktualny czas innych stref czasowych
+Multiplatformowy komunikator internetowy, obsługujący: Gadu-Gadu, Google Talk, Facebook, MSN, Yahoo i wiele innych
+Graficzny odtwarzacz muzyki, napisany w języku C
+Zaawansowany program logujący dla operatorów krótkofalówek
+Program do rysowania i obróbki zdjęć
+Narzędzie do strukturyzowania i organizacji informacji za pomocą map myślowych
+Interfejs graficzny do łatwej konfiguracji programu Synergy
+Dodaje informacje współrzędnych GPS do plików jpeg
+Odbijanie piłki w stylu gry breakout z doskonałą grafiką
+Czat głosowy na serwerach Ventrilo 3.x
+%s: błąd przy usuwaniu domyślnego acl dla "%s": %s
+Sekwencer audio z obsługą MIDI i wielościeżkowym edytorem muzyki
+Pozwala odbierać i wysyłać wiadomości tekstowe z telefonu komórkowego
+Zarządza oprogramowaniem, zainstalowanym z kodów źródłowych
+Należy przenieść ~a na puste miejsce.
+Wysyła i pobiera pliki przez protokoły FTP, FTPS oraz SFTP
+Zestaw gier typu puzzle dla jednego gracza
+Gra wideo z myszą w labiryncie
+%s: Błąd podczas przetwarzania końcowego wyrażenia regularnego. Proces przerwano.
+Klient IRC, stworzony na bazie aplikacji XChat
+Należy umieścić czwórkę trefl obok trójki trefl.
+Klient BBS oparty o linuksową bibliotekę Qt
+QjackCtl - JACK Audio Connection Kit Qt GUI Interface
+Nie można odtworzyć pętli, %s nie obsługuje skoków
+Umieszczaj punkty tak, aby łączące je linie nie przecinały się
+Kompresja, dekompresja, zmiana częstotliwości próbkowania oraz formatów plików dźwiękowych
+Nie można uruchomić przeglądarki internetowej, aby otworzyć %s.
+Graj w stare gry na emulatorze MAME
+Maszyna wirtualna z MMU dla FreeMiNT i Linux-m68k
+Tworzenie filmów ze zdjęć i klipów wideo
+Program do porządkowania przepisów, tworzenia listy zakupów, obliczania informacji odżywczych oraz wielu tym podobnych rzeczy.
+Należy przenieść kartę z zapasu na puste miejsce tableau
+Klient Fax z monitorem połączeń dla urządzeń AVM FRITZ!Box oraz kompatybilnych
+Umożliwia tworzenie i edycję zaawansowanych dokumentów tekstowych z elementami grafiki
+-f dat (16 bit little endian, 48000, stereo)
+Powszechnie używane programy z ograniczonymi dla Ubuntu prawami własnościowymi (mp3, avi, mpeg, TrueType, Java, Flash, kodeki)
+Program GENPO zamieni Twój komputer w prawdziwe organy!
+Projektant graficzny dla starterów RNA oraz reakcji PCR
+Kanał %2d: Zdarzenie kontrolne : %5d
+Konfigurator dodawania elementów do menu kontekstowego Nautilus
+Schematy, przechwytywanie i symulacja układów elektronicznych
+Błąd alokacji pamięci: Nie można usunąć %s:%s.
+Wtyczka dla programu Totem dla telewizji Arte
+Wtyczki GStreamer dla plików mms, wavpack, quicktime, musepack
+Zgrywanie zdjęć i filmów z aparatów, kart pamięci oraz innych urządzeń przenośnych
+Połącz kwadraty siatki zgodnie ze znajdującymi sie na nich strzałkami
+Interaktywne narzędzie do kopiowania danych z lub na urządzenia USB
+Własne filmy na DVD z menu
+Problem dotyczy programu %s, który został zmieniony od czasu awarii.
+Wciągająca gra platformowa z elementami układanki
+Program do pomocy przy rozwiązywaniu problemów z algebrą
+Interfejs graficzny dla gier Go, Amazons i Reversi
+Szafa grająca dla dużych kolekcji plików mp3/ogg/flac/mpc
+Nie można połączyć się z bazą danych awarii, proszę sprawdzić połączenie internetowe.
+Pozwala na zapis sesji (zrzutów ekranu) w postaci filmów wideo
+Powietrzna strzelanka 2D w Zero G
+Lekki i szybki klient pocztowy oparty na GTK+
+--set=acl ustawienie ACL pliku(ów), zastępując aktualne --set-file=plik odczytanie z pliku pozycji ACL do ustawienia --mask przeliczenie maski efektywnych uprawnień
+Program księgowy dla małych i średnich przedsiębiorstw
+Pozwala na zdalne sterowanie komputerem za pomocą telefonu komórkowego
+Ułóż okna na twoim pulpicie X
+Program do korekcji rozbieżności wokalu i linii melodycznej
+Gdy raport zostanie wysłany, proszę wypełnić formularz w automatycznie otwartej przeglądarce internetowej.
+Platformówka z pingwinem w roli głównej, zainspirowana grą Mario
+-f cd (16 bit little endian, 44100, stereo)
+Wyszukiwarka filmów, napisów, osób, torrentów wraz z informacjami na wielu stronach źródłowych
+Błąd: dodanie katalogu %s do ścieżki wyszukiwania nie powiodło się.
+Maszyna wirtualna dla 32-bitowych programów na Atari
+Taka sytuacja ma miejsce, gdy uruchamiana jest starsza wersja gry AisleRiot, która nie zapisuje ostatnio wybranego rodzaju gry. W takim przypadku uruchamiana jest domyślna gra Klondike.
+Wyszukuje dokumenty, udostępniając szczegółowe parametry filtrowania wyników
+Binarny sterownik nVidia X.Org (aktualna wersja)
+System nie dysponuje wystarczającą ilością pamięci, aby przetworzyć raport błędu.
+Należy przenieść ~a na czerwonego jokera.
+Należy przenieść ~a na króla trefl.
+Menedżer plików dla odtwarzaczy MP3 SONY
+Narzędzie do porównywania oraz łączenia plików i katalogów
+Brak możliwości ruchu. Należy cofnąć ruch lub rozpocząć od nowa.
+Paczka zawierająca narzędzia użytkowe GenBank dla: NCBI C, SDK: Cn3D, Network Entrez, Sequin, ddv i udv
+Określa, czy karty mają być przeciągane, czy też należy najpierw kliknąć na źródło a potem na cel.
+W pełni konfigurowalny z GUI, dwupanelowy menedżer plików X
+Wybór karty z zapasu dla pierwszego miejsca podkładu
+-f cdr (16 bit big endian, 44100, stereo)
+Aplikacja sekwencera Audio z obsługą MIDI
+Dzielenie plików w sieci Direct Connect
+Skrypt symptomu %s nie określił pakietu
+Podany pid to numer zawieszonej aplikacji.
+Należy umieścić waleta karo obok dziesiątki karo.
+Dwuwymiarowa gra, zainspirowana Bubble Bobble, Snow Bros i Tumble Pop
+Zoptymalizowane przyśpieszanie sprzętowe OpenGL dla nowszych kart graficznych ATI
+Wyświetla makromolekuły i przygotowuje ich obrazy do publikacji
+Wysyła polecenia z kalwiatury do kilku okien jednocześnie
+Klient sieci IRC dla GNUstep i Mac OS X
+Zawiera Gmail, Google Docs, Google+, YouTube oraz Picasa
+Lekkie, przyjemne dla oka widżety pulpitu
+Wyświetlanie, modyfikacja, drukowanie i eksport drzew filogenetycznych w formacie SVG
+Znajdź to, czego szukasz na komputerze wg nazwy lub treści, używając programu Tracker
+Narzędzie projektowania stron internetowych w języku Python
+Modelowanie 3D, animacja, rendering oraz postprodukcja
+Graficzny interfejs użytkownika dla PDF Toolkit (pdftk)
+Tnie, dzieli, łączy, obraca strony i zmienia układ w dokumentach PDF
+Analiza i graficzna prezentacja danych naukowych
+Gdy zgubisz się w lesie i poczujesz samotność, przytul drzewo
+Gosmore - edycja i przeszukiwanie map oraz tras OpenStreetMap
+Odkrywaj pary kamieni, unikając przeszkód i zastawionych pułapek
+Śledzi i synchronizuje pliki w Git Annex
+Mały i szybki klient sieci BitTorrent
+Aplikacja uruchomieniowa do Freespace 2 Source Code Project
+Symulator lotu FlightGear w trybie graficznym
+Tłumaczy słowa pomiędzy językami angielskim i japońskim
+Należy umieścić ósemkę trefl obok siódemki trefl.
+Pobieraj pliki ze swojego aparatu cyfrowego.
+Narzędzie graficzne do łączenia i porównywania plików tekstowych
+Obróbka obrazów astronomicznych oraz kontrola CCDs
+Zmiana tapety i zachowań menedżera pulpitu
+Otwiera nowe okno trybu prywatnego przeglądarki
+Pozwala na zmianę i projektowanie modeli cząsteczek oraz tworzenie ich szkiców o wysokiej jakości
+Strategiczna walka w przestrzeni 2D dla wielu graczy przez internet w czasie rzeczywistym
+Interfejs graficzny dla środowiska R do obliczeń statystycznych
+Lekki klient Twitter na bazie Gtk2 i WebKit
+Narzędzie do pomocy w tłumaczeniu tekstów
+Modyfikacja matryc kalibrujących dla urządzeń ColorHug
+Klient GTK+-2 dla OpenVAS Security Scanner
+Należy przenieść ~a na trójkę karo.
+Przepraszamy, program %s został niespodziewanie zakończony
+AppArmorAplet to wolne oprogramowanie; można je redystrybuować i/lub modyfikować zgodnie z warunkami licencji GNU General Public License wydanej przez Free Software Foundation; w wersji 2 tej licencji lub dowolnej późniejszej.
+Zmniejsza i rozdziela pliki mp3 i ogg bez potrzeby dekodowania
+Zarządzanie bazami danych, tworzenie kwerend i raportów
+Należy umieścić piątkę karo obok czwórki karo.
+%s: nie można ustawić domyślnego acl dla "%s": %s
+Klient i przeglądarka zdjęć formatu DICOM z obsługą PACS oraz sieci
+Ograniczone wsparcie dla urządzeń ze starszym firmwarem
+Zarządzanie certyfikatami i zunifikowane GUI kryptograficzne
+Aplet panelu do zmiany rozmiarów i orientacji ekranów X.
+Dopasuj dwie najwyższe karty z wykorzystanych.
+StepBill - XBill dla GNUstepa (oparty na MacBillu)
+FPS 4D na pokładzie statku kosmicznego
+Nie można ustalić pakietu lub nazwy pakietu źródłowego.
+Abstrakcyjna, pionowa strzelanka z elemetami muzyki
+Należy umieścić dziewiątkę pik obok ósemki pik.
+Należy przenieść ~a na waleta pik.
+Błąd: nie można odczytać profilu %s: %s.
+Pozwala tworzyć i przeglądać projekty interfejsów użytkownika dla aplikacji GTK+
+* Wypisuje połączone porty (bez ich subskrypcji)
+Dostęp do graficznego środowiska pulpitu przez syntezator mowy i/lub odświeżalne pismo Braille'a
+Dodawanie i usuwanie programów głównego menu
+Należy przenieść ~a na czwórkę pik.
+Ostrzeżenie: format jest zmieniony na S16_BE
+Nie można ustawić rozmiaru %lu bufora dla odtwarzania: %s
+Interfejs graficzny w Javie dla FTP, SMB, SFTP oraz NFS
+Środowisko programowe R dla obliczeń statystycznych i grafiki
+Kanał %2d: Zapisane zdarzenie : %5d
+Program do zarządzanie routerami zgodnymi z UPnP IGD
+%s: napotkano błędy w pliku. Przerwanie procesu.
+Zaawansowane narzędzie do ataków i badania zabezpieczeń sieciowych
+Niewspierany format próbki bitów %d dla %s
+Zdobądź wszystkie sześć niebieskich kwadratów na sześciu ścianach sześcianu na raz
+Przekierowuje i manipuluje strumienie dźwiękowe z i do różnych źródeł
+Tworzy i edytuje płytki elektronicznych obwodów drukowanych
+Amatorskie radio do przesyłania danych z ARQ
+Przeglądarka plików pomocy HTML skompilowanych do formatu CHM
+Program symulujący procesy zachodzące podczas ewolucji organizmów
+Zarządzanie dyskami, partycjami i systemami plików
+Zestaw kart należy przenieść na puste miejsce miejsca tableau
+Gra "w lochach" typu Rogue, bazująca na książkach J.R.R. Tolkiena
+Graficzny interfejs użytkownika dla EMBOSS (European Molecular Biology Open Software Suite)
+Pozwala śledzić zasoby systemowe użycia i wydajności procesora, pamięci, dysków, poczty itp.
+Gra platformowa dla wielu graczy, w której krasnoludy walczą jedzeniem o jedzenie
+Błąd przetwarzania wyrażeń regularnych dla profilu %s. Wczytanie nie powiodło się.
+Uszkodzona konfiguracja odtwarzania: brak dostępnych konfiguracji: %s
+Uwaga: częstotliwość nie jest dokładna (zażądano = %iHz, jest = %iHz)
+Przepraszamy, wystąpił wewnętrzny błąd działania %s.
+Należy umieścić ósemkę karo obok siódemki karo.
+Zarządzanie aktywnymi zadaniami, wykonywanymi przez komputer
+Szybkie kalkulacje i rozwiązywanie równań algebraicznych
+Dostarcza interfejsy D-Bus do odpytywania i manipulowania informacjami o kontach użytkowników.
+nieprawidłowy format znacznika w rozszerzeniu fragmentu 'fmt '
+Gra platformowa, gdzie Twoim zadaniem jest zbieranie cukierków
+Program do masowej zmiany nazw plików i folderów
+Aplikacja umożliwiająca wybudzanie komputera przy użyciu funkcji Wake On LAN
+Niewymagająca gra, w której należy odpierać ataki nadlatujących agresorów
+Należy przenieść ~a na nieznaną kartę.
+Diagnoza i naprawa uszkodzonych plików mp3
+Pakiet do badania i kontroli widżetów aplikacji
+Zebrane informacje są wysyłane do systemu zgłaszania błędów. To może potrwać kilka minut.
+Ponowne użycie istniejącego już katalogu cache (CDIR) lub jego utworzenie
+Program do tworzenia kopii zapasowych i przywracania danych
+Prosty w obsłudze ale bogaty w funkcje klient multipleksera muzycznego XMMS2
+Aplikacja do wizualizacji i analizy danych naukowych
+Wieloprotokołowy komunikator oraz telefon internetowy VoIP SIP/RTP
+Należy przenieść ~a na dziesiątkę kier.
+Niewielki program do tworzenia zaawansowanych prezentacji DVD
+Należy przenieść ~a na ósemkę kier.
+Ścieżka do zduplikowanej bazy danych sqlite (domyślnie: bez wyszukiwania duplikatów)
+Przeglądaj ślady powstające podczas wykonywania programów wielowątkowych
+Nieprawidłowy bufor przyrostowy %p na pozycji %p ext %p rozmiar %d zasób %p
+Program do przypominania i nauki słówek
+Hardkorowa kosmiczna strzelanka 3D z możliwością uaktualnienia statku kosmicznego
+Przekonstruuj wzór, układając klocki domina wg podawanych szeregów liczb
+Gra liczbowa, polegająca na ułożeniu elementów w kolejności występujących na nich cyfr
+Gra Reversi dla GNOME, wspierająca protokół tekstowy gry Go
+Graficzny interfejs użytkownika dla kalibracji wyświetlania Argyll CMS
+Należy umieścić trójkę trefl obok dwójki trefl.
+Konwertuje współrzędne oraz wymienia je z urządzeniem GPS
+Gra 2D w stylu Worms w której śmieszne postacie strzelają ze śmiesznych broni.
+Otwórz nowe okno z użyciem tymczasowego profilu
+Gra edukacyjna do nauki odnajdywania liter na klawiaturze
+%s: nieprawidłowy znak {. Zagnieżdżone grupowanie jest niedozwolone.
+Naucz się gry na fortepianie, grając w grę
+Miernik poziomu dźwięku sygnałów testowych dla JACK
+Gra stworzona na podstawie filmu Tron, w której poruszasz się motocyklami light cycle
+Program do edycji i przypisywania tagów plikom muzycznym
+Wypełnij siatkę tak aby zakres każdego ponumerowanego kwadratu odpowiadał liczbie
+Kepas - KDE proste publikowanie i dzielenie się treściami
+Instalator wtyczki Adobe Flash dla Mozilli Firefox
+Jaki rodzaj zgłoszenia ma zostać wysłany?
+Należy przenieść coś na puste miejsce zapasu
+Interaktywna aplikacja kreśląca wykresy aktywności systemu sysstat
+Format próbkowania niedostępny dla odtwarzania: %s
+Należy przenieść ~a na asa trefl.
+Przekształca pliki multimediów różnych formatów dla wszystkich Twoich urządzeń
+Środowisko syntezy dźwięku i przetwarzania sygnałów audio
+Trwa zbieranie informacji, które mogą pomóc twórcom programu usunąć zgłoszony błąd.
+Interfejs graficzny do pracy z dyskami sformatowanymi w systemie plików WBFS
+Uruchamianie i zabijanie procesów w zależności od aktywności systemu
+Edytor plików Gerber do projektowania układów drukowanych
+Polifoniczny, wielokanałowy syntezator midi czasu rzeczywistego
+Zabawna gra w stylu klasycznego moon landera
+Częstotliwość się nie zgadza (żądano %iHz, otrzymano %iHz, błąd %d)
+Należy umieścić piątkę pik obok czwórki pik.
+Rysuje krawędzie wzdłuż linii siatki, dzielącej prostokąt według określonych zasad
+Należy umieścić coś w pustym miejscu tableau
+Narzędzie do projektowania, zarządzania i administracji bazą danych MySQL
+Aplikacja oparta na słowniku Felixa Gaffiota
+Sega Master System/Game Gear ROM Player
+Program do obsługi urządzeń Wi-spy do analizy widma częstotliwości 2,4 GHz
+Gra nie ma rozwiązania. Należy cofnąć ruch lub rozpocząć od nowa.
+Szybka, trójwymiarowa strzelanka FPS w stylu Quake III Arena
+Uruchamia interaktywną sesję gdb na zrzucie pamięci zgłoszenia (ignoruje opcję -o; nie przepisuje zgłoszenia)
+Program, który będzie Cię wspierał, pokazując Twoje postępy w walce z paleniem
+Wyświetlanie, modyfikacja i eksport drzew filogenetycznych w formacie PostScript
+Prosty edytor tekstu dla Markdown i reStructuredText
+Przesyła pliki za pomocą protokołów FTP, FTPS lub SFTP
+%s: błąd grupowania wyrażeń regularnych: niedomknięte grupowanie; oczekiwano zamykającego }
+Program do nagrywania nie tylko radia internetowego
+Przeglądarka lokalizacji i stref czasowych świata
+%s: nie można ustawić dostępowego acl dla "%s": %s
+Graficzne narzędzie planowania eksperymentów w naukach socjalnych
+-t,--tick # konwertuje taktowy znacznik czasowy na kolejkę
+Platforma programowania wizualnych strumieni danych dla multimediów
+Należy przenieść ~a na waleta kier.
+Budowanie Środowiska KDE i związanego z nim oprogramowania z kodu źródłowego. Program działa tylko jako wiersz poleceń.
+Umieść ikonę dowolnej aplikacji w obszarze powiadomień/zasobniku systemowym
+Zgłasza błąd działania programu na podstawie określonego pliku .apport lub .crash zamiast oczekujących w %s (wymuszone, jeśli określono plik jako parametr).
+Działania na wyrażeniach algebraicznych oraz kreślenie wykresów
+Zgadnij jaka litera reprezentuje jaką cyfrę
+Częstość próbkowania jest niezgodna (%d) dla %s
+Należy przenieść ~a na damę karo.
+Należy przenieść ~a na czarnego jokera.
+Narzędzie do tworzenia dysków startowych Live USB
+Wymagane jest uwierzytelnienie, aby zmienić konfigurację ekranu logowania
+Brama sieciowa MIDI dla protokołu UDP/IP Multicast
+Przeglądarka widma masowego i analiza proteomiki
+Pozwala na przeglądanie internetu w trybie tekstowym
+QEMU & KVM - menedżer maszyn wirtualnych
+OpenClonk to głównie górnictwo, osadnictwo i szybkie bijatyki
+Uszkodzony plik konfiguracyjny dla tego PCM: brak dostępnych plików konfiguracyjnych
+QTscrobbler służy do przesyłania .scrobbler.log z przenośnych odtwarzaczy do Last.fm
+Flaga profilu "debug" nie jest już prawidłowa.
+Pozwala dzielić się plikami przez anonimową, odporną na cenzurę sieć
+To zgłoszenie o błędzie jest uszkodzone i nie może zostać przetworzone.
+Interaktywne narzędzie do symulacji alkacymetrii (analizy miareczkowej)
+Narzędzie do analizy, kontroli i testowania urządzeń DLNA/UPnP
+Sprzęt i oprogramowanie do tworzenia eksperymentów naukowych
+Ustaw tło pulpitu, menu i zachowanie ikon
+Monitorowanie i kontrola danych SMART twardego dysku
+Emulator KC85 oraz kompatybilnych z nim maszyn
+Darmowa, otwarta mapa lokalizacji objektów komunikacji bezprzewodowej GPS, GSM, WiFi itp.
+Pozwala na przeprowadzanie wyborów poprzez głosowanie
+Uzupełnia informacje techniczne oraz tagi plików audio i wideo
+Wyszukuj filmy na wielu stronach internetowychi uzyskaj informacje o nich
+nie można odtworzyć plików WAVE z próbkowaniem %d bitów na %d bitowym odcinku (%d kanałów)
+Zarządzaj odnośnikami i cytatami w swoich publikacjach (współpracuje m.in. z OpenOffice)
+Generuj siatkę powierzchni w formacie survex
+Szybka gra RTS o komputerach, systemach, hakerach i sieciach.
+Monofoniczna wtyczka syntezatora z dwoma oscylatorami i kształtowaniem przebiegu
+Nigdy nie głaszcz psa pod włos
+Zestaw gier edukacyjnych dla dzieci w wieku od 2 do 10 lat
+Antyczna, chińska gra planszowa dla 4 graczy
+aconnect - zarządca połączenia sekwencera ALSA
+Anulowanie i &ignorowanie przyszłych awarii tej wersji programu
+Szkicuje i wykonuje kalkulacje struktur chemicznych
+Odczytuje informacje z plików avi lub mkv
+nieprawidłowa ilość parametrów. Proszę użyć opcji --help, aby uzyskać więcej informacji.
+Sporadycznie wysyłaj informacje do firmy Canonical
+Typ dostępu niedostępny dla odtwarzania: %s
+Utwórz swoje własne biblioteki mebli dla SweetHome3D
+należy wykonać operację lokalną (-s, -g, -o) lub wskazać plik uwierzytelnienia (--auth); krótka pomoc dostępna jest z --helpy
+Analizuj i filtruj swoje dane XML w trybie graficznym
+Tryb nieprawidłowy. Przed "x" należy użyć znacznika wykonania "i", "p" albo "u".
+Tworzy i edytuje tekst wraz z grafiką w listach, raportach, dokumentach i na stronach www za pomocą serwisu internetowego Zoho
+Otwórz nowe okno w trybie prywatnym
+Szczegółowa symulacja do poznawania Układu Słonecznego
+Doskonały program do gry w tryktraka, jej nauki oraz analizy
+Odczyt, zapis i modyfikacja obrazów ISO
+Należy przenieść ~a na piątkę kier.
+Pozwala nagrywać i zapisywać to, co widzisz na ekranie monitora
+Słuchaj, przeglądaj i edytuj swoją kolekcję nagrań audio
+Manipulacja i przegląd struktur atomowych oraz wiązań chemicznych
+Podejrzana pozycja bufora (%li wszystkich): dostępne = %li, opóźnienia = %li, bufor = %li
+uprawnienia odnośników nie są dozwolone w zmianie nazwanego profilu.
+Gra typu puzzle, podobna do Tetris Attack
+Aby wygrać, twórz linie o jednakowych kolorach
+Odtwarzacz TV dla kart wideo ATI
+Gra RTS, w której zarządzasz antycznymi wojskami
+Pakiet biurowy obsługujący najpopularniejsze formaty dokumentów oraz standard ODF
+Zarządzanie wydrukiem wielu kolorowych obrazów na jednej stronie
+Bezpośrednio modyfikuje i konfiguruje Twoją bazę danych
+Buduje tymczasowy sandbox oraz pobiera/instaluje w nim potrzebne pakiety wraz z symbolami debugowania. Bez tej opcji założone zostaje, że niezbędne pakiety i symbole są już zainstalowane w systemie. Argument wskazuje na katalog bazy konfiguracji systemu pakietów. Wybranie opcji "system" skutkuje użyciem plików konfiguracji systemu - możliwe będzie wyłącznie śledzenie i analiza (retrace) problemów, które miały miejsce w bieżąco zainstalowanym wydaniu systemu.
+Narzędzie graficzne do wyszukiwania i usuwania osieroconych bibliotek
+Nakładka graficzna na Axela - lekkiego akceleratora pobierania
+Wyszukuje tłumaczeń w słowniku lokalnym oraz internetowym
+Graj w gry z Super Nintendo Entertainment System
+Można przenieść coś w puste miejsce
+Oczyść statek kosmiczny ze wszystkich droidów
+Narzędzie do zarządzania muzyką dla urządzeń Creative Nomad/Zen oraz Dell DJs
+Pobieranie i wysyłanie plików, przy pomocy wielu protokołów
+Zaawansowane narzędzie do przeprowadzania badań i analiz genealogicznych
+Wyświetla i tymczasowo instaluje wszystkie rodzaje czcionek
+Doskonała gra do nauki języków programowania
+GUI dla mp3gain, vorbisgain oraz aacgain
+Pozwala na przyjazną użytkownikowi edycję oraz tworzenie obrazów
+Unikaj robotów i spraw, by rozbijały się o siebie
+Należy przenieść ~a na dziesiątkę karo.
+Program do nauki, utrwalania i pomocy w zapamiętywaniu
+Tworzy i edytuje trówymiarowe modele i animacje
+Przywraca konfiguracje eCryptfs i montuje hasła
+Narzędzie dźwiękowe do budowy sieci przetwarzania przez łączenie funkcjonalnych boxów
+Należy określić pakiet lub identyfikator procesu. Proszę użyć opcji --help, aby uzyskać więcej informacji.
+Przeglądarka diagramów definicji (XSD) schematów XML
+Czyszczenie planszy przez usuwanie grup kulek jednego koloru i kształtu
+Klient VDR Xineliboutput - Frontend FrameBuffer
+Niektóre wersje pakietów są już przestarzałe. Proszę zaktualizować następujące pakiety i sprawdzić, czy problem nadal występuje: %s
+Należy przenieść ~a na dwójkę karo.
+Darmowy słownik języka japońskiego z asystentem nauczania
+Proszę zgłosić ten błąd autorom programu.
+Zmiana rozdzielczości i położenia monitorów oraz projektorów
+DXX-Rebirth źródłowy port Descent: First Strike z 1995
+Gra przygodowa science-fiction, której akcja ma miejsce w postapokaliptycznej wizji przyszłości
+Zgłasza błąd dotyczący symptomu (wymuszone jeśli podano nazwę symptomu jako parametr)
+Aplikacja do renderingu objętościowego dużych danych
+Program do współpracy ze skanerem. Może być użyty do skanowania, kopiowania, rozpoznawania tekstu i wysyłania faxów.
+Należy przenieść ~a na puste lewe miejsce.
+Odtwarzacz plików audio z rozciąganiem podstawy czasu
+Nie można odnaleźć ostatnio wybranej gry.
+Błędny znacznik wykonania "i". Wcześniej użyto sprzecznego znacznika.
+Powiadamianie o nowych wiadomościach poczty e-mail
+Mikser dla serwera dźwięku PulseAudio (GTK+)
+Komunikator internetowy z obsługą wielu protokołów, miedzy innymi: AIM, Google Talk, Jabber/XMPP, MSN, Yahoo!, Gadu-Gadu
+Błąd: nie można wykonać %s. Zatrzymywanie.
+Arkusz kalkulacyjny pozwalający na przeprowadzanie zaawansowanych obliczeń oraz tworzenie algorytmów i formuł
+Należy przenieść ~a na dziewiątkę trefl.
+Gra do nauki alfabetu, dla małych dzieci
+Zarządzanie nagraniami EEG, wyświetlanie i ocena plików EDF, oraz symulacja Process S
+Interfejs GTK do synchronizacji plików dla programu Unizon (wersja 2.32.52)
+Nie można naprawić skutków niedopełnienia bufora, przygotowanie nie udało się: %s
+Spróbuj `%s --help' żeby uzyskać więcej informacji.
+Błąd łączenia reguł dla profilu %s. Wczytanie nie powiodło się.
+Niektóre z nich mogą być niedostępne na wybranym urządzeniu
+Zagraj w tenisa przeciwko komputerowi lub koledze
+Analiza i generowanie sygnału audio poprzez ALSA
+Czytnik przeglądarki internetowej dla tabletów dotykowych
+Jeśli wystąpią kolejne awarie, proszę spróbować ponownie uruchomić komputer.
+Pozwala na oglądanie telewizji na ekranie komputera
+Należy przenieść ~a na ósemkę karo.
+Konfiguracja klawiatury, myszy i innych urządzeń wejścia
+Przeglądarka internetowa działająca w trybie graficznym i tekstowym
+usługi '%s' nie znaleziono w /etc/services
+Mission Pack 1 dla klasycznej strzelanki FPS
+Należy przenieść kartę lub stos kart na puste miejsce
+Nie udało się określić identyfikatora okna procesu przy użyciu programu xprop
+Uruchom przetwarzanie audio w interfejsie graficznym QT
+Należy przenieść ~a na trójkę trefl.
+Należy przenieść ~a na dziewiątkę kier.
+Metapakiet dla środowiska pulpitowego Lightweight X11
+Należy umieścić dziesiątkę kier obok dziewiątki kier.
+Interfejs graficzny do zdalnego sterowania demonem Transmission
+Pozwala montować obrazy iso jako wirtualne napędy CD-ROM/DVD-ROM
+Twórz, graj, organizuj i zarządzaj instrumentami i dźwiękami MIDI
+Nie można użyć okresu odpowiadającego rozmiarowi bufora (%lu == %lu)
+Gra polegająca na odgadnięciu nieznanej liczby, na zasadach podobnych do Mastermind
+Konfiguracja źródeł pakietów oprogramowania i aktualizacji
+Częstotliwość %iHz niedostępna dla odtwarzania: %s
+Wolne środowisko dla inżynierów i naukowców do tworzenia prototypów i obróbki danych
+Z pewnością wraz z niniejszym programem dostarczono także egzemplarz Powszechnej Licencji Publicznej GNU (GNU General Public License); jeśli nie - proszę odwiedzić stronę internetową .slot type
+Program do tworzenia animacji z obsługą kamer
+Wyświetla obrazy, które ewoluują wraz z dźwiękiem
+Należy umieścić dziesiątkę karo obok dziewiątki karo.
+Wysłanie zgłoszenia o błędzie, aby pomóc go usunąć
+Nie można wyświetlić pomocy dla "%s"
+Podział jednej myszy i urządzenia wskazującego pomiędzy kilka komputerów
+%s: do uruchomienia tego programu wymagane są uprawnienia administratora.
+Zebrane informacje mogą zostać wysłane do twórców, aby ulepszyć program. To może potrwa kilka minut.
+Należy przenieść ~a na dwójkę trefl.
+Pozwala na przeglądanie dużych zbiorów informacji
+Wymagane jest uwierzytelnienie, aby zmienić własne dane
+Narzędzie do ustawiania alarmów graficznych i dźwiękowych dla tabletów
+Pozwala na ustawienie codziennie wyświetlanego okna z wiadomościami do przeczytania
+Przesyła dane i aktualizuje bazy danych DNA GenBank, EMBL, DDBJ
+Połącz kropki tak, aby otrzymać kwadraty
+Aplikacja pozwala na dzielenie plików dźwiękowych WAV na kilka mniejszych części
+Klocki umarlaków. Gra typu Tetris Attack z ciekawą scenerią
+Intuicyjna i łatwa w użyciu książka adresowa
+Raportowanie postępu pobierania/instalacji podczas instalowania pakietów do sandbox
+Graficzny interfejs użytkownika dla SSH i SCP
+Multimedialna rozrywka edukacyjna: puzzle, skojarzenia, krzyżówki, zadania tekstowe itp.
+Tworzy wizualizacje dla strumieni dźwięku z serwera PulseAudio
+Genialny terminal z przezroczystym tłem, umożliwiającym czytanie komend z innych okien
+Należy umieścić szóstkę karo obok piątki karo.
+Porgram do przeprowadzania zaawansowanych obliczeń i przekształceń matematycznych oraz rysowania wykresów 3D
+Menedżer maszyn wirtualnych, pozwalający na uruchamianie na jednym komputerze kilku innych systemów
+Proste w obsłudze środowisko do edycji, klasyfikacji i przeglądania dokumentów TeX
+Pozwala konstruować, przeglądać i analizować struktury atomow
+Edytor hex dla dużych plików i urządzeń
+aseqnet - sieciowy klient/sewer dla sekwencera ALSA
+Kreator importu i migracji danych z programów pocztowych thunderbird / evolution itp.
+%s: %s: Tylko katalogi mogą mieć domyślne ACL-e
+Należy przenieść ~a na trójkę kier.
+Przenoś uruchomione aplikacje między komputerami w sieci
+Katalog sandbox nie zostanie utworzony ani użyty ponownie dla dodatkowych symboli debugowania. Polegamy tylko na symbolach już zainstalowanych.
+Należy przenieść króla na puste miejsce tableau.
+Uwaga: nie można znaleźć systemu plików w %s, czy jest on zamontowany? Opcja --subdomainfs wymusza typ systemu plików.
+Instaluje dodatkowy pakiet w piaskownicy (można użyć wiele razy)
+Wtyczka Firefox do szybkiego przeszukiwania witryny Launchpad
+Gadający, pełny przydatnych funkcji konfiguracji budzik z możliwością włączenia komputera
+%s: Napotkano błędy podczas przetwarzania. Proces przerwano.
+Emulator Super Nintendo Entertainment System (TM)
+Określony identyfikator procesu nie powiązany jest z żadnym programem.
+Standardowy emulator terminala dla systemu X Window
+Najokrutniejszy Tetris, w jakiego kiedykolwiek grałeś!
+Pozwala na dzielenie plików w sieci DC++
+Można spróbować zdjąć karty z podkładu
+Łączenie wpisów nie powiodło się. Brak pamięci.
+Pozwala na tworzenie zdjęć i nagrywanie filmów z zabawnymi efektami za pomocą kamery internetowej
